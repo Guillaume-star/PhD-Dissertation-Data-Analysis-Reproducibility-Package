@@ -1,0 +1,43 @@
+criterion,check,status,failures,detail
+provenance,dataset_sha256,INFO,0,25dcf2247880d249e5bd188c5c7624b843764838dc39c476543ad5ada86ac47d
+provenance,rows_enhanced_phishing,INFO,0,3477
+provenance,rows_legitimate,INFO,0,19393
+provenance,rows_original_phishing,INFO,0,3477
+schema,required_columns_present,PASS,0,
+schema,known_variants_only,PASS,0,
+schema,label_matches_variant_and_source,PASS,0,
+pairs,legitimate_pair_ids_unique,PASS,0,
+pairs,original_pair_ids_unique,PASS,0,
+pairs,enhanced_pair_ids_unique,PASS,0,
+pairs,every_phishing_pair_complete,PASS,0,
+pairs,pair_members_share_source_record,PASS,0,
+pairs,enhanced_identical_to_original,INFO,58,nazario_000051 nazario_000119 nazario_000154 nazario_000157 nazario_000257 nazario_000263 nazario_000330 nazario_000333 nazario_000353 nazario_000415
+inclusion,no_blank_body_model,PASS,0,
+inclusion,word_count_25_500_both_measures,PASS,0,
+inclusion,date_parseable,PASS,0,
+inclusion,date_before_2020,PASS,0,
+inclusion,earliest_year,INFO,0,1970
+symmetry,no_unnormalized_typographic_characters,PASS,0,
+symmetry,whitespace_collapsed,PASS,0,
+symmetry,no_image_placeholders,PASS,0,
+symmetry,no_receiving_server_stamps_body_model,PASS,0,
+symmetry,no_receiving_server_stamps_body_display,PASS,0,
+symmetry,words_mixing_latin_with_greek_or_cyrillic,INFO,7,"look-alike obfuscation is excluded (D15, D23); remaining cases are encoding damage kept under D13"
+symmetry,non_ascii_share_legitimate,INFO,0,0.0%
+symmetry,non_ascii_share_original_phishing,INFO,0,2.0%
+symmetry,non_ascii_share_enhanced_phishing,INFO,0,1.8%
+uniqueness,no_exact_duplicate_body_legitimate,PASS,0,
+uniqueness,no_exact_duplicate_body_original_phishing,PASS,0,
+uniqueness,no_exact_duplicate_body_enhanced_phishing,PASS,0,
+uniqueness,no_body_shared_between_classes,PASS,0,
+uniqueness,near_duplicate_pairs_ge_0.95_legitimate,INFO,13,same-representation recheck; small counts can arise because TF-IDF weights depend on the corpus
+uniqueness,near_duplicate_pairs_ge_0.95_original_phishing,INFO,23,same-representation recheck; small counts can arise because TF-IDF weights depend on the corpus
+enhancement_fidelity,word_ratio_within_bounds,PASS,0,
+enhancement_fidelity,no_model_refusal_or_commentary,PASS,0,
+enhancement_fidelity,url_hosts_and_emails_preserved,PASS,0,
+leakage_controls,template_family_assigned,PASS,0,
+leakage_controls,pair_members_share_template_family,PASS,0,
+leakage_controls,template_families_single_class,PASS,0,
+leakage_controls,template_family_size_consistent,PASS,0,
+lineage,source_record_present,PASS,0,
+lineage,source_record_unique_within_variant,PASS,0,

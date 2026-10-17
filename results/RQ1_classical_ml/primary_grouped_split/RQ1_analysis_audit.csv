@@ -1,0 +1,20 @@
+item,value
+master_dataset,processed/dissertation_aligned_source_qc/Final_Paired_Email_Dataset.csv
+master_dataset_sha256,25dcf2247880d249e5bd188c5c7624b843764838dc39c476543ad5ada86ac47d
+legitimate_pair_ids,19393
+complete_phishing_pair_ids,3477
+split,grouped
+iterations,500
+test_size,0.3
+train_size,0.7
+models,"logistic_regression, linear_svm, random_forest"
+class_weight,"balanced (LR, SVM); balanced_subsample (RF)"
+decision_rule,default cutoff: predict() (probability 0.5; SVM score 0)
+tfidf_ngram_range,"(1, 2)"
+tfidf_min_df,2
+tfidf_max_features,50000
+rf_estimators,100
+seed,930
+runtime_seconds,5971.748
+runtime_minutes,99.529
+run_label,grouped

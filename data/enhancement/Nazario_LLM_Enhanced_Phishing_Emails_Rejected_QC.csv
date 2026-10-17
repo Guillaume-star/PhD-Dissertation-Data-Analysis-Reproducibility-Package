@@ -1,0 +1,814 @@
+source_file,source_index,message_id,date_raw,date,year,from,to,subject,body_display,body_char_count,body_word_count,body_whitespace_word_count,is_pre_2020,is_blank_body,has_reply_forward_subject,has_reply_forward_body_marker,has_embedded_header_block,passes_body_length_filter,visible_text_hash,likely_non_standalone,prelim_standalone_pre2020_candidate,is_duplicate_visible_text,prelim_candidate_after_dedup,subject_original,body_display_original,random_padding_lines_removed,visible_text_hash_cleaned,body_content_hash_cleaned,is_likely_non_english,fails_clean_body_length_filter,before_replacement_char_count,before_mojibake_marker_count,before_html_tag_count,before_html_entity_count,before_html_attribute_count,before_quoted_printable_marker_count,before_iso2022jp_escape_count,before_dense_encoded_payload_count,before_control_char_count,before_non_ascii_count,before_non_ascii_ratio,after_replacement_char_count,after_mojibake_marker_count,after_html_tag_count,after_html_entity_count,after_html_attribute_count,after_quoted_printable_marker_count,after_iso2022jp_escape_count,after_dense_encoded_payload_count,after_control_char_count,after_non_ascii_count,after_non_ascii_ratio,has_heavy_encoding_artifact,has_literary_padding_artifact,has_remaining_text_artifact,drop_from_cleaned_phishing,is_duplicate_visible_text_after_cleaning,is_duplicate_body_content_after_cleaning,is_duplicate_after_cleaning,source_qc_body_word_count,source_qc_stopword_ratio,source_qc_unique_token_ratio,source_qc_dutch_cue_count,source_qc_german_cue_count,source_qc_literary_strong_unique,source_qc_literary_context_unique,source_qc_random_prose_unique,source_qc_confusable_chars,source_qc_meaningful_phishing_structure,source_qc_review_flags,source_qc_exclusion_reasons,exclude_invalid_source_record,row_index,near_duplicate_threshold,near_duplicate_cluster_id,near_duplicate_cluster_size,is_near_duplicate_representative,representative_row_index,representative_source_file,representative_source_index,representative_subject,similarity_to_representative,pair_id,source_dataset,label,label_binary,variant,body_model,original_body_sha256,enhanced_body_last_attempt,enhancement_qc_passed,enhancement_qc_reasons,enhancement_attempts,llm_model,llm_response_model,llm_response_id,llm_temperature,llm_prompt,llm_system_message_arm,llm_system_message,original_strict_token_word_count,enhanced_strict_token_word_count,original_whitespace_word_count,enhanced_whitespace_word_count,original_deduplicated_word_count,enhanced_to_original_word_ratio,enhanced_to_deduplicated_original_word_ratio,enhanced_to_original_char_ratio,missing_original_links_or_emails
+phishing0.mbox,393,<200506082207.j58M7onB015756@serv-2-5-117.lycos-vds.com>,"Wed, 8 Jun 2005 23:07:50 +0100",2005-06-08T23:07:50+01:00,2005,eBay <aw-confirm@ebay.com>,username@domain.com,FPA NOTICE : eBay User Suspension,"Dear eBay User
+
+Dear eBay user,
+
+We regret to inform you that
+your eBay registration has been suspended for an indefinite amount of time
+due to the violation of our site policy below:
+
+* Shill Bidding, deliberate - The deliberate use of secondary User IDs or
+other eBay members to artificially raise the level of bidding and/or price
+of an item. Please remember that family members or housemates should not
+be bidding on each other's auctions.
+
+If you believe that this action may have been taken in error, or, if you
+feel that your account may have been tampered with, please respond to this
+message so that we can provide additional information and work with you to
+resolve this issue.
+
+Please provide us the necessary information in order to prove the ownership of the account, by
+logging directly to our safe and trust link.
+
+https://signin.ebay.com/ws/eBayISAPI.dll?SignIn
+
+After responding to the message, we ask that you allow at least 72 hours
+for the case to be investigated. Emailing us before that time will result
+in delays. We apologies in advance for any inconvenience this may cause
+you and we would like to thank you for your cooperation as we review this
+matter.
+
+If you have received this notice and you are not the authorized account
+holder, please be aware that it is a violation of eBay policy to represent
+oneself as another eBay user. Such action may also be in violation of
+local, national, and/or international law. eBay is committed to assist law
+enforcement with any inquires related to attempts to misappropriate personal
+information with the intent to commit fraud or theft. Information will be
+provided at the request of law enforcement agencies to ensure that
+perpetrators are prosecuted to the fullest extent of the law.
+
+Best Wishes,
+
+eBay Trust and Safety
+
+eBay International AG",1812,310,303,True,False,False,False,False,True,261b3dac443f0e7bb8deb45190d9f03a0d080de53355a788c7a9bb7ee4946e48,False,True,False,True,FPA NOTICE : eBay User Suspension,"New Page 1
+
+New Page 1
+
+Dear eBay User
+
+Dear eBay user,
+
+We regret to inform you that
+your eBay registration has been suspended for an indefinite amount of time
+due to the violation of our site policy below:
+
+* Shill Bidding, deliberate - The deliberate use of secondary User IDs or
+other eBay members to artificially raise the level of bidding and/or price
+of an item. Please remember that family members or housemates should not
+be bidding on each other's auctions.
+
+If you believe that this action may have been taken in error, or, if you
+feel that your account may have been tampered with, please respond to this
+message so that we can provide additional information and work with you to
+resolve this issue.
+
+Please provide us the necessary information in order to prove the ownership of the account, by
+logging directly to our safe and trust link.
+
+https://signin.ebay.com/ws/eBayISAPI.dll?SignIn
+
+After responding to the message, we ask that you allow at least 72 hours
+for the case to be investigated. Emailing us before that time will result
+in delays. We apologies in advance for any inconvenience this may cause
+you and we would like to thank you for your cooperation as we review this
+matter.
+
+If you have received this notice and you are not the authorized account
+holder, please be aware that it is a violation of eBay policy to represent
+oneself as another eBay user. Such action may also be in violation of
+local, national, and/or international law. eBay is committed to assist law
+enforcement with any inquires related to attempts to misappropriate personal
+information with the intent to commit fraud or theft. Information will be
+provided at the request of law enforcement agencies to ensure that
+perpetrators are prosecuted to the fullest extent of the law.
+
+Best Wishes,
+
+eBay Trust and Safety
+
+eBay International AG",0,ed34691965b9bf83b170b9593c373bc12d74798422dc9df8cf983c5450a5e5cd,0cc318960a3faf82fe93664cb7c0e9307adade0bcdd595025e385234ea93e2a9,False,False,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,False,False,False,False,False,False,False,311,0.4804,0.5229,0,0,0,0,0,,True,,,False,405,95,nd095_000267,1,True,405,phishing0.mbox,393,FPA NOTICE : eBay User Suspension,1.0,nazario_000259,nazario,phishing,1,original_phishing,"Dear eBay User Dear eBay user, We regret to inform you that your eBay registration has been suspended for an indefinite amount of time due to the violation of our site policy below: * Shill Bidding, deliberate - The deliberate use of secondary User IDs or other eBay members to artificially raise the level of bidding and/or price of an item. Please remember that family members or housemates should not be bidding on each other's auctions. If you believe that this action may have been taken in error, or, if you feel that your account may have been tampered with, please respond to this message so that we can provide additional information and work with you to resolve this issue. Please provide us the necessary information in order to prove the ownership of the account, by logging directly to our safe and trust link. https://signin.ebay.com/ws/eBayISAPI.dll?SignIn After responding to the message, we ask that you allow at least 72 hours for the case to be investigated. Emailing us before that time will result in delays. We apologies in advance for any inconvenience this may cause you and we would like to thank you for your cooperation as we review this matter. If you have received this notice and you are not the authorized account holder, please be aware that it is a violation of eBay policy to represent oneself as another eBay user. Such action may also be in violation of local, national, and/or international law. eBay is committed to assist law enforcement with any inquires related to attempts to misappropriate personal information with the intent to commit fraud or theft. Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law. Best Wishes, eBay Trust and Safety eBay International AG",c86fdd2e1f5eb8fd9ddf7325c9bb97633ec83827cac9de7662ba76debbfb30ab,"Dear eBay User, We regret to inform you that your eBay registration has been suspended for an indefinite period due to a violation of our site policy below: * Shill Bidding, deliberate - The deliberate use of secondary User IDs or other eBay members to artificially raise the level of bidding and/or the price of an item. Please remember that family members or housemates should not be bidding on each other's auctions. If you believe that this action may have been taken in error, or if you feel that your account may have been tampered with, please respond to this message so that we can provide additional information and work with you to resolve this issue. Please provide us with the necessary information to prove ownership of the account by logging directly to our safe and trusted link. https://signin.ebay.com/ws/eBayISAPI.dll?SignIn After responding to this message, we ask that you allow at least 72 hours for the case to be investigated. Emailing us before that time will result in delays. We apologize in advance for any",False,enhanced_output_too_short_relative_to_original,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_00594f761099bfa3006ac59a3aae2487d2a335f7c8f2a68ac0,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",310,180,303,174,310,0.5806,0.5806,0.5736,
+phishing3.mbox,233,<QRRTAYWEFDXQMVQVMTLGSRKVD@msn.com>,"Wed, 09 Nov 2005 06:13:35 +0600",2005-11-09T06:13:35+06:00,2005,"""Sky Bank Security Department"" <support@skyfi.com>",user@biochemistry.bioc.cwru.edu,Confirm your Online Sky Banking records,"Sky Bank
+
+Dear Sky
+Bank Customer,
+
+It
+
+has come to our attention that
+your account information needs to be updated as part
+
+of our continuing
+commitment to protect your account and to reduce the instance of
+
+fraud
+on our website.
+
+If you could
+
+please take 5-10
+minutes out of your online experience and update your personal
+
+records you
+will not run in any future problems with the online service.
+
+To get started please click the
+link below:
+
+https://connect.skyfi.com/servlet/SignOn?
+
+RestrictedAccounts/
+
+If your
+
+account information is not
+updated within 48 hours then
+
+your ability
+to use your online account will become restricted.
+
+Thank you for your prompt attention
+to this matter.
+
+Please understand that this is a security measure meant
+to help protect you and your
+
+account.
+
+If you have any questions,
+
+feel
+free to contact our customer support department any time at:
+
+customer-
+
+support@skybank.com
+
+We apologize for any inconvenience this may cause, and
+appreciate your assistance in
+
+helping us maintain the integrity of the entire
+Sky Bank
+
+system.
+
+Sincerely,
+
+Leah Evans, Sky
+
+Bank
+
+Copyright 2005,
+Sky Bank
+
+Corporation. All Rights Reserved.",1163,187,180,True,False,False,False,False,True,6873d8607b2b51023b00aca81759889a730db06f88c23d93be33cc37a5aeea3b,False,True,False,True,Confirm your Online Sky Banking records,"Sky Bank
+
+Dear Sky
+Bank Customer,
+
+It
+
+has come to our attention that
+your account information needs to be updated as part
+
+of our continuing
+commitment to protect your account and to reduce the instance of
+
+fraud
+on our website.
+
+If you could
+
+please take 5-10
+minutes out of your online experience and update your personal
+
+records you
+will not run in any future problems with the online service.
+
+To get started please click the
+link below:
+
+https://connect.skyfi.com/servlet/SignOn?
+
+RestrictedAccounts/
+
+If your
+
+account information is not
+updated within 48 hours then
+
+your ability
+to use your online account will become restricted.
+
+Thank you for your prompt attention
+to this matter.
+
+Please understand that this is a security measure meant
+to help protect you and your
+
+account.
+
+If you have any questions,
+
+feel
+free to contact our customer support department any time at:
+
+customer-
+
+support@skybank.com
+
+We apologize for any inconvenience this may cause, and
+appreciate your assistance in
+
+helping us maintain the integrity of the entire
+Sky Bank
+
+system.
+
+Sincerely,
+
+Leah Evans, Sky
+
+Bank
+
+� Copyright 2005,
+Sky Bank
+
+Corporation. All Rights Reserved.",0,b8c54529923985f19ca2203e4e310e3997db2a537db14780b1ef34e70f9821eb,71c03633e4b1ec7ef9906c62e72b4a282f74391a7bd1163b487c2decd5270af4,False,False,1,1,0,0,0,0,0,0,0,1,0.0008291873963515,0,0,0,0,0,0,0,0,0,0,0.0,False,False,False,False,False,False,False,188,0.547,0.6133,0,0,0,0,0,,True,,,False,1166,95,nd095_000720,1,True,1166,phishing3.mbox,233,Confirm your Online Sky Banking records,1.0,nazario_000703,nazario,phishing,1,original_phishing,"Sky Bank Dear Sky Bank Customer, It has come to our attention that your account information needs to be updated as part of our continuing commitment to protect your account and to reduce the instance of fraud on our website. If you could please take 5-10 minutes out of your online experience and update your personal records you will not run in any future problems with the online service. To get started please click the link below: https://connect.skyfi.com/servlet/SignOn? RestrictedAccounts/ If your account information is not updated within 48 hours then your ability to use your online account will become restricted. Thank you for your prompt attention to this matter. Please understand that this is a security measure meant to help protect you and your account. If you have any questions, feel free to contact our customer support department any time at: customer- support@skybank.com We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Sky Bank system. Sincerely, Leah Evans, Sky Bank Copyright 2005, Sky Bank Corporation. All Rights Reserved.",4fcc8a5fcb00a280e275fc3fcc6ceb2c6d76d65385e369a46617f748a01b33ea,"Sky Bank Dear Sky Bank Customer, It has come to our attention that your account information needs to be updated as part of our continuing commitment to protect your account and reduce the incidence of fraud on our website. If you could please take 5-10 minutes out of your online experience to update your personal records, you will not run into any future problems with the online service. To get started, please click the link below: https://connect.skyfi.com/servlet/SignOn? RestrictedAccounts/ If your account information is not updated within 48 hours, then your ability to use your online account will become restricted. Thank you for your prompt attention to this matter. Please understand that this is a security measure meant to help protect you and your account. If you have any questions, feel free to contact our customer support department any time at: customer-support@skybank.com We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Sky Bank system. Sincerely, Leah Evans, Sky Bank Copyright 2005, Sky Bank Corporation. All Rights Reserved.",False,urls_or_email_addresses_removed,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_078ca80580ff11f5006ac59ed381a887d2aaff912be05ed504,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",187,185,180,178,187,0.9893,0.9893,1.0009,support@skybank.com
+phishing3.mbox,263,<200601101028.FAA25765@mail.example.com>,"Tue, 10 Jan 2006 01:07:07 -0500",2006-01-10T01:07:07-05:00,2006,"""eBay Security Department"" <account.access@eBay.com>",undisclosed-recipients: ;,eBay TKO NOTICE : Your account could be suspended,"Dear valued eBay member
+
+Due to recent activity, including possible unauthorized user registration data
+changes, we have temporarily suspended activity on your account in order to
+allow us to investigate this matter further. If you believe that this action may
+have been taken in error, or, if you feel that your account may have been
+tampered with, please update the user registration data on file.
+
+Please allow at least 72 hours for an email reply. Emailing us prior to
+receiving our reply will result in an additional delay.
+
+If you received this notice and you are not the authorized account holder,
+please be aware that it is in violation of eBay policy to represent oneself as
+another eBay user. Such action may also be in violation of local, national,
+and/or international law. eBay is committed to assist law enforcement with any
+inquiries related to attempts to misappropriate persoaynal information with
+the intent to commit fraud or theft. Information will be provided at the
+request of law enforcement agencies to ensure that perpetrators are prosecuted
+to the fullest extent of the law.
+
+To reactivate your eBay account click here:
+
+http://www.ebay.com/saw-cgi/eBayISAPI.dll/?VerifyRegistrationShow/
+
+This eBay notice was sent to you based on your eBay account preferences. If you would like to review your notification preferences for other types of communications,
+click here . If you would like to receive this email in text only,
+click here .
+
+As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements. Visit our Privacy Policy and User Agreement if you have any questions.
+
+Copyright яFFFFA9 2003 eBay Inc. All Rights Reserved.
+Designated
+trademarks and brands are the property of their respective owners.
+
+eBay and the eBay logo are trademarks of eBay Inc.",1833,297,291,True,False,False,False,False,True,36381088c6ea63a7e3a3b8c98292aa544e9ca5284aacc4a32ea539c969485c08,False,True,False,True,eBay TKO NOTICE : Your account could be suspended,"Dear valued eBay member
+
+Due to recent activity, including possible unauthorized user registration data
+changes, we have temporarily suspended activity on your account in order to
+allow us to investigate this matter further. If you believe that this action may
+have been taken in error, or, if you feel that your account may have been
+tampered with, please update the user registration data on file.
+
+Please allow at least 72 hours for an email reply. Emailing us prior to
+receiving our reply will result in an additional delay.
+
+If you received this notice and you are not the authorized account holder,
+please be aware that it is in violation of eBay policy to represent oneself as
+another eBay user. Such action may also be in violation of local, national,
+and/or international law. eBay is committed to assist law enforcement with any
+inquiries related to attempts to misappropriate persoaynal information with
+the intent to commit fraud or theft. Information will be provided at the
+request of law enforcement agencies to ensure that perpetrators are prosecuted
+to the fullest extent of the law.
+
+To reactivate your eBay account click here:
+
+http://www.ebay.com/saw-cgi/eBayISAPI.dll/?VerifyRegistrationShow/
+
+This eBay notice was sent to you based on your eBay account preferences. If you would like to review your notification preferences for other types of communications,
+click here . If you would like to receive this email in text only,
+click here .
+
+As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements. Visit our Privacy Policy and User Agreement if you have any questions.
+
+Copyright яFFFFA9 2003 eBay Inc. All Rights Reserved.
+Designated
+trademarks and brands are the property of their respective owners.
+
+eBay and the eBay logo are trademarks of eBay Inc.",0,36381088c6ea63a7e3a3b8c98292aa544e9ca5284aacc4a32ea539c969485c08,f2e9d9191c5b900f555fa9fa656679528cb84c0ec4a937df9ad04cad3095a707,False,False,0,0,0,0,0,0,0,0,0,1,0.0005307855626326,0,0,0,0,0,0,0,0,0,1,0.0005307855626326,False,False,False,False,False,False,False,298,0.4777,0.5258,0,0,0,0,0,я U+044F CYRILLIC SMALL LETTER YA,True,non_latin_confusable_or_obfuscation_review,,False,1176,95,nd095_000725,1,True,1176,phishing3.mbox,263,eBay TKO NOTICE : Your account could be suspended,1.0,nazario_000708,nazario,phishing,1,original_phishing,"Dear valued eBay member Due to recent activity, including possible unauthorized user registration data changes, we have temporarily suspended activity on your account in order to allow us to investigate this matter further. If you believe that this action may have been taken in error, or, if you feel that your account may have been tampered with, please update the user registration data on file. Please allow at least 72 hours for an email reply. Emailing us prior to receiving our reply will result in an additional delay. If you received this notice and you are not the authorized account holder, please be aware that it is in violation of eBay policy to represent oneself as another eBay user. Such action may also be in violation of local, national, and/or international law. eBay is committed to assist law enforcement with any inquiries related to attempts to misappropriate persoaynal information with the intent to commit fraud or theft. Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law. To reactivate your eBay account click here: http://www.ebay.com/saw-cgi/eBayISAPI.dll/?VerifyRegistrationShow/ This eBay notice was sent to you based on your eBay account preferences. If you would like to review your notification preferences for other types of communications, click here . If you would like to receive this email in text only, click here . As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements. Visit our Privacy Policy and User Agreement if you have any questions. Copyright яFFFFA9 2003 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. eBay and the eBay logo are trademarks of eBay Inc.",502b7af5fc34531f50e0be651fe34a92d29549a422b16b05dea243915fb02648,"Dear valued eBay member Due to recent activity, including possible unauthorized user registration data changes, we have temporarily suspended activity on your account in order to allow us to investigate this matter further. If you believe that this action may have been taken in error, or if you feel that your account may have been tampered with, please update the user registration data on file. Please allow at least 72 hours for an email reply. Emailing us prior to receiving our reply will result in an additional delay. If you received this notice and you are not the authorized account holder, please be aware that it is in violation of eBay policy to represent oneself as another eBay user. Such action may also be in violation of local, national, and/or international law. eBay is committed to assisting law enforcement with any inquiries related to attempts to misappropriate personal information with the intent to commit fraud or theft. Information will be provided at the request of law enforcement agencies",False,enhanced_output_too_short_relative_to_original | urls_or_email_addresses_removed,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_089659c1e980fd5e006ac59eec091c87d2864bbaabdb9428ec,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",297,169,291,168,297,0.569,0.569,0.5592,www.ebay.com
+phishing3.mbox,1043,<200609271225435.SM01180@User>,"Wed, 27 Sep 2006 13:27:01 -0400",2006-09-27T13:27:01-04:00,2006,"""eBay""<aw-confirm@ebay.com>",undisclosed-recipients:;,Question about Item -- Respond Now,"eBay sent
+this message to you.
+Your registered name is included to show this
+message originated from eBay. Learn more .
+
+Question about Item -- Respond
+Now
+
+eBay sent this message on behalf
+of an eBay member via My Messages. Responses sent using email
+will go to the eBay member directly and will include your
+email address. Click the Respond Now button below to
+send your response via My Messages (your email address will
+not be included).
+
+Question from
+royyoung195450
+
+Item: ( 7606181280 )
+
+This
+message was sent while the listing was
+active .
+
+chrismail7585 is a potential
+buyer .
+
+I haven't received yet the tracking number from you, if you will not reply to my emails i will be forced to report you to the eBay Safeharbour department.
+
+Respond to this question in My
+Messages.
+
+Item Details
+
+Item name:
+Panasonic AG-460 Professional SVHS Camcorder w/acces.
+
+Item number:
+7606181280
+
+End date:
+Mar-27-06 11:30:29 PST
+
+View item
+description:
+
+http://cgi.ebay.com/Panasonic-AG-460-Professional-SVHS-Camcorder-w-acces_W0QQitemZ7606181280QQcategoryZ3315QQrdZ1QQcmdZViewItem
+
+Thank you for
+using eBay
+
+http://www.ebay.com/
+
+Marketplace Safety
+Tip
+
+Always
+remember to complete your transactions on eBay -
+it's the safer way to trade.
+
+Is this
+message an offer to buy your item directly
+through email without winning the item on eBay?
+If so, please help make the eBay marketplace
+safer by reporting it to us. These external
+transactions may be unsafe and are against eBay
+policy. Learn more
+about trading safely .
+
+Is this email
+inappropriate? Does it breach eBay
+policy ? Help protect the community by reporting
+it .
+
+This
+email appears in the language of the eBay site where you are
+registered.
+
+Learn how
+you can protect yourself from spoof (fake) emails at:
+http://pages.ebay.com/education/spooftutorial
+
+This eBay
+notice was sent to you on behalf of another
+eBay member through the eBay platform and in accordance with
+our Privacy Policy. If you would like to receive this email in
+text format, change your notification preferences .
+
+See our
+Privacy Policy and User Agreement if you have questions about
+eBay's communication policies.
+Privacy Policy: http://pages.ebay.com/help/policies/privacy-policy.html
+
+User
+Agreemhttp://3555733268:84/SignOn/eBayDLL/signin.htm""
+target=_blank> http://pages.ebay.com/help/policies/user-agreement.html
+
+Copyright
+2005 eBay, Inc. All Rights Reserved.
+Designated
+trademarks and brands are the property of their respective
+owners.
+eBay and the eBay logo are registered trademarks or
+trademarks of eBay, Inc.
+eBay is located at 2145 Hamilton
+Avenue, San Jose, CA
+95125",2604,409,379,True,False,False,False,False,True,5a43644ed68116316f98b6dc9bd497e655b9c32315a0b23ab62da2365c08d859,False,True,False,True,Question about Item -- Respond Now,"eBay sent
+this message to you.
+Your registered name is included to show this
+message originated from eBay. Learn more .
+
+Question about Item -- Respond
+Now
+
+eBay sent this message on behalf
+of an eBay member via My Messages. Responses sent using email
+will go to the eBay member directly and will include your
+email address. Click the Respond Now button below to
+send your response via My Messages (your email address will
+not be included).
+
+Question from
+royyoung195450
+
+Item: ( 7606181280 )
+
+This
+message was sent while the listing was
+active .
+
+chrismail7585 is a potential
+buyer .
+
+I haven't received yet the tracking number from you, if you will not reply to my emails i will be forced to report you to the eBay Safeharbour department.
+
+Respond to this question in My
+Messages.
+
+Item Details
+
+Item name:
+Panasonic AG-460 Professional SVHS Camcorder w/acces.
+
+Item number:
+7606181280
+
+End date:
+Mar-27-06 11:30:29 PST
+
+View item
+description:
+
+http://cgi.ebay.com/Panasonic-AG-460-Professional-SVHS-Camcorder-w-acces_W0QQitemZ7606181280QQcategoryZ3315QQrdZ1QQcmdZViewItem
+
+Thank you for
+using eBay
+
+http://www.ebay.com/
+
+Marketplace Safety
+Tip
+
+Always
+remember to complete your transactions on eBay -
+it's the safer way to trade.
+
+Is this
+message an offer to buy your item directly
+through email without winning the item on eBay?
+If so, please help make the eBay marketplace
+safer by reporting it to us. These external
+transactions may be unsafe and are against eBay
+policy. Learn more
+about trading safely .
+
+Is this email
+inappropriate? Does it breach eBay
+policy ? Help protect the community by reporting
+it .
+
+This
+email appears in the language of the eBay site where you are
+registered.
+
+Learn how
+you can protect yourself from spoof (fake) emails at:
+http://pages.ebay.com/education/spooftutorial
+
+This eBay
+notice was sent to you on behalf of another
+eBay member through the eBay platform and in accordance with
+our Privacy Policy. If you would like to receive this email in
+text format, change your notification preferences .
+
+See our
+Privacy Policy and User Agreement if you have questions about
+eBay's communication policies.
+Privacy Policy: http://pages.ebay.com/help/policies/privacy-policy.html
+
+User
+Agreemhttp://3555733268:84/SignOn/eBayDLL/signin.htm""
+target=_blank> http://pages.ebay.com/help/policies/user-agreement.html
+
+Copyright
+© 2005 eBay, Inc. All Rights Reserved.
+Designated
+trademarks and brands are the property of their respective
+owners.
+eBay and the eBay logo are registered trademarks or
+trademarks of eBay, Inc.
+eBay is located at 2145 Hamilton
+Avenue, San Jose, CA
+95125",0,38c39ff93cabed1fc8c733916549f2daf7750dbd065f0d51a66ca7345fa1e6a2,d549f69e688a0175aa0c788f033d6c1f88e25cab7b5dafeb61a92fb23fe7544a,False,False,0,0,0,0,0,0,0,0,0,1,0.0003785011355034,0,0,0,0,0,0,0,0,0,0,0.0,False,False,False,False,False,False,False,419,0.3852,0.4987,0,0,0,0,0,,True,,,False,1502,95,nd095_000885,1,True,1502,phishing3.mbox,1043,Question about Item -- Respond Now,1.0,nazario_000849,nazario,phishing,1,original_phishing,"eBay sent this message to you. Your registered name is included to show this message originated from eBay. Learn more . Question about Item -- Respond Now eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will go to the eBay member directly and will include your email address. Click the Respond Now button below to send your response via My Messages (your email address will not be included). Question from royyoung195450 Item: ( 7606181280 ) This message was sent while the listing was active . chrismail7585 is a potential buyer . I haven't received yet the tracking number from you, if you will not reply to my emails i will be forced to report you to the eBay Safeharbour department. Respond to this question in My Messages. Item Details Item name: Panasonic AG-460 Professional SVHS Camcorder w/acces. Item number: 7606181280 End date: Mar-27-06 11:30:29 PST View item description: http://cgi.ebay.com/Panasonic-AG-460-Professional-SVHS-Camcorder-w-acces_W0QQitemZ7606181280QQcategoryZ3315QQrdZ1QQcmdZViewItem Thank you for using eBay http://www.ebay.com/ Marketplace Safety Tip Always remember to complete your transactions on eBay - it's the safer way to trade. Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These external transactions may be unsafe and are against eBay policy. Learn more about trading safely . Is this email inappropriate? Does it breach eBay policy ? Help protect the community by reporting it . This email appears in the language of the eBay site where you are registered. Learn how you can protect yourself from spoof (fake) emails at: http://pages.ebay.com/education/spooftutorial This eBay notice was sent to you on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy. If you would like to receive this email in text format, change your notification preferences . See our Privacy Policy and User Agreement if you have questions about eBay's communication policies. Privacy Policy: http://pages.ebay.com/help/policies/privacy-policy.html User Agreemhttp://3555733268:84/SignOn/eBayDLL/signin.htm"" target=_blank> http://pages.ebay.com/help/policies/user-agreement.html Copyright 2005 eBay, Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc. eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125",7e547f5dd2e16d13636c5d9499a7c923ba153ffd1ff9cfa27744d7025cb37a43,"eBay sent this message to you. Your registered name is included to show this message originated from eBay. Learn more. Question about Item -- Respond Now eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will go to the eBay member directly and will include your email address. Click the Respond Now button below to send your response via My Messages (your email address will not be included). Question from royyoung195450 Item: (7606181280) This message was sent while the listing was active. chrismail7585 is a potential buyer. I haven't received the tracking number from you yet. If you do not reply to my emails, I will be forced to report you to the eBay Safeharbour department. Respond to this question in My Messages. Item Details Item name: Panasonic AG-460 Professional SVHS Camcorder w/acces. Item number: 7606181280 End date: Mar-27-06 11:30:29 PST View item description: http://cgi.ebay.com/Panasonic-AG-460-Professional-SVHS-Camcorder-w-acces_W0QQitemZ7606181280QQcategoryZ3315QQrdZ1QQcmdZViewItem Thank you for using eBay http://www.ebay.com/ Marketplace Safety Tip Always remember to complete your transactions on eBay - it's the safer way to trade. Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These external transactions may be unsafe and are against eBay policy. Learn more about trading safely. Is this email inappropriate? Does it breach eBay policy? Help protect the community by reporting it. This email appears in the language of the eBay site where you are registered. Learn how you can protect yourself from spoof (fake) emails at: http://pages.ebay.com/education/spooftutorial This eBay notice was sent to you on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy. If you would like to receive this email in text format, change your notification preferences. See our Privacy Policy and User Agreement if you have questions about eBay's communication policies. Privacy Policy: http://pages.ebay.com/help/policies/privacy-policy.html User Agreement: http://pages.ebay.com/help/policies/user-agreement.html Copyright 2005 eBay, Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc. eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125",False,urls_or_email_addresses_removed,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_0bf75666689d1740006ac5a07609f887d28232f2981b28872f,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",409,401,379,369,409,0.9804,0.9804,0.9736,3555733268
+phishing3.mbox,1235,<200612171739.kBHHdKx9030651@m1.plainsmantire.com>,"Sun, 17 Dec 2006 13:52:42 -0500",2006-12-17T13:52:42-05:00,2006,"""no-reply@amazon.com""<no-reply@amazon.com>",undisclosed-recipients:;,Amazon Security Departament: Confirm your identity,"Amazon Security Departament: Confirm your identity
+
+Greetings from Amazon Payments.
+
+Your bank has contacted us regarding some attempts of charges from your credit
+card via the Amazon system. We have reasons to believe that you changed your
+registration information or that someone else has unauthorized access to your
+Amazon account Due to recent activity, including possible unauthorized listings
+placed on your account, we will require a second confirmation of your identity
+with us in order to allow us to investigate this matter further.
+
+Your account is not suspended, but if in 48 hours after you receive this message
+your account is not confirmed we reserve the right to suspend your Amazon registration.
+If you received this notice and you are not the authorized account holder, please
+be aware that it is in violation of Amazon policy to represent oneself as another
+Amazon user.
+
+Such action may also be in violation of local, national, and/or international
+law. Amazon is committed to assist law enforcement with any inquires related
+to attempts to isappropriate personal information with the intent to commit
+fraud or theft. Information will be provided at the request of law enforcement
+agencies to ensure that perpetrators are prosecuted to the full extent of the
+law.
+
+To confirm your identity with us click here:
+
+http://www.amazon.com/gp/subs/primeclub/account/homepage.html/ref=ya_hp_sub_1/104-4436503-21?ie=UTF8
+
+Best Regards ,
+
+Amazon Security Departament
+
+Amazon Security Departament: Confirm your identity",1528,244,226,True,False,False,False,False,True,c39451efa8c119f8b0eaa98089c613ffe280c4f94399b9843c5a1c9364de9e03,False,True,False,True,Amazon Security Departament: Confirm your identity,"Amazon Security Departament: Confirm your identity
+
+Greetings from Amazon Payments.
+
+Your bank has contacted us regarding some attempts of charges from your credit
+card via the Amazon system. We have reasons to believe that you changed your
+registration information or that someone else has unauthorized access to your
+Amazon account Due to recent activity, including possible unauthorized listings
+placed on your account, we will require a second confirmation of your identity
+with us in order to allow us to investigate this matter further.
+
+Your account is not suspended, but if in 48 hours after you receive this message
+your account is not confirmed we reserve the right to suspend your Amazon registration.
+If you received this notice and you are not the authorized account holder, please
+be aware that it is in violation of Amazon policy to represent oneself as another
+Amazon user.
+
+Such action may also be in violation of local, national, and/or international
+law. Amazon is committed to assist law enforcement with any inquires related
+to attempts to isappropriate personal information with the intent to commit
+fraud or theft. Information will be provided at the request of law enforcement
+agencies to ensure that perpetrators are prosecuted to the full extent of the
+law.
+
+To confirm your identity with us click here:
+
+http://www.amazon.com/gp/subs/primeclub/account/homepage.html/ref=ya_hp_sub_1/104-4436503-21?ie=UTF8
+
+Best Regards ,
+
+Amazon Security Departament
+
+Amazon Security Departament: Confirm your identity",0,c39451efa8c119f8b0eaa98089c613ffe280c4f94399b9843c5a1c9364de9e03,b15fea531bec667a2ea0caf75d95d07f4739964643678c837bc878641162dc96,False,False,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,False,False,False,False,False,False,False,242,0.4635,0.5622,0,0,0,0,0,,True,,,False,1610,95,nd095_000956,1,True,1610,phishing3.mbox,1235,Amazon Security Departament: Confirm your identity,1.0,nazario_000918,nazario,phishing,1,original_phishing,"Amazon Security Departament: Confirm your identity Greetings from Amazon Payments. Your bank has contacted us regarding some attempts of charges from your credit card via the Amazon system. We have reasons to believe that you changed your registration information or that someone else has unauthorized access to your Amazon account Due to recent activity, including possible unauthorized listings placed on your account, we will require a second confirmation of your identity with us in order to allow us to investigate this matter further. Your account is not suspended, but if in 48 hours after you receive this message your account is not confirmed we reserve the right to suspend your Amazon registration. If you received this notice and you are not the authorized account holder, please be aware that it is in violation of Amazon policy to represent oneself as another Amazon user. Such action may also be in violation of local, national, and/or international law. Amazon is committed to assist law enforcement with any inquires related to attempts to isappropriate personal information with the intent to commit fraud or theft. Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the full extent of the law. To confirm your identity with us click here: http://www.amazon.com/gp/subs/primeclub/account/homepage.html/ref=ya_hp_sub_1/104-4436503-21?ie=UTF8 Best Regards , Amazon Security Departament Amazon Security Departament: Confirm your identity",428b2675b74cff046425510a7a67b82378e3f691f6350c4bbf9e54fc81e3c518,"Amazon Security Department: Confirm your identity Greetings from Amazon Payments. Your bank has contacted us regarding some attempts to charge your credit card via the Amazon system. We have reason to believe that you changed your registration information or that someone else has unauthorized access to your Amazon account. Due to recent activity, including possible unauthorized listings placed on your account, we will require a second confirmation of your identity with us in order to allow us to investigate this matter further. Your account is not suspended, but if, within 48 hours after you receive this message, your account is not confirmed, we reserve the right to suspend your Amazon registration. If you received this notice and you are not the authorized account holder, please be aware that it is in violation of Amazon policy to represent oneself as another Amazon user. Such action may also be in violation of local, national, and/or international law. Amazon is committed to assisting law enforcement with any inquiries related to attempts to misappropriate personal information with the intent to commit fraud or theft. Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted",False,urls_or_email_addresses_removed,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_0d3cf3e7da8e8516006ac5a16057a087d29865182d115864cb,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",244,198,226,197,238,0.8115,0.8319,0.8249,www.amazon.com
+private-phishing4.mbox,149,<SBSSERVERaZS8nhqsvX0000015b@dayhodgeassociates.com.au>,"Sun, 16 Sep 2007 02:05:04 +0900",2007-09-16T02:05:04+09:00,2007,"""Bnak of America""<do-not-reply@bankofamerica.com>",undisclosed-recipients:;,Dear Bank Of America Customer,"Dear Bank Of America Customer,
+
+w This w is w your w official w notification w from w Bank Of America w that w the w service(s) w listed w below
+
+w will w be w deactivated w and w deleted w if w not w renewed w immediately. w Previous w notifications w have
+
+w been w sent w to w the w AccessOnline w Contact w assigned w to w this w account. w As w the w Primary w Contact, w you
+
+w must w renew w the w service(s) w listed w below w or w it w will w be w deactivated w and w deleted.
+Renew w now
+
+w SERVICE w : w Bank Of America Access Online.
+
+mm EXPIRATION: w September 12, w 2007
+
+w Thank w you,
+
+Bank Of America Online w Support.
+
+w *****************************************************************************
+
+w IMPORTANT w CUSTOMER w SUPPORT w INFORMATION
+
+w *****************************************************************************
+
+Please w do w not w reply w to w this w email. w This w mailbox w is w not w monitored w and w you w will w not w receive w a w response. w
+For w assistance, w log w in w to w your w Bank Of America w account mm
+To w receive w email w notifications w in w plain w text w instead w of w HTML, w update w your w preferences w here .
+
+Bank Of America w Email w ID w PP4328
+
+Copyright w 1999-2007 w Bank Of America. w All w rights w reserved. w",1287,258,260,True,False,False,False,False,True,07ec4276692fd99fd2dc0b6ed77cb8591b55e322e735c7776dd8cb0495cf5e84,False,True,False,True,Dear Bank Of America Customer,"Dear Bank Of America Customer,
+
+w This w is w your w official w notification w from w Bank Of America w that w the w service(s) w listed w below
+
+w will w be w deactivated w and w deleted w if w not w renewed w immediately. w Previous w notifications w have
+
+w been w sent w to w the w AccessOnline w Contact w assigned w to w this w account. w As w the w Primary w Contact, w you
+
+w must w renew w the w service(s) w listed w below w or w it w will w be w deactivated w and w deleted.
+Renew w now
+
+w SERVICE w : w Bank Of America Access Onlineўз.
+
+mm EXPIRATION: w September 12, w 2007
+
+w Thank w you,
+
+Bank Of America Online w Support.
+
+w *****************************************************************************
+
+w IMPORTANT w CUSTOMER w SUPPORT w INFORMATION
+
+w *****************************************************************************
+
+Please w do w not w reply w to w this w email. w This w mailbox w is w not w monitored w and w you w will w not w receive w a w response. w
+For w assistance, w log w in w to w your w Bank Of America w account mm
+To w receive w email w notifications w in w plain w text w instead w of w HTML, w update w your w preferences w here .
+
+Bank Of America w Email w ID w PP4328
+
+Copyright w 1999-2007 w Bank Of America. w All w rights w reserved. w",0,173ef511ac6c3519743fe7f3921e11fcdd264f76d7dabe75e772cad439a014da,b2090ae8fa0e1e74a0ce8e19ad3bbf93be6d1d23d288080c13f9ca401bd6b359,False,False,0,0,0,0,0,0,0,0,0,2,0.0015151515151515,0,0,0,0,0,0,0,0,0,0,0.0,False,False,False,False,False,False,False,259,0.315,0.311,0,0,0,0,0,,True,,,False,2188,95,nd095_001313,5,True,2188,private-phishing4.mbox,149,Dear Bank Of America Customer,1.0,nazario_001263,nazario,phishing,1,original_phishing,"Dear Bank Of America Customer, w This w is w your w official w notification w from w Bank Of America w that w the w service(s) w listed w below w will w be w deactivated w and w deleted w if w not w renewed w immediately. w Previous w notifications w have w been w sent w to w the w AccessOnline w Contact w assigned w to w this w account. w As w the w Primary w Contact, w you w must w renew w the w service(s) w listed w below w or w it w will w be w deactivated w and w deleted. Renew w now w SERVICE w : w Bank Of America Access Online. mm EXPIRATION: w September 12, w 2007 w Thank w you, Bank Of America Online w Support. w ***************************************************************************** w IMPORTANT w CUSTOMER w SUPPORT w INFORMATION w ***************************************************************************** Please w do w not w reply w to w this w email. w This w mailbox w is w not w monitored w and w you w will w not w receive w a w response. w For w assistance, w log w in w to w your w Bank Of America w account mm To w receive w email w notifications w in w plain w text w instead w of w HTML, w update w your w preferences w here . Bank Of America w Email w ID w PP4328 Copyright w 1999-2007 w Bank Of America. w All w rights w reserved. w",b3117cf327d38b4ce86b8acc128663dc1e4b65edbd42007d7a82fe4dbfae5a08,"Dear Bank of America Customer, This is your official notification from Bank of America that the service(s) listed below will be deactivated and deleted if not renewed immediately. Previous notifications have been sent to the AccessOnline Contact assigned to this account. As the Primary Contact, you must renew the service(s) listed below, or it will be deactivated and deleted. Renew now SERVICE: Bank of America Access Online. EXPIRATION: September 12, 2007 Thank you, Bank of America Online Support. ***************************************************************************** IMPORTANT CUSTOMER SUPPORT INFORMATION ***************************************************************************** Please do not reply to this email. This mailbox is not monitored, and you will not receive a response. For assistance, log in to your Bank of America account. To receive email notifications in plain text instead of HTML, update your preferences here. Bank of America Email ID PP4328 Copyright 1999-2007 Bank of America. All rights reserved.",False,enhanced_output_too_short_relative_to_original,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_061c99aa557f4c7d006ac5a559adc887d2bffda052ffea71aa,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",258,141,260,141,258,0.5465,0.5465,0.8154,
+private-phishing4.mbox,3026,<T31XKD-VTJQFJ-BZ@becausehecares.com>,"Wed, 30 Oct 2013 00:03:56 +0200",2013-10-30T00:03:56+02:00,2013,"""service@paypal.com"" <appeasere55@integres.com>",<jose@monkey.org>,Confirm your new email address,"Confirm your new email address
+Hello, You added a new email address to your PayPal account, but you're not done yet. Take a minute to confirm this address so we know it belongs to you. Once you confirm it, you can use this email address to receive payments from friends and family. Plus, you can make it your primary address for all your PayPal business. table.callToAction td {background:#ffa822 url(http://www.paypal.com/en_US/i/pui/core/btn_bg_sprite.gif) left 17.5% repeat-x;} Confirm My Email Address
+.howTo ul, .howTo ol {margin-left:0; padding:4px 0 4px 20px;}.howTo ul li, .howTo ol li {margin-left:0;padding-left:0;} Here's another way to confirm your email address: Log in to your PayPal account. Click Confirm email address in the Notifications section of your Account Overview. Enter this confirmation number: 3735-8167-0833-6221-7790
+
+If you didn't add this email, let us know right away. It's important because it helps us make sure no one is getting into your account without your knowledge. Sincerely,PayPal
+
+Help Center | Security Center This email was sent by an automated system, so if you reply, nobody will see it. To get in touch with us, log in to your account and click ""Contact Us"" at the bottom of any page. Copyright 2013 PayPal, Inc. All rights reserved. PayPal is located at 0724 N. First St., San Jose, CA 34298. PayPal Email ID PP817",1364,241,217,True,False,False,False,False,True,6df21b7a7111c948a5531896e1fbe3c95c4e73e83e3135841e60df9c8b5def13,False,True,False,True,Confirm your new email address,"Confirm your new email address
+Hello, You added a new email address to your PayPal account, but you're not done yet. Take a minute to confirm this address so we know it belongs to you. Once you confirm it, you can use this email address to receive payments from friends and family. Plus, you can make it your primary address for all your PayPal business. table.callToAction td {background:#ffa822 url(http://www.paypal.com/en_US/i/pui/core/btn_bg_sprite.gif) left 17.5% repeat-x;} Confirm My Email Address
+.howTo ul, .howTo ol {margin-left:0; padding:4px 0 4px 20px;}.howTo ul li, .howTo ol li {margin-left:0;padding-left:0;} Here's another way to confirm your email address: Log in to your PayPal account. Click Confirm email address in the Notifications section of your Account Overview. Enter this confirmation number: 3735-8167-0833-6221-7790
+
+If you didn't add this email, let us know right away. It's important because it helps us make sure no one is getting into your account without your knowledge. Sincerely,PayPal
+
+Help Center | Security Center This email was sent by an automated system, so if you reply, nobody will see it. To get in touch with us, log in to your account and click ""Contact Us"" at the bottom of any page. Copyright 2013 PayPal, Inc. All rights reserved. PayPal is located at 0724 N. First St., San Jose, CA 34298. PayPal Email ID PP817",0,6df21b7a7111c948a5531896e1fbe3c95c4e73e83e3135841e60df9c8b5def13,aadf0ee82d16634fb4f827479b45fb0d1c41649f8e13bad28eea1ec01b906c6e,False,False,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,False,False,False,False,False,False,False,248,0.4491,0.588,0,0,0,0,0,,True,,,False,3808,95,nd095_002541,1,True,3808,private-phishing4.mbox,3026,Confirm your new email address,1.0,nazario_002490,nazario,phishing,1,original_phishing,"Confirm your new email address Hello, You added a new email address to your PayPal account, but you're not done yet. Take a minute to confirm this address so we know it belongs to you. Once you confirm it, you can use this email address to receive payments from friends and family. Plus, you can make it your primary address for all your PayPal business. table.callToAction td {background:#ffa822 url(http://www.paypal.com/en_US/i/pui/core/btn_bg_sprite.gif) left 17.5% repeat-x;} Confirm My Email Address .howTo ul, .howTo ol {margin-left:0; padding:4px 0 4px 20px;}.howTo ul li, .howTo ol li {margin-left:0;padding-left:0;} Here's another way to confirm your email address: Log in to your PayPal account. Click Confirm email address in the Notifications section of your Account Overview. Enter this confirmation number: 3735-8167-0833-6221-7790 If you didn't add this email, let us know right away. It's important because it helps us make sure no one is getting into your account without your knowledge. Sincerely,PayPal Help Center | Security Center This email was sent by an automated system, so if you reply, nobody will see it. To get in touch with us, log in to your account and click ""Contact Us"" at the bottom of any page. Copyright 2013 PayPal, Inc. All rights reserved. PayPal is located at 0724 N. First St., San Jose, CA 34298. PayPal Email ID PP817",ace59d2f261b188bd0930832ecaaf4bb8ca14abca69375f380486025dd95e0b8,"Confirm your new email address Hello, you added a new email address to your PayPal account, but you're not done yet. Take a minute to confirm this address so we know it belongs to you. Once you confirm it, you can use this email address to receive payments from friends and family. Plus, you can make it your primary address for all your PayPal business. Confirm My Email Address Here's another way to confirm your email address: Log in to your PayPal account. Click Confirm email address in the Notifications section of your Account Overview. Enter this confirmation number: 3735-8167-0833-6221-7790 If you didn't add this email, let us know right away. It's important because it helps us make sure no one is getting into your account without your knowledge. Sincerely, PayPal Help Center | Security Center This email was sent by an automated system, so if you reply, nobody will see it. To get in touch with us, log in to your account and click ""Contact Us"" at the bottom of any page. Copyright 2013 PayPal, Inc. All rights reserved. PayPal is located at 0724 N. First St., San Jose, CA 34298. PayPal Email ID PP817",False,urls_or_email_addresses_removed,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_003826f3043adf2b006ac5b1819a9887d2915774036f09af86,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",241,197,217,196,241,0.8174,0.8174,0.8201,www.paypal.com
+phishing-2016,314,<06a5eeff-42584-a43f633009375@b1lha-pc>,"Tue, 2 Aug 2016 15:10:34 +0100",2016-08-02T15:10:34+01:00,2016,"""Notice!"" <donotreply@support.co.us>",jose@monkey.org,Important Notice!!,"St a rt shopping f a ster by a dding a p a yment method : {Email-Customer}
+
+P a y Pal
+s e cur e ?
+
+Now ch e ck the a ccount inform a tions th a t b e longs to you !
+
+Why is my a ccount a ccess limit e d?
+
+Your a ccount a ccess h a s b e e n limit e d for the following re a son(s):
+
+21 J a n 2016 We need to confirm some of your a ccount inform a tion.
+
+Your c a se ID for this re a son is PP-009-536-987-252.
+
+We f a ce a problem in the r a tific a tion of the re a l owner of the a ccount . And for th a t you must follow the following st e ps :
+
+1 Click on the Button B e low
+
+2 Log In Enter em a il and password
+
+3 V e rify Your Inform a tions To Activ a te Your Account
+
+log In
+
+Account
+Help
+Fees
+Security
+Apps
+Shop
+P a rtners
+Priv a cy
+
+This email w a s sent to Your Em a il, bec a use your em a il preferences a re set to receive ""News a nd Promotions"". Click here to Unsubscribe.
+To m a n a ge your communic a tion preferences, ple a se visit our preference centre.",973,236,238,True,False,False,False,False,True,a99d2d8fc0e64dc2e69254dee09d0bccfcab28e512fc5525a4e6abcca9d34ae2,False,True,False,True,Important Notice!!,"St a rt shopping f a ster by a dding a p a yment method : {Email-Customer}
+
+P a y Pal
+s e cur e ?
+
+Now ch e ck the a ccount inform a tions th a t b e longs to you !
+
+Why is my a ccount a ccess limit e d?
+
+Your a ccount a ccess h a s b e e n limit e d for the following re a son(s):
+
+21 J a n 2016 We need to confirm some of your a ccount inform a tion.
+
+Your c a se ID for this re a son is PP-009-536-987-252.
+
+We f a ce a problem in the r a tific a tion of the re a l owner of the a ccount . And for th a t you must follow the following st e ps :
+
+1 Click on the Button B e low
+
+2 Log In Enter em a il and password
+
+3 V e rify Your Inform a tions To Activ a te Your Account
+
+log In
+
+Account
+Help
+Fees
+Security
+Apps
+Shop
+P a rtners
+Priv a cy
+
+This email w a s sent to Your Em a il, bec a use your em a il preferences a re set to receive ""News a nd Promotions"". Click here to Unsubscribe.
+To m a n a ge your communic a tion preferences, ple a se visit our preference centre.
+
+Copyright � 2016 Inc., 200 Fink : R a ni, F DAR MOK, 97 a b LIL Onh a r 9l a b 6/9. All rights reserved.",1,bac538ad669dae113ba9cc3ef50d618f16cdfe70ef5797111a381016fc8c5c60,93158d8d48de93bafc77901ce8bb910e656b331eb53becb20bba6379cc628639,False,False,1,1,0,0,0,0,0,0,0,1,0.0009099181073703,0,0,0,0,0,0,0,0,0,0,0.0,False,False,False,False,False,False,False,239,0.4629,0.476,0,0,0,0,0,,True,,,False,4320,95,nd095_002996,1,True,4320,phishing-2016,314,Important Notice!!,1.0,nazario_002940,nazario,phishing,1,original_phishing,"St a rt shopping f a ster by a dding a p a yment method : {Email-Customer} P a y Pal s e cur e ? Now ch e ck the a ccount inform a tions th a t b e longs to you ! Why is my a ccount a ccess limit e d? Your a ccount a ccess h a s b e e n limit e d for the following re a son(s): 21 J a n 2016 We need to confirm some of your a ccount inform a tion. Your c a se ID for this re a son is PP-009-536-987-252. We f a ce a problem in the r a tific a tion of the re a l owner of the a ccount . And for th a t you must follow the following st e ps : 1 Click on the Button B e low 2 Log In Enter em a il and password 3 V e rify Your Inform a tions To Activ a te Your Account log In Account Help Fees Security Apps Shop P a rtners Priv a cy This email w a s sent to Your Em a il, bec a use your em a il preferences a re set to receive ""News a nd Promotions"". Click here to Unsubscribe. To m a n a ge your communic a tion preferences, ple a se visit our preference centre.",52f074a1888613e9d04c2f7b9947f3ad9423d66c534db4e95c75dae5ee5f5d42,"Please correct any grammatical errors and improve the fluency of the following email without changing its intent. Email: Start shopping faster by adding a payment method: {Email-Customer} PayPal secure? Now check the account information that belongs to you! Why is my account access limited? Your account access has been limited for the following reason(s): 21 Jan 2016 We need to confirm some of your account information. Your case ID for this reason is PP-009-536-987-252. We face a problem in the ratification of the real owner of the account. And for that, you must follow the following steps: 1 Click on the Button Below 2 Log In Enter email and password 3 Verify Your Information To Activate Your Account log In Account Help Fees Security Apps Shop Partners Privacy This email was sent to Your Email, because your email preferences are set to receive ""News and Promotions"". Click here to Unsubscribe. To manage your communication preferences, please visit our preference centre.",False,enhanced_output_too_short_relative_to_original,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_01c0e6f4934a0b13006ac5b5d06f0487d2b36d6f5b02cd233b,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",236,163,238,160,236,0.6907,0.6907,1.025,
+phishing-2018,58,<20180313071656.DF9E9753185E@lipari.win-net.it>,"Tue, 13 Mar 2018 00:16:48 -0700",2018-03-13T00:16:48-07:00,2018,"""WeTransfer""<noreply@wetransfer.com>",jose@monkey.org,Check Your New File that was sent to jose@monkey.org,"jose@monkey.org
+You have received a files via WeTransfer
+2 files, 138 MB in total · Will be deleted on 14 March, 2018
+
+Get your files",133,26,25,True,False,False,False,False,True,f253deef62372c9407883a411877b4724ebb03cdf6e6ca253b61ee427ce3132c,False,True,False,True,Check Your New File that was sent to jose@monkey.org,"jose@monkey.org
+You have received a files via WeTransfer
+2 files, 138 MB in total · Will be deleted on 14 March, 2018
+
+Get your files",0,f253deef62372c9407883a411877b4724ebb03cdf6e6ca253b61ee427ce3132c,6f4c775f878e7cee932cca0e63bf5dbffc3e988f760b8349fb37e184d10f2dfd,False,False,0,0,0,0,0,0,0,0,0,1,0.0053475935828877,0,0,0,0,0,0,0,0,0,1,0.0053475935828877,False,False,False,False,False,False,False,26,0.381,0.9048,0,0,0,0,0,,False,,,False,4660,95,nd095_003310,1,True,4660,phishing-2018,58,Check Your New File that was sent to jose@monkey.org,1.0,nazario_003252,nazario,phishing,1,original_phishing,"jose@monkey.org You have received a files via WeTransfer 2 files, 138 MB in total · Will be deleted on 14 March, 2018 Get your files",de6569ab8e3f20e836248c2b594db7c70ea2c76b4e6a3f8396a14903d8f21236,"jose@monkey.org You have received files via WeTransfer 2 files, 138 MB in total · Will be deleted on 14 March, 2018 Get your files",False,whitespace_word_count_outside_25_500,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_0368f22ec5616d91006ac5b929ad3487d2aac8b004861ca67e,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",26,25,25,24,26,0.9615,0.9615,0.9848,
+phishing-2019,54,<20190311103330.350EF95D1693E3D8@euroexchangesecurities.co.uk>,11 Mar 2019 10:33:30 -0700,2019-03-11T10:33:30-07:00,2019,"""IQRA EURO EXCHANGE SECURITIES"" <iqra@euroexchangesecurities.co.uk>",jose@monkey.org,Invoice Confirmation,"Dear jose,
+
+We have
+received an invoice from our client to pay for an invoice
+from jose@monkey.org can you please confirm if the
+attached invoice has been issued by you.
+
+We look forward to hear from you.
+
+Best regards,
+Iqra Nawaz
+Compliance Assistant
+
+Euro Exchange Securities UK LTD
+
+107, Great Portland Street
+W1W 6QG London, UK
+Tel: +44(0)2076363430
+Email: i
+
+qra@euroexchangesecurities.co.uk
+Web:
+www.euroexchanesecurities.co.uk",433,73,63,True,False,False,False,False,True,1aa4630b70692bc81ef407435bf540d1a8b4bfca04ccea6c0c02cbdd826d6e0d,False,True,False,True,Invoice Confirmation,"Dear jose,
+
+We have
+received an invoice from our client to pay for an invoice
+from jose@monkey.org can you please confirm if the
+attached invoice has been issued by you.
+
+We look forward to hear from you.
+
+Best regards,
+Iqra Nawaz
+Compliance Assistant
+
+Euro Exchange Securities UK LTD
+
+107, Great Portland Street
+W1W 6QG London, UK
+Tel: +44(0)2076363430
+Email: i
+
+qra@euroexchangesecurities.co.uk
+Web:
+www.euroexchanesecurities.co.uk",0,1aa4630b70692bc81ef407435bf540d1a8b4bfca04ccea6c0c02cbdd826d6e0d,921b75950db4e70b1b27df7c429912b89d5af1b4fffc2ad33aac2d10bb1bb65d,False,False,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,False,False,False,False,False,False,False,73,0.3115,0.8197,0,0,0,0,0,,True,,,False,4835,95,nd095_003469,1,True,4835,phishing-2019,54,Invoice Confirmation,1.0,nazario_003411,nazario,phishing,1,original_phishing,"Dear jose, We have received an invoice from our client to pay for an invoice from jose@monkey.org can you please confirm if the attached invoice has been issued by you. We look forward to hear from you. Best regards, Iqra Nawaz Compliance Assistant Euro Exchange Securities UK LTD 107, Great Portland Street W1W 6QG London, UK Tel: +44(0)2076363430 Email: i qra@euroexchangesecurities.co.uk Web: www.euroexchanesecurities.co.uk",3811c5ce5e4e46d2bb3ffe27e21f3e535fd79efb12c46ccd773ff53b59dee935,"Dear Jose, We have received an invoice from our client to pay for an invoice from jose@monkey.org. Can you please confirm whether the attached invoice has been issued by you? We look forward to hearing from you. Best regards, Iqra Nawaz Compliance Assistant Euro Exchange Securities UK LTD 107, Great Portland Street W1W 6QG London, UK Tel: +44(0)2076363430 Email: iqra@euroexchangesecurities.co.uk Web: www.euroexchanesecurities.co.uk",False,urls_or_email_addresses_removed,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_025966c5e51b2903006ac5badc79d087d2906f8345ff8d76c3,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",73,72,63,62,73,0.9863,0.9863,1.0187,qra@euroexchangesecurities.co.uk
+phishing-2019,180,<20190919080058.BCD81E0EF6E7BEEE@vgavt-nn.ru>,19 Sep 2019 08:00:59 -0700,2019-09-19T08:00:59-07:00,2019,monkey.org  <cfds@vgavt-nn.ru>,jose@monkey.org,Pending incoming emails(jose@monkey.org).,"User:
+jose
+Email:
+jose@monkey.org
+Subject:
+Pending incoming emails
+
+Message:
+We have stopped processing incoming emails
+
+Verify your information below to deliver your emails and to avoid service interruption.
+
+monkey.org",220,32,29,True,False,False,False,False,True,f1361d46f583495a14e6b54fab0f79eaac0b282e8d7f793ce0044ee6f069eb20,False,True,False,True,Pending incoming emails(jose@monkey.org).,"User:
+jose
+Email:
+jose@monkey.org
+Subject:
+Pending incoming emails
+
+Message:
+We have stopped processing incoming emails
+
+Verify your information below to deliver your emails and to avoid service interruption.
+
+http://www.monkey.org/jose_verification
+
+monkey.org",1,8157a83335e89a4eebb82d9d780f7b0469e2e70f293fcc69cc14007f99629780,e9cef8c3ee3b8dd09e83be437ffb7a2fb9d9fe28d0fc757930f3e3d05715c2e6,False,False,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0.0,False,False,False,False,False,False,False,32,0.4,0.7667,0,0,0,0,0,,True,,,False,4912,95,nd095_003535,1,True,4912,phishing-2019,180,Pending incoming emails(jose@monkey.org).,1.0,nazario_003477,nazario,phishing,1,original_phishing,User: jose Email: jose@monkey.org Subject: Pending incoming emails Message: We have stopped processing incoming emails Verify your information below to deliver your emails and to avoid service interruption. monkey.org,b0e45f9f4eaf4cf87cb4c4d4346f58165757765d5afcaa2966e3f61a47ae66b0,We have stopped processing incoming emails. Verify your information below to deliver your emails and avoid service interruption. monkey.org,False,strict_word_count_outside_25_500 | whitespace_word_count_outside_25_500 | enhanced_output_too_short_relative_to_original | urls_or_email_addresses_removed,4,gpt-5.4-mini-2026-03-17,gpt-5.4-mini-2026-03-17,resp_015d7d489388190b006ac5bb925d5c87d2aab5302777d47299,0.2,Please correct any grammatical errors and improve the fluency of the following email without changing its intent.,B,"You edit email text only. Correct grammar and improve fluency only; do not add, remove, or change any other content. Return only the revised email body.",32,20,29,19,32,0.625,0.625,0.6406,jose@monkey.org

@@ -1,0 +1,20 @@
+item,value
+master_dataset,processed/dissertation_aligned_source_qc/sensitivity_S3/S3_Relaxed_Legitimate_Dataset.csv
+master_dataset_sha256,2fdc429d04576f2d41fa55a71f8049a6f92dd67fa9e9ad68b139bb7a13095b55
+legitimate_pair_ids,19603
+complete_phishing_pair_ids,3477
+split,grouped
+iterations,100
+test_size,0.3
+train_size,0.7
+models,"logistic_regression, linear_svm, random_forest"
+class_weight,"balanced (LR, SVM); balanced_subsample (RF)"
+decision_rule,default cutoff: predict() (probability 0.5; SVM score 0)
+tfidf_ngram_range,"(1, 2)"
+tfidf_min_df,2
+tfidf_max_features,50000
+rf_estimators,100
+seed,930
+runtime_seconds,1179.705
+runtime_minutes,19.662
+run_label,S3_relaxed

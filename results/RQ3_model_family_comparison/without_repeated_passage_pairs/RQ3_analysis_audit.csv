@@ -1,0 +1,13 @@
+item,value
+rq1_family_results,/Users/guillaume/Library/CloudStorage/Dropbox/PHD INFORMATION TECHNOLOGY/PHD COURSES/Dissertation Courses & Documents/Dissertation Courses/Dissertation (DSRT-930)/Data Analytics Codex/data_quality_pipeline_v2/rq_scripts/RQ1_classical_ml/output/S4_no_repeated/RQ1_family_iteration_results.csv
+rq1_family_results_sha256,edf7968385862d0e1106d63557a8e8ec32e5c9963a832fcafb365d6c4ed38852
+rq2_family_results,/Users/guillaume/Library/CloudStorage/Dropbox/PHD INFORMATION TECHNOLOGY/PHD COURSES/Dissertation Courses & Documents/Dissertation Courses/Dissertation (DSRT-930)/Data Analytics Codex/data_quality_pipeline_v2/rq_scripts/RQ2_deep_learning/output/S4_no_repeated/RQ2_family_iteration_results.csv
+rq2_family_results_sha256,11615612281fbdf114bd063a767a5bb1bc6ec01cc6b8e8cacbad647f21142f17
+split,grouped
+run_label,S4_no_repeated
+paired_iterations,100
+test_size,0.3
+train_size,0.7
+comparison,classical_ml_family_change_minus_deep_learning_family_change
+primary_metric,d_prime
+complementary_metric,roc_auc

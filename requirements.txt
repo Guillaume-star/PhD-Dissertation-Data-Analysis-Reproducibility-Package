@@ -1,0 +1,11 @@
+# Python 3.11 (versions used for the reported results)
+pandas==3.0.6
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.1
+
+# RQ2 only (run on Google Colab with an NVIDIA GPU; see RQ2_on_Colab.ipynb)
+# torch==2.11.0
+
+# Only for --re-enhance (redoing the LLM enhancement with your own API key)
+# openai==3.24.0

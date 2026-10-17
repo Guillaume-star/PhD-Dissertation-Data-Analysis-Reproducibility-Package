@@ -1,0 +1,1246 @@
+﻿review_id,record_id,source_record,expected_class,date,subject,word_count,body,valid_record,reviewer_notes
+legit_001,enron_010174,maildir/jones-t/sent/5627.,legitimate,"Fri, 09 Feb 2001 07:58:00 -0800",Master Swap Agreement Access,39,"Can you please let me know whether the new attorneys in our group have edit
+access to the database, Frank Sayre, Francisco Pinto Leite and Cheryl
+Nelson. I think Cheryl just tried to add a note and couldn't. Thanks.",yes,
+legit_002,enron_008075,maildir/perlingiere-d/sent/2612.,legitimate,"Thu, 10 May 2001 07:03:00 -0700",Confirm,381,"Please look at the confirm and let me know if it is ok. I spoke with Mr.
+Hall and we are good to go.
+
+June 1, 2001
+
+This Confirmation shall confirm the Transaction agreed to on the date hereof
+and binding between Greene Energy LLC (""Customer"") and Enron North America
+Corp. (""Company"") regarding the purchase and sale of gas pursuant to the
+Enfolio Gas Purchase Agreement dated May 1, 2001 (the &Agreement 8). Company
+to purchase and receive (Buyer) and Customer to sell and deliver (Seller).
+
+TRANSACTION NUMBER:
+DESIGNATED QUANTITY (IN MMBTUS): 100% of Seller's Daily Production
+DELIVERYPOINT(S):ColumbiaGasTransmissionCorp.(AppalachiaW.Va.OhioKy.)
+PERIOD OF DELIVERY: June 1, 2001 through June 30, 2001
+CONTRACT PRICE (PER MMBTU): The Contract Price shall be the Daily Midpoint
+price published on each calendar day during the period of delivery under the
+heading ""Daily Price Survey"" in the Appalachia - Columbia, App section of Gas
+Daily, Less $.01 for 100% of daily production.
+
+This Confirmation is being provided pursuant to and in accordance with the
+ENFOLIO AGREEMENT and constitutes part of and is subject to all of the
+provisions of the Agreement. Any objection of Customer to this Confirmation
+must be made by written notice to Company prior to the Confirm Deadline.
+
+Each party shall not disclose the terms of this transaction to a third party
+(other than the party's and its affiliates' employees, lenders, counsel,
+accountants or prospective purchasers of any rights under any Transactions
+who have agreed to keep such terms confidential) except in order to comply
+with any applicable law, order, regulation or exchange rule; provided, each
+party shall notify the other party of any proceeding of which it is aware
+which may result in disclosure and use reasonable efforts to prevent or limit
+the disclosure. The provisions of the Agreement other than the terms of this
+transaction are not subject to this confidentiality obligation. The parties
+shall be entitled to all remedies available at law or in equity to enforce,
+or seek relief in connection with, this confidentiality obligation; provided,
+all monetary damages shall be limited to actual direct damages.
+
+&CUSTOMER 8 &COMPANY 8
+Greene Energy
+LLC Enron North
+America Corp.
+
+By:_____________________________ By:______________________________
+Title:___________________________ Title:_____________________________
+
+Debra Perlingiere
+Enron North America Corp.
+Legal Department
+1400 Smith Street, EB 3885
+Houston, Texas 77002
+dperlin@enron.com
+Phone 713-853-7658
+Fax 713-646-3490",yes,
+legit_003,enron_005408,maildir/stepenovitch-j/inbox/141.,legitimate,"Wed, 12 Dec 2001 11:02:57 -0800",X-mas Party at Bagwell's,86,"Jennifer asked that I pass the word along that she is having a Christmas party this Friday, December 14 to try to put some cheer into this holiday season. Pass the invite around and see you around 7:00.
+
+Directions:
+Take 59 to Greenbriar/Shepherd exit
+Exit Greenbriar towards Rice University
+Continue straight on Greenbriar until Wordsworth
+(if you arrive at Holcombe, you have gone too far)
+Take a right on Wordsworth
+2307 Wordsworth is the second house on the left (2-story white painted brick house)
+Phone: 713-666-7287",yes,
+legit_004,enron_013805,maildir/scott-s/sent/562.,legitimate,"Mon, 23 Oct 2000 02:37:00 -0700",Basis Options,59,"Marcelo,
+
+Evidently, there has been some discussion regarding the use of Enpower for
+Natural Gas basis options. As a result I've been advised to hold off on any
+meetings until further notice. Thanks again for all of your help and I will
+be in touch with you as soon as I know how we are going to progress.
+
+Susan",yes,
+legit_005,enron_013176,maildir/symes-k/sent/18.,legitimate,"Wed, 18 Oct 2000 02:15:00 -0700",Scottish Power 1999 Annual Report,118,"I've ordered the 1999 Annual Report for Scottish Power, as I noticed it was
+not in the company file. It should be here tomorrow or Friday at the latest.
+If you need the information sooner than that, I can download the report from
+the company's website, although the document is understandably bulky. Please
+let me know if you'd like a print-out.
+
+Also, if you'd like, I can talk to Sue about CASA's financial needs. Mollie
+and I had discussed splitting the auction proceeds between two charities; in
+that way we can share the wealth and not inundate an organization with more
+than they can manage. It's something to think about in case CASA doesn't need
+much help.
+
+Kate",yes,
+legit_006,enron_008334,maildir/perlingiere-d/sent/796.,legitimate,"Mon, 13 Nov 2000 09:02:00 -0800",Women's Energy Network Lunch,40,"I will be out of the office tomorrow to attend the WEN lunch / meeting from
+11:00 - 1:30.
+
+Debra Perlingiere
+Enron North America Corp.
+Legal Department
+1400 Smith Street, EB 3885
+Houston, Texas 77002
+dperlin@enron.com
+Phone 713-853-7658
+Fax 713-646-3490",yes,
+legit_007,enron_008698,maildir/perlingiere-d/sent/282.,legitimate,"Wed, 21 Jun 2000 04:32:00 -0700",,30,"Janette and I are lunching tomorrow if you want to join.
+
+Debra Perlingiere
+Enron North America Corp.
+1400 Smith Street, EB 3885
+Houston, Texas 77002
+dperlin@enron.com
+Phone 713-853-7658
+Fax 713-646-3490",yes,
+legit_008,enron_015712,maildir/beck-s/inbox/445.,legitimate,"Fri, 08 Jun 2001 12:39:37 -0700","To lighten up your day,",180,"Hi,
+I just came across following discussion on Economics that provides an interesting insight.
+
+Economic philosophies explained in terms of two cows:
+Socialism - You have two cows. You give one to your neighbor.
+Communism - You have two cows. The government takes both and gives you milk.
+Fascism - You have two cows. The government takes them both and sells you the milk.
+Capitalism - You have two cows. You sell one and buy a bull.
+Bureaucracy - You have two cows. The government takes them both, shoots one, milks the other, pays you for the milk , then pours it down the drain.
+Corporate - You have two cows. You downsize one, then require the other one to produce the milk of four cows, then act surprised when it falls dead.
+Democracy - You have two cows. You are taxed to the point where you have to sell them both so that the government can support a man in a foreign country who has one cow, which was a gift from your country.
+
+Hope you enjoyed.
+
+Inja Chun",yes,
+legit_009,enron_011098,maildir/brawner-s/inbox/28.,legitimate,"Tue, 15 Jan 2002 08:04:35 -0800",Greetings,102,"Greetings, Sandra. I hope life will be treating you better over there
+soon. As you might know, most of EnergyUSA was given pink slips effective
+over the next 3-6 months. As a result, it is back looking for another job.
+I was wondering if it would be possible for you to write a letter of
+recommendation for me? I'm really regretting this leave from Enron now.
+In my quest for looking for something stable, I ended up fucking myself up.
+At least I have a few months before our house is finished. Hopefully, I'll
+have something by then.
+
+Thanks,
+
+Jeff the Genius",yes,
+legit_010,enron_011453,maildir/smith-m/inbox/230.,legitimate,"Thu, 24 May 2001 15:10:34 -0700",KNE web site problems,132,"Just as a heads up...
+
+The web site that serves data for Kinder Morgan, Transcolorado, NGPL, etc. is having issues as I write this. The following message comes up when trying to receive point data:
+
+An error occurred while executing the page. Please use the ""Back"" button on your browser to try again, or try again at a later time. If the problem persists, please contact ApplicationName Support (user@kne.com).
+The error message is:
+[INTERSOLV][ODBC SQL Server driver][SQL Server]ct_results(): user api layer: internal Client Library error: Read from the server has timed out.
+
+Basically, this means their server currently has issues. I just wanted to send this out as a heads up that we could potentially miss some cycle information for the morning reports. Hopefully, the site will stabilize before then.
+
+Thanks,
+Chris",yes,
+legit_011,enron_009415,maildir/hyvl-d/sent/39.,legitimate,"Tue, 31 Oct 2000 09:22:00 -0800",LDC and Pipeline Contract entities which need to be under NewCo in Triple-LLux deal,191,"City of Brazoria - ENA contract 96012228
+D & H Gas Company, Inc. ENA contract 96007529
+Empire Pipeline Corp. ENA contract 96000706
+Entex Gas Marketing Company ENA contract 96004593, This should stay in ENA
+and a new contract with Entex Gas Resources Corp.
+(presently unsigned) should be assigned to NewCo.
+Markham Gas Corp. ENA contract 96003353
+Reliant Energy Entex ENA contract 96002113
+Reliant Energy Entex ENA contract 96004582
+Reliant Energy Entex ENA contract 96004597
+Reliant Energy Entex ENA contract 96019120
+Reliant Energy Entex ENA contract 96031541
+Southern Union Company ENA contract 96004236
+Southern Union Company ENA contract 96004620
+Southern Union Company ENA contract 96016887
+Southern Union Company ENA contract 96016888
+Southern Union Company ENA contract 96027038
+Southern Union Company ENA contract 96037995
+TXU Fuel Company ENA contract 96001400
+TXU Fuel Company ENA contract 96002962
+TXU Fuel Company ENA contract 96021920
+TXU Fuel Company ENA contract 96026429
+TXU Fuel Company ENA contract 96029165
+TXU Fuel Company ENA contract 96029544
+Unit Gas Transmission Company, Inc. ENA contract 96002879
+
+I will continue to work to make sure these are the only contracts and if I
+find any new agreements, I will supplement the list.",yes,
+legit_012,enron_013635,maildir/scott-s/sent/472.,legitimate,"Sun, 03 Dec 2000 15:47:00 -0800",Trading Files and P&L,47,"Also, there was a confirm that came in Friday with Amerex for you Buying
+1/day BOM (12/2-12/31) HeHub Gas Daily $7.00 Call Option at $0.26. The
+counterparty was Cinergy...Let me know if this is a good trade and we'll get
+it loaded into the system.
+
+Thanks,
+Susan",yes,
+legit_013,enron_000701,maildir/benson-r/inbox/8.,legitimate,"Tue, 05 Feb 2002 16:41:12 -0800",Online Trading Simulation Feb 7th,333,"Preparations are continuing for our simulation on Thursday, Feb. 7 from 9-11 am.
+
+During the simulation, you will be able to use your normal, ""live"" Stack Manager User ID and password, which will be emailed to you separately.
+
+The attached word document below provides a basic review on Accessing the Stack Manager. You should manage the same products as you normally would, even if those products are not expected to be going live on our initial launch day. If you have products that need to be created, please contact Kevin Meredith (3-9555) or Chris Walker (3-7533) with UBSWenergy.com immediately.
+
+Trading Goals - for all traders participating in the simulation.
+Log into the stack manager on Wednesday afternoon and ensure that your products are ready to be activated on Thursday morning. We will send you a reminder on Wednesday to advise you of the time when the application will be available.
+Start and end with a flat position
+Make markets in your respective products
+Maintain tight spreads in the products you manage
+
+NON-UBS PERSONNEL WILL NOT BE ABLE TO SEE OR TRANSACT ON PRODUCTS DURING THE SIMULATION.
+
+Internal Originators will be playing the roles of customers and will be hitting your stacks throughout the simulation. You will also be able to trade book to book via the website with your website User ID and password which will also be emailed separately.
+
+Market ""News"" events may be emailed to you at certain points throughout the simulation (e.g. ""storm in the gulf"").
+
+Immediately after the simulation, the website will be inactivated, so that the operations group can test the mid/back-office systems, while the IT groups clean-up the transaction data from the simulation.
+
+The system will be made available again for live, internal trading (book to book) between traders on Friday, February 8, 2002. FRIDAY'S TRADES ARE FOR REAL.
+
+If you can't log into any application on the day or are having trouble with your systems, please contact the UBSWenergy.com Help Desk immediately at 713.584.4444
+
+Regards,
+UBSWenergy.com",yes,
+legit_014,enron_001413,maildir/lay-k/inbox/722.,legitimate,"Thu, 29 Nov 2001 08:08:38 -0800",Words of Encouragement from one employee - Please Read This Mr. Lay,292,"Mr. Lay,
+
+It seems to have become fashionable to bash you and the other executives as things have become challenging at Enron. I just wanted to let you know that there are some people who still care about Enron and are still thankful for what you have done over the past 15 years. I have been completely distraught at the speed with which my coworkers have thrown in the towel and have essentially given up. I urge you to continue to fight for Enron. True, it may take another 15 years to get back to a leading company, but do not give up the fight. You have made Enron a wonderful place to work and I know that Enron will survive. It would be a tragedy if the innovative thinking made famous by Enron were to be discarded and corporate America returned to a status quo mentality.
+
+I have been informed that I am on the list of those to be laid off because I am in a non-core business, and I agree. I loved having the job, but desperate times call for desperate measures and I understand the need to focus. I am tired of my fellow coworkers quitting, complaining, and giving up. There are plenty of people that will join you in the fight, I hope that you are able to weed out the quitters and get a group of people together who will fight for the Enron way of doing business.
+
+I applaud you for your accomplishments over the past 15 years in building an incredible company - a company that will survive, a company that will once again thrive, and a company that will prosper well into the future.
+
+Good luck and please don't give up,
+Zach Streight",yes,
+legit_015,enron_012153,maildir/kaminski-v/sent/995.,legitimate,"Fri, 12 Jan 2001 08:41:00 -0800",Tiger Team meeting Jeff Shankman's office,158,"I would like to invite you to a meeting with Jeff Shankman on Tuesday
+January 16, 3:30 p.m. at Jeff Shankman's office.
+
+We are meeting to plan the agenda for the Tiger Team, a group of about 20
+Wharton School
+students visiting Enron. A Wharton tiger team works through a semester on a
+special project, proposed by
+a corporation. The team sponsored by Enron works on project regarding the
+impact of
+electronic trading on the energy markets. The semester long project will
+result in a report that
+will be submitted to Enron for review and evaluation. I hope that you will
+find this report useful.
+
+We have invited our tiger team to visit Enron. The students will arrive on
+Thursday,
+January 18, and will spend Friday at Enron. I would appreciate if you could
+find 30 minutes
+on Friday to talk to the students.
+
+The meeting with Jeff on Tuesday should not last longer than 10-15 minutes.
+
+Vince",yes,
+legit_016,enron_002712,maildir/taylor-m/sent/439.,legitimate,"Sun, 15 Aug 1999 10:55:00 -0700",Online Weather GTC's,235,"Here are my draftversions of the weather GTC's. Since Enron North America
+will be the Enron contracting entity for all of the transactions, I have
+expanded the documents to allow for European as well as U.S. transactions and
+to allow for multiple weather station (index) deals or single weather station
+deals. The option forms work for either a put or call but that has to be
+specified on the web site. I think it would make sense for one of the
+weather commercial people to take a quick look at the forms to make sure they
+agree that they work. I'm hoping to sit down with Mark Dilworth in the
+morning to make sure the long descriptions are complete - when you look at
+these forms, it is clear that a number of defined terms have to be covered on
+the web site: Premium, Effective Date, Termination Date, Reference Weather
+Station(s), Fallback Reference Weather Station(s), Reference Basis, Reference
+Degrees (C or F), Strike Amount, Notional Amount and Maximum Payout Limit are
+the terms I have identified so far.
+
+Please Note - these are NOT ready to be uploaded to the system! There are
+blanks for the weather agencies for the European deals - these are not
+referenced in the earlier UK drafts and I don't know who the appropriate
+agencies are. I have not spelled out the data sources for the European
+transactions either.
+
+Mark",yes,
+legit_017,enron_000245,maildir/corman-s/inbox/archives/46.,legitimate,"Thu, 07 Feb 2002 09:03:56 -0800",REMINDER: Rene's Going away party,37,"This is a REMINDER: If anyone is interested in showing off their culinary skills by sharing one of your favorite hors d' oeuvre a table on 42 will be setup for a day of grazing.
+
+Thanks,
+Ava",yes,
+legit_018,enron_013312,maildir/geaccone-t/inbox/39.,legitimate,"Thu, 16 Aug 2001 13:13:13 -0700",Company-Wide Accounting Training Off-site,128,"We will be offering a 4-hour accounting training session to all accounting personnel on Tuesday, August 28. The agenda is as follows:
+
+8:00 - 8:15 Introduction
+8:15 - 9:00 SFAS 133 / Various DIG Issues
+9:00 - 9:45 Determining Funds Flow
+9:45 - 10:00 Break
+10:00 - 10:45 Business Combinations
+10:45 - 11:30 Goodwill
+11:30 - 12:00 Closing Q & A
+
+We anticipate that the training will be held in one of the Doubletree conference rooms. We will send out a separate email once the location has been determined.
+
+Directors and Senior Directors - Please forward this email to your direct reports at the Manager level and below.
+
+RSVP's are due back to Virginia Dennard by August 21 so that we can get an accurate head count. Thanks!",yes,
+legit_019,enron_009559,maildir/zipper-a/inbox/111.,legitimate,"Thu, 07 Jun 2001 10:19:27 -0700",Great Lakes Transmission Ltd.,133,"Presentation: Great Lakes Transmission
+When: Monday, June 18 (3:00-4:30)
+Where: Troy, MI (Detroit)
+Who: Shiela Walby (Marketing); The main guy is Great Lakes is Art Edmunds [this is who I spoke to] and he will be out of town for several weeks but wants us to meet with Shiela, his rates/pricing manager; An IT person will be at the meeting as well.
+Comments: Art told me that they run daily auctions for both firm and IT; He also told me that they were unable to get rid of much of their firm capacity this past winter; Alliance, Panhandle Eastern and Vector have created a competitive environment for Great Lakes; Art also told me that they rarely sell at their max. rate due to new competition.
+Note: We are meeting with Vector on Tuesday.",yes,
+legit_020,enron_017463,maildir/mann-k/sent/1824.,legitimate,"Fri, 08 Dec 2000 00:29:00 -0800",,34,"Hi Rebecca,
+
+Is email from around 400 yesterday the final version of the payment schedule
+for the LM's? I need to get the facility agreements organized, and that
+information is obviously important.
+
+Thanks,
+
+Kay",yes,
+legit_021,enron_016521,maildir/derrick-j/inbox/133.,legitimate,"Fri, 26 Oct 2001 09:20:13 -0700",Counsel suggestions,198,"Milberg Weiss has filed a shareholder derivative suit against Sprint's directors and officers in connection with the failed Sprint-WorldCom merger. Yesterday, the Missouri state court judge denied our motion to dismiss for failure to make a demand first on the Sprint board of directors. The Sprint board has now established a special litigation committee, which will investigate the allegations and make a report and recommendation to the court.
+As you may know, special litigation committees rely heavily on independent counsel for conducting the investigation and writing reports.
+The selection of independent counsel is made by the special litigation committee. However, because the committee is unaware of counsel who do this type of work, I am writing to solicit any recommendations you may have. If your board of directors has used a special litigation committee, and you believe that independent counsel had the requisite experience to get the job done in a timely, complete and professional manner, I would appreciate a reply to this message. If you were impressed, please let me know the name of the firm and principal attorney.
+Thanks and best regards,
+J. Richard Devlin
+EVP- General Counsel and External Affairs
+913-624-8440 (Office)
+913-624-8426 (Fax)
+Richard.Devlin@mail.Sprint.com",yes,
+legit_022,enron_015413,maildir/shackleton-s/sent/5152.,legitimate,"Mon, 18 Dec 2000 02:17:00 -0800",EWEB financial trades,41,"Holli:
+
+Please verify that the earliest TRADE DATE with EWEB was October 30, 2000
+(which was approved by the EWEB Board on October 3, 2000 according to the
+December 5, 2000 resolution). I have a copy of the resolution. Thanks.
+Sara",yes,
+legit_023,enron_019613,maildir/campbell-l/sent/74.,legitimate,"Mon, 02 Oct 2000 02:09:00 -0700",NNG Gomez Remediation,95,"George, Ive read through your stuff on the Gomez remediation and need some
+help. Why are we collecting so much groundwater. Im concerned that charges
+for twice weekly disposal may be perceived as excessive, even though the
+costs are reasonable. Are we trying to dewater or what? Other than that, I
+dont mind ensuring the protection of the upstream spring and think we should
+get busy on the well installations. Do you think this will do it with
+respect to no more wells needed. Id like to get to that position as quickly
+as possible.",yes,
+legit_024,enron_016211,maildir/sanders-r/sent/1036.,legitimate,"Wed, 25 Apr 2001 01:55:00 -0700",California Litigation Team - Conference Call on Thursday at 2:00,29,"Please note on your calendars that a conference call has been set up for
+tomorrow, Thursday, April 26th at 2:00 p.m. (cst).
+
+The dial-in number is 1-800-998-2462 Passcode 5192559",yes,
+legit_025,enron_000379,maildir/corman-s/inbox/48.,legitimate,"Fri, 15 Mar 2002 15:57:53 -0800",Pipeline Meeting to Discuss Order RM96-1-019 (Partial Day Recalls),230,"A pipeline meeting has been scheduled for Wednesday, March 27, 2002 from
+9:00am-3:00pm at CMS Panhandle Eastern Pipe Line to discuss FERC Order
+RM96-1-019 that was issued on 3/11/2002.
+
+Date: 3/27/2002
+Time: 9:00 a.m. - 3:00 p.m.
+Location: CMS Panhandle Eastern Pipe Line
+5444 Westheimer, Houston, 77056
+Please check in with the 7th floor receptionist.
+
+Conference calling will be available. Please send me an email letting me
+know if you will attend in person or via conference call.
+
+Also, attached is a document that I sent out internally after the NOPR was
+issued late last year. It was intended as a status report on where we left
+off in GISB on the issue of partial day / intraday recalls. I am attaching
+this document as it may be a helpful reminder of where we left off. The
+document also contains links to the GISB EC 12/2000 recommendation form,
+the 12/8/2000 pipeline comments, the 12/14/2000 EC minutes, and AGA Reply
+to the 2/1/2001 GISB Report to FERC. Please let me know if you have any
+questions about the document or links.
+
+I will be attending NAESB WGQ meetings at CIG next week. I can be reach at
+713-598-2946. I will also check my email frequently. Thanks...k
+
+(See attached file: INGAA Status of NOPR RM96-1-019 and History of Recall
+Issue.doc)
+
+Kim Van Pelt
+GISB Coordinator
+CMS Panhandle Eastern Pipe Line
+(713)989-7354
+kvanpelt@cmsenergy.com",yes,
+legit_026,enron_012540,maildir/farmer-d/inbox/123.,legitimate,"Wed, 21 Nov 2001 14:24:13 -0800",EPGT,163,"Mike:
+
+I have terminated about 12 to 13 inactive inter pipe/internal pools effective 12/01/01. There are several other inactive pools which I did not eliminate because
+they had balances in it.
+I also spoke to Jim Tobacco at EPGT for at least an hour or so, going over every line item which was rejected, please get with me once you are back in the office
+and I will go over the ""correct"" pathing procedures.
+I met with Richard and reviewed November transactions for EPGT to determine if we could eliminate the External Pools but unfortunately we cannot do this.
+If we transport then we must use the External Pool. However, you do not need to use internal pools but must use the imbalance pools which you are currently
+using, therefore, I have terminated the internal pools.
+Please review the changes and let me know if this will work for you..
+I will be in touch with you after I meet with El Paso.",yes,
+legit_027,enron_009956,maildir/jones-t/inbox/928.,legitimate,"Thu, 08 Nov 2001 19:05:17 -0800",note,94,"well, how is it going down there?
+
+Charles
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.",yes,
+legit_028,enron_009945,maildir/love-p/sent/709.,legitimate,"Thu, 15 Feb 2001 07:50:00 -0800",0006 FRED,25,"Attached is the revised 0006 FRED please transfer the EMW items to the EMW
+line and settlements will have to resolve these issues. Thanks.
+PL",yes,
+legit_029,enron_018687,maildir/ward-k/inbox/145.,legitimate,"Sat, 08 Dec 2001 15:30:48 -0800",New Years Eve Party,221,"Sherry and Johnny Bains have put together a great package for the 31st at
+the Tribute. Time will be from 8:30 until 1:30 am.
+
+Package details:
+
+Valet service
+2 blackjack tables manned by trained Vegas dealers
+Special midnight countdown with champagne toast
+Open Bar!!!
+Two for 1 golf coupon at the Tribute (cost normally around 100 on weekends)
+Menu to include (served between 9- 11:15 pm) Shrimp and Oysters with Caviar;
+Smoked Salmon, Smoked whitefish; fresh asparagus;
+Spicy beef mini sandwiches; goat cheese with
+crackers; chef carved NY strip lion; filet of salmon with saffron risotto;
+Supreme of chicken and sun dried tomato-cream
+sauce; basil mashed potatoes and more.
+Midnight Buffet will include black-eyed peas, mustard greens, corn bread, &
+assorted French pastries.
+
+Other items will be a DJ and his cost will be divided up later (maybe around
+5 bucks)
+
+Also available are suites if need to stay the night. Need to reserve the
+suite with the Tribute at 972-370-5465.
+
+Price??? Well Sherry did a great job negotiating this one because the
+Tribute wanted to charge 140 and that did not include gratuity. (Over 160?)
+Price is 100 which includes taxes and gratuity (but not the
+DJ or suite if you plan on staying)
+
+Need to know soon by December 22nd. Call Sherry at 972-370-1881 or e-mail
+her at champersgal@aol.com.",yes,
+legit_030,enron_001713,maildir/neal-s/inbox/226.,legitimate,"Tue, 09 Oct 2001 14:05:16 -0700",EnronOnline's New Initiatives,177,"Recently, EnronOnline has changed direction in regards to 3rd party access to EnronOnline and our technology. We want to make sure that we are working closely with each of your desks to ensure that both of our interests are aligned. Please be informed of two initiatives that we are working on.
+
+Creating private label e-market places for other companies
+- We are utilizing the technology that we've created for EnronOnline to create similar platforms for other companies (real time trading to inventory management).
+3rd Party price posting on EnronOnline
+-Essentially, we are selling licenses that allows 3rd parties to post their products onto EnronOnline. We are targeting products that complement the current product set listed on EnronOnline (i.e. pipeline capacity).
+
+Please pass this along to members of your group. Any discussions involving our core commodities would require prior desk approval. We are available to speak with any of your groups in more detail. If you would like to discuss these initiatives, feel free to contact myself at 713-853-9673 or Brad Richter at 713-853-4893.
+
+Thank You,
+
+Dan Diamond",yes,
+legit_031,enron_014500,maildir/shackleton-s/sent/5603.,legitimate,"Fri, 16 Feb 2001 02:00:00 -0800",Securities Loan Agreement,26,"Anna:
+
+Attached is your form of agreement.
+
+Sara Shackleton
+Enron North America Corp.
+1400 Smith Street, EB 3801a
+Houston, Texas 77002
+713-853-5620 (phone)
+713-646-3490 (fax)
+sara.shackleton@enron.com",yes,
+legit_032,enron_012933,maildir/buy-r/inbox/1044.,legitimate,"Mon, 01 Oct 2001 07:43:01 -0700",Credit Reserve - Talisman,74,"Please note the following addition to the credit reserve for September 2001:
+
+CP: Talisman Energy Inc.
+Deal No: 796307.1
+Deal Date: 9/28/2001
+Deal Specifics: ECC sells financial swap to CP
+Term: 1/1/2002 thru 12/31/2010
+Volume: 2MW/h, 7x24
+Price: Fixed $38.95
+Region: Alberta Power Pool
+Trader/Mid-Marketer: John Zufferli/Derek Davies
+Credit Reserve Amount: $65,000 CAD
+
+RAC: transaction confirmed under 1/1/99 ISDA Master Agreement between ECC and Talisman Energy Inc.
+
+Please call w/any questions.
+
+Thanks,
+Ed Sacks",yes,
+legit_033,enron_009286,maildir/ybarbo-p/inbox/561.,legitimate,"Tue, 06 Nov 2001 09:24:58 -0800",Capacity Available - Team Discussion,43,"Kim would like the Marketing Team to meeting with Steve to discuss the above mentioned topic, Friday morning, November 16, 9:00 a.m., ECN-1336.
+
+Please mark your calendars accordingly.
+
+adr
+
+Audrey D. Robertson
+Transwestern Pipeline Company
+email address: audrey.robertson@enron.com
+(713) 853-5849
+(713) 646-2551 Fax",yes,
+legit_034,enron_011616,maildir/rapp-b/inbox/7.,legitimate,"Mon, 22 Oct 2001 16:33:00 -0700",ETS Legal Staff Meetings-FYI,73,"Typically they are held once a month on the 2nd Thursday at 11:00 a.m. in EB47C2 which is on our floor. Denise books the conference room for us. The last two scheduled for this year are November 8th and December 13th and if those dates change I will send out a e-mail letting everyone know....
+
+Emily Sellers
+Enron Transportation Services Legal
+1400 Smith Street, EB4771
+Houston, Tx 77001713) 853-7172
+(713) 646-2738
+
+emily.sellers@enron.com esellers@enron.com",yes,
+legit_035,enron_002283,maildir/lenhart-m/sent/1103.,legitimate,"Tue, 13 Jun 2000 08:01:00 -0700",,44,"Cooper-
+
+Can you let me know how to connect to the power database where we pull CAISO
+scheduled gen & load. I want to pull the actual loads along with the
+scheduled. Get back to me when you get a chance.
+
+Matt Lenhart
+853-7176",yes,
+legit_036,enron_012110,maildir/kaminski-v/sent/2531.,legitimate,"Mon, 19 Jun 2000 05:27:00 -0700",Iraq and Crude Output,120,"An interesting piece of information from the oil markets.
+Iraq is trying to extract concessions from the US and threatens to shut down
+production as of Oct 1 (just in time for the US elections).
+
+The source of this info is Phil Verlaeger (an oil analyst).
+He is very good but excessively concerned with Iraqi machinations.
+He is the source of news (reported by Friedman of the New York Times in
+his op-ed columns) about massive Iraqi trading in the
+oil futures markets. I personally discount this info: the volume and
+transparency of
+the oil markets would not support this type of huge scale operations by
+Saddam's
+government. There may be some trading by Iraqi officials on the side.
+
+Vince",yes,
+legit_037,enron_016840,maildir/parks-j/inbox/440.,legitimate,"Thu, 24 Jan 2002 09:16:37 -0800",,50,"My contact at TXU was unavailable, I left him a message and hope to hear from him before I need to leave. In case you need to talk to him, here is his info...
+
+Jeff Smiron
+214-875-5185
+
+Here is also the spreadsheet. Let me know if you need anything additional.",yes,
+legit_038,enron_017847,maildir/stclair-c/sent/252.,legitimate,"Tue, 02 May 2000 11:08:00 -0700",Utilicorp,42,"Susan:
+I spoke with Brant today and confirmed that the entity that he wanted to add
+to the Enron Guaranty in the second whereas clause does need to be added.
+Please check with Russell Martinson to confirm the entities name. Thanks.
+Carol",yes,
+legit_039,enron_019347,maildir/mcconnell-m/sent/37.,legitimate,"Wed, 23 May 2001 08:30:00 -0700",Coal information,167,"Guys,
+
+I had an interview with a reporter from the Economist yesterday. He is doing
+a big story on business changes, online changes, Jeff Skilling and Enron.
+Coal came up a lot and i described my enthusiasm for our coal business and
+our growth. He wants to put some focus on the coal business and i need some
+facts to get back to him.
+
+What percentage of our coal transactions or business is online?
+Speed changes on a typical transaction post and pre online?
+Other changes you see or products to develop
+International effects
+Total coal moved (physical and financial) especially online
+Other competing exchanges and why ours is better
+Other proEnron facts that illustrate our growing business especially as it
+relates to paradigm changes or online changes
+
+Please feed me this info and if there is something specific that you don't
+want me to say let me know that too but go ahead and give me the answer. I
+need this information pretty quickly.
+
+Thanks,
+m",yes,
+legit_040,enron_019242,maildir/mcconnell-m/inbox/127.,legitimate,"Thu, 15 Nov 2001 14:01:33 -0800",Out of the Office,25,"I will be out of the office beginning Friday, November 16th returning on Monday, November 26th.
+
+You all have a GOOD and SAFE Thanksgiving.
+
+Jan",yes,
+legit_041,enron_018900,maildir/sager-e/sent/14.,legitimate,"Wed, 28 Jun 2000 09:06:00 -0700",plans,86,"Hi Alex
+
+THANKS - Ella rec'd the bathing suit and loves it. She put it on and
+wouldn't take it off. Perfect size. Perfect gift.
+
+WE ARE COMING - hope that's still OK. We finally booked our flight to NY.
+We are planning on coming up on Sat. July 22nd and leaving on Sunday the
+30th. Not sure of the plans from there but will call you later. If this
+doesn't work for you guys, let me know. SO EXCITED about coming.
+
+Talk to you soon.",yes,
+legit_042,enron_012766,maildir/buy-r/inbox/802.,legitimate,"Tue, 04 Sep 2001 08:40:08 -0700",Audit Committee Materials meeting,42,"Two meetings have been scheduled to prepare the materials for the October 8 Audit and Compliance Committee books.
+
+Preliminary Meeting September 13 2:00 PM EB5023 (Rick Causey's office)
+
+Final Prep Meeting
+and review of Materials September 24 9:00 AM EB5023 (RickCausey's office)",yes,
+legit_043,enron_010292,maildir/jones-t/sent/370.,legitimate,"Mon, 04 Oct 1999 07:29:00 -0700",Morgan Guaranty,73,"When you get back, I got a call from Koch about the Morgan ""assignment"". As
+you recall, we are acting as agent on behalf of Morgan in connection with
+their commodity business. Koch called me and they want to get a copy of the
+""assignment"". Since it wasn't an assignment, what should I provide them? I
+don't know that I can provide them a copy of our Servicing Agreement. What
+should I do?",yes,
+legit_044,enron_016667,maildir/white-s/inbox/122.,legitimate,"Tue, 22 Jan 2002 13:25:35 -0800",Daily Risk Procedures,208,"Make sure all price and volatility curves have been final posted in Curve Manager.
+
+Contact Min Zheng (or whomever will be handling this for the estate) to run the script which writes the curves into the m:\power2\region Excel files (these are used by Structuring, EES and East Price if we were to run it again)
+
+Calculate ""East Bankruptcy Calc xx/xx/xx vs yy/yy/yy""
+- Run it on 'Official Adhoc Full Book' and do not officialize upon completion
+- Use '/prod/egs-home/ermt/bin/pwrcalc_slr.new' as your executable
+- email Debbie Brackett, Stephanie McGinnis and John Powell daily with the post-id for the calc
+
+Calculate ""Official East Non-Terminated Transactions xx/xx/xx vs yy/yy/yy""
+- Run it on 'Official Adhoc Full Book' and officialize upon completion
+- Use 'default' as your executable
+
+To run the rolls for Terminated and Non-Terminated books:
+- run DPR Automation (m:\common\power\estate\2002\0102\NEW) on both the East and EastBank portfolios separately
+- for the EAST-PERF book you'll need to also run DPR Automation on PCS/PID in the morning to pull in the liquidations.
+- link EAST-PERF, EAST-NPERF and EPMI-EAST-BANK into the Consolidated Report file
+- each day, copy the 'NEW' folder into the 'DATE SPECIFIC' folder and run the 'PRIOR-ESTATE' file located in the 'NEW'
+folder to run each roll's daily change macro",yes,
+legit_045,enron_006465,maildir/nemec-g/inbox/1372.,legitimate,"Tue, 04 Dec 2001 08:04:13 -0800",Revised LIG invoice,51,"Gerald,
+
+I just received a copy of the revised LIG invoice from Bob Walker. They are now billing Bridgeline for the amount owed. I am concerned that Bob states in the letter that I provided Bridgeline's costs on their behalf.
+
+Any thoughts as to what this might open up?
+Thanks,
+Karen",yes,
+legit_046,enron_011142,maildir/haedicke-m/inbox/8.,legitimate,"Mon, 29 Oct 2001 13:18:52 -0800",Crescendo Threatened Litigation/ Colorado Counsel,63,"As you know, we received a letter from Rocky Mountain Helium (""RMH"") threatening litigation in connection with Enron's investment in Crescendo. We believe that if RMH files suit, it will be in Federal Court in Denver.
+Do you guys have a firm that you have used in Colorado (preferably Denver) that you would like me to call about this case?
+Thanks in advance.",yes,
+legit_047,enron_010439,maildir/jones-t/sent/1083.,legitimate,"Thu, 04 May 2000 03:08:00 -0700",Updated Tax Language,52,"What is going on with the revisions to the tax language in the ISDA? I spoke
+""was sent to Rhett Jackson for review and as far as she know it hadn't been
+signed off on. Obviously, we still have the old language in the form and we
+need to get this updated.",yes,
+legit_048,enron_003896,maildir/dasovich-j/sent/1224.,legitimate,"Fri, 01 Dec 2000 11:48:00 -0800",Getting the PUC off the Utilities Back for Purchases,137,"Greetings:
+
+We are getting considerable traction with the idea of using a ""benchmark"" to
+judge utility purchases, similar in concept to what's in place on the gas
+side. To oversimplify it:
+
+1) set the benchmark
+2) the utility buys for consumers and tries to beat the benchmark
+3) if (at the end of the year) the utility has beat the benchmark, it shares
+the profits with consumers; if the benchmark wins, the utility shares the
+losses with consumers
+4) the PUC performs no ""after-the-fact"" reasonableness; no ""second-guessing""
+
+California likes the idea and is now looking to Enron to come up with what
+the benchmark ought to be. I talked to Calger a bit about it today and he
+suggested that I get together with you guys. As always, time's short. Are
+you available on Monday?
+
+Thanks,
+Jeff",yes,
+legit_049,enron_010223,maildir/jones-t/sent/457.,legitimate,"Wed, 03 Nov 1999 06:29:00 -0800",Master Signing,69,"I called Edmund Cooper and he is out on vacation til Monday. Do you think I
+should email him the certificate, have him print it out there in London, I
+guess Anita has to initial the two ISDA Master Agreements for signature, then
+Edmund could get them initialled by Credit in London, and then bring the
+certificates and agreements up to Mark Frevert for signature. What do you
+think?",yes,
+legit_050,enron_015489,maildir/donoho-l/inbox/junk_file/178.,legitimate,"Wed, 30 Jan 2002 12:46:50 -0800",February -1 Capacity Analysis System ( CAS) meeting,101,"There is a great concern from TW Planning/ Marketing that the existing CAS system is not responding to our expectations.
+While we have corrected numerous bugs in the program, getting the solutions to the production side has been somewhat slow.
+This has caused a delay from Facility Planning to the Marketing group. Lets plan to talk about some new features that Marketing
+has requested for the CAS system. Pipeline Facility Planning is arranging a meeting on Friday Feb-1 From 2 to 3:30 pm in
+Room # 3907 to discuss the concerned issues.
+
+Regards,
+Mansoor Abdmoulaie & Perry Frazier
+#33158 # 30667",yes,
+legit_051,enron_012356,maildir/hodge-j/inbox/435.,legitimate,"Tue, 30 Oct 2001 15:30:50 -0800",,120,"To All:
+Attached is the list of Enron entities and Hess entities to be included in the Master Collateral/Netting Agreement.
+
+Jeff- Can we please prepare 2 Enfolios, one for Amerada Hess Corp. and Hess Energy Trading Company, LLC. The Cross Default amounts in each contract should be $100 MM for ENA and the respective Hess entity. The collateral and MAC provisions will be contained in the Master Netting Agreement.
+
+Frank- Please include Hess Energy Trading Company UK Limited, as agents for Hess Energy Trading Company, LLC in the Master Netting Agreement. The proposed Power of Attorney for this entity was sent to you earlier today.
+
+Thank you all for the help and please call if you have any questions.
+-Darren",yes,
+legit_052,enron_008790,maildir/ermis-f/inbox/654.,legitimate,"Mon, 19 Nov 2001 12:40:09 -0800",Notice Posted to GTN Website,141,"PG&E Gas Transmission-Northwest (GTN) will be releasing a new build of
+E-trans on Tuesday, November 20, 2001. Customer Activities will be
+unavailable Tuesday evening beginning at 8:00 p.m. PCT for approximately 4
+hours. The site will be available for regular business activity on
+Wednesday, November 21.
+
+If you have any questions, please contact GTN's Services & Contract
+Coordinators at (503) 833-4300, Option 2.
+
+PG&E National Energy Group and any other
+company referenced herein that uses the PG&E name or
+logo are not the same company as Pacific Gas and
+Electric Company, the regulated California utility. Neither
+PG&E National Energy Group nor these other
+referenced companies are regulated by the California Public
+Utilities Commission. Customers of Pacific Gas and Electric Company
+do not have to buy products from these companies in order
+to continue to receive quality regulated services from the utility.",yes,
+legit_053,enron_004152,maildir/salisbury-h/inbox/840.,legitimate,"Fri, 27 Jul 2001 14:21:14 -0700",Bloomberg Broker Fee,53,"I changed the following deal entry errors for the $15 flat Bloomberg Broker Fee.
+These deals were entered as $15/mw instead of flat.
+
+Desk REG_CD DEAL_ID FEE TOTAL RATE
+EPMI-ST-CA R10 683207 -6000 400 15
+EPMI-ST-SW R7 683421 -12000 800 15
+EPMI-ST-WHOURLY R10 692805 -2625 175 15
+EPMI-ST-WHOURLY R11 697919 -1800 120 15",yes,
+legit_054,enron_016525,maildir/derrick-j/inbox/158.,legitimate,"Mon, 10 Sep 2001 15:20:52 -0700",ny,240,"dear c & j~~~~the following FYI is based on hours of research i did out of the goodness and generosity of my in preparation of our "" Griswalds do NY Christmas 2001."" of course you can thank me later but for now here are some suggestions :
+date: dec. 22-dec.27
+Having reviewed several (and i do mean several) hotels the Park Lane seems to be the most reasonable. (yes, we are looking at the economics of this adventure ) (rooms vs. suites) this would mean reserving 5 rooms (car and jim; jan and bob; hol and tan; jim and cor; jo-jo). room rates: standard: park view $251.00 city view $ 205.00 play suggestions (based on seeing 3 plays; one on broadway; one off broadway and the radio city music hall christmas show) on: the producers or aida; off: blueman troop; and radio city xmas show.
+on broad: $230 off: 150 radio c m $150
+after reviewing, please adivse either by phone or mail as to the next step. i suggest we reserve our room accommodations, theatre tickets, plane reservations etc. ASAP keep in mind that what you have just reviewed is open
+to discussion and any and all suggestions you elves might have. upon finalizing our plans i will provide trip agendas for all good little boys and girls~~~~sorry jim, i guess you'll have to look on with carrin x0x0x0x0x0 jdg
+
+Get your FREE download of MSN Explorer at http://explorer.msn.com",yes,
+legit_055,enron_012812,maildir/buy-r/inbox/878.,legitimate,"Wed, 12 Sep 2001 15:48:48 -0700",Performance Evaluations,55,"Below are the names of employees for whom we have not yet received Mid-Year 2001 Performance Evaluations from you. Please do these ASAP. Also, remember that all consolidated feedback on employees will be purged from the system effective 9/15/01. Thanks.
+
+CARSON, RICHARD L
+GORTE, DAVID
+HEATHMAN, KAREN K
+
+Shirley Cox
+Assistant to Sheila Walton
+51721",yes,
+legit_056,enron_008428,maildir/perlingiere-d/sent/2560.,legitimate,"Fri, 27 Apr 2001 10:02:00 -0700",New GISB,33,"On my desk is a new GISB for
+
+TEXEX ENERGY PARTNERS, LTD.
+
+Debra Perlingiere
+Enron North America Corp.
+Legal Department
+1400 Smith Street, EB 3885
+Houston, Texas 77002
+dperlin@enron.com
+Phone 713-853-7658
+Fax 713-646-3490",yes,
+legit_057,enron_017638,maildir/mims-thurston-p/inbox/334.,legitimate,"Mon, 19 Nov 2001 08:43:42 -0800",ALLIANCE AOS,67,"An outage that was previously scheduled for the 21st @ Morinville & Albert Lea compressors on Alliance was moved to the 20th and AOS was reduced to 10% for 1 day only, the rest of the month we should see high AOS at least over 20%. There was also maintenance scheduled for the 27th but this has been cancelled.
+
+Any questions give me a call
+
+Thanks
+
+Liz",yes,
+legit_058,enron_009424,maildir/hyvl-d/sent/82.,legitimate,"Fri, 10 Nov 2000 07:56:00 -0800",Reliant Energy,133,"Stacy,
+The Reliant Energy changes which Ellen Dailey sent to you in August appeared
+in my chair this morning. I had discussed the Enovate/Reliant changes with
+Ellen yesterday and we resolved most of the language except for the items I
+noted as being Credit Dept calls, which Russell has yet to respond to. I
+agreed to make similar changes to the ENA/Reliant contract to that agreed
+upon in the Enovate/Reliant contract. In reviewing the materials that Ellen
+sent you as marked, it appears that we had resolved all of the items in the
+ENA/Reliant markup except for the credit driven items. Therefore, I will
+create a red-line and send back to Ellen next week, if Russell responds to my
+earlier emails and to this email. Call if this is not what you desire.",yes,
+legit_059,enron_010132,maildir/jones-t/inbox/720.,legitimate,"Tue, 30 Oct 2001 12:24:33 -0800",NEW COUNTERPARTY FOR EOL - CAVELL ENERGY CORP and ECC,72,"FYI -
+
+A new (shell) Master Financial Agreement has been established in Global Contracts for EOL purposes until the executed originals are received from legal. I have updated this contract number in EOL's Profile Manager. Please call me at 5-4435 if you have any questions.
+
+Counterparty:
+Cavell Energy Corporation
+CP ID Number:
+71842
+Contract Number:
+96086501
+Profile Manager Updated On:
+10/30/01
+
+Thanks,
+Georgi
+
+Georgi Landau
+Enron Net Works
+(Ph) 713/345-4435
+(Fx) 713/646-2495",yes,
+legit_060,enron_001057,maildir/keiser-k/inbox/294.,legitimate,"Tue, 15 Jan 2002 12:20:39 -0800",Demand reimbursement charges for VNG Nov prod.,109,"Scott -
+
+Please zero out the demand charges for Virginia Natural Gas November 2001 production on the following deals:
+
+602027
+602028
+602021
+602018
+602019
+602020
+
+I also need the deal 1020386 price for November 2001 to be changed to zero. The volumes need to stay the way they are but this is a pass through charge to the customer and they have paid this amount to Transco.
+
+Please call me if you have any questions and please let me know when this is done so I can process it in the back office.
+
+Thanks for your assistance.
+
+Priscilla Hamic
+Enron North America Corp.
+Tel: 713-345-3736
+Fax: 713-646-8420
+E-mail: priscilla.hamic@enron.com",yes,
+legit_061,enron_018115,maildir/stclair-c/sent/2307.,legitimate,"Thu, 31 May 2001 07:39:00 -0700",Article (,135,"Mary and Sara:
+I spoke with Lech about the Article 9 questions. He is going to send me some
+articles that they have written which I will send to you. He alos
+confirmed that the cash perfection issue has not changed under new Article 9
+although his view on it was that this type of collateral under the UCC is
+more like a deposit account than ""money"" which, under common law principles,
+gets perfected through the exercise of dominion and control over the cash.
+Under the new Article 9, deposit accounts are covered and the new Article 9
+codifies the common law control test. e alos expressed a view that It may
+take longer than July 1st for NY to adopt the new Article 9.
+
+Carol St. Clair
+EB 3889
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@enron.com",yes,
+legit_062,enron_010451,maildir/jones-t/sent/5648.,legitimate,"Tue, 13 Feb 2001 01:11:00 -0800",Financial Trading Agreement Database,96,"If you like, I can get you database access that will allow you to review the
+comments between Legal & Credit. We do not give this level of access to
+non-Legal & Credit people because we are trying to limit certain information
+for client-attorney privilege (not to mention the business people give away
+our negotiating positions!). If you would like this level of access, let me
+know and I will put in a request. This level of access will also give you
+edit capability, so you need to be careful not to change things by mistake.",yes,
+legit_063,enron_014894,maildir/shackleton-s/sent/2022.,legitimate,"Fri, 15 Sep 2000 09:01:00 -0700",Deutsche Bank guaranty,48,"Tana: I just wanted to make sure that you hadn't forgotten to request the
+ENE guaranty on behalf of ECT Investments, Inc. in the amount of USD20
+million. There is no Master yet but we are hopeful that this will be
+negotiated after the ENA Master. Thanks. Sara",yes,
+legit_064,enron_003585,maildir/dasovich-j/sent/4795.,legitimate,"Fri, 01 Jun 2001 04:53:00 -0700",Phone Calls w/Large Customers re: Core/Noncore Proposal,140,"I've had several phone calls with large customer groups over the past
+24-hours, mostly explaining our noncore/core proposal (in contrast to the one
+that the Assembly Democrats have launched which would saddle business with
+100% of the utilities' past debts). As folks know, the cost shift provision
+of the Dems plans have been erroneously attributed to us in some cases.
+
+The business folks have been very appreciative of the discussions and have
+recognized that, generally, our proposal is a fair and reasonable one. They
+are going to try to set up direct negotiations with Hertzberg and have
+requested that I be part of those negotiations. They are not sure that
+Hertzberg will go along with the idea, but they're going to try. They will
+get back to me when they find out. I'll report back soon as I hear
+something.",yes,
+legit_065,enron_016936,maildir/carson-m/inbox/32.,legitimate,"Tue, 04 Sep 2001 16:17:21 -0700",Wedding,61,"Mike - It was great to see you again and thanks so much for helping in
+the wedding. It was pretty hectic & I wish I could have had more time
+to spend talking with you. I hope you had fun and enjoyed it as much we
+did....pbw
+
+Phillip Wenta
+Sales & Business Development
+Phoenix Cement Co.
+916.677.1711 (office)
+916.677.1811 (fax)",yes,
+legit_066,enron_015713,maildir/beck-s/inbox/386.,legitimate,"Thu, 31 May 2001 13:12:10 -0700",Full Time Analysts,199,"All,
+Just wanted to touch base with you to see if you have had a chance to review the full time Analyst resumes that were delivered to you on May 14th. Please see the list below of remaining Analysts and let me know ASAP if you would like one of them for your group:
+
+Andrew Bermack
+Bali Bukenya
+Belinda DeLa Cruz
+Deborah Freire
+Neeloofar Haghighat
+Blake Lasuzzo
+Jaryn Levitas
+
+These Analysts will be starting on July 17th and be attending orientation for a couple of weeks.
+
+There are also three real time Analysts that were recently interviewed and made an offer to join Enron as a full time Analysts:
+
+Timothy Weil - will be starting July 17th with the other full time Analysts
+Vacharapol (Eddie) Sanguanruang - He will be able to start as soon as his visa is transferred which is already in progress
+Nat Kreamer - He would be able to start June 4th if needed
+
+We will be forwarding resumes to each of you on the real time candidates and if you have an immediate need, please let me know. Thanks in advance for you consideration.
+
+Jana Giovannini
+Associate and Analyst Program
+Career Development
+(713) 853-9233",yes,
+legit_067,enron_017161,maildir/mann-k/sent/2538.,legitimate,"Mon, 29 Jan 2001 01:21:00 -0800",38th floor stuff,26,"There's a monthly birthday party thing at 300 up here. I know you don't
+always get the word, so here's the word.
+
+How's your brother?
+
+ckm",yes,
+legit_068,enron_015156,maildir/shackleton-s/sent/145.,legitimate,"Mon, 12 Jul 1999 10:50:00 -0700","Sonoco enclosure letter for July, 1999 payment",36,"Attached is a new letter for the July 17 payment which ECT owes Sonoco.
+Please review for accuracy. If it's OK, one of us can fax (with the
+settlement statement) on the payment date. Thanks. Sara",yes,
+legit_069,enron_017221,maildir/mann-k/sent/1312.,legitimate,"Wed, 01 Nov 2000 01:50:00 -0800",Conference call,43,"Suzanne,
+
+Please call (not email - he doesnt check it) Paul Pipitone (Andrews & Kurth)
+and see if he is available for a meeting (or conference call) to discuss the
+GE facility agreement sometime tomorrow - either am or after 300.
+
+Thanks,
+
+Kay",yes,
+legit_070,enron_010463,maildir/jones-t/sent/5514.,legitimate,"Thu, 25 Jan 2001 07:28:00 -0800",GFI/EnronOnline Documents,111,"At the request of Bob Shults, I am attaching our proposed form of Letter of
+Interest. In addition, although we feel our current discussions are covered
+by the Non-Disclosure Agreement between our affiliate Enron Europe Limited
+and GFI Group, Inc., we would like to enter into a Non-Disclosure Agreement
+directly between GFI and EnronOnline and Enron Net Works due to the ongoing
+nature of our discussions. If the enclosed meets with your approval, please
+sign the enclosed documents and return them to me via fax (713) 646-3490. I
+will have them executed by Enron. If you have any comments or questions,
+please do not hesitate to call me at (713) 853-3399.",yes,
+legit_071,enron_011939,maildir/kaminski-v/inbox/79.,legitimate,"Mon, 07 Jan 2002 09:04:03 -0800",Latest Draft of Pro Forma Interconnection Agreement for Conf. Call Discussion,160,"The attached is the latest draft of the pro forma interconnection agreement being prepared as part of the FERC ANOPR process. This draft has been prepared by the Alliance of Energy Suppliers (AES) as part of its continuing effort to take a
+leadership role in this process and ensure an outcome that will be beneficial for the interests of AES member companies and the generator community as a whole. It will be referenced on today's conference call.
+
+This draft is the working draft the coalition is working from this week. A final ""consensus"" version will be circulated and filed at FERC on or by January 11, 2002.
+
+If you need any additional information, please do not hesitate to contact us.
+Call in number: (800) 860-2442.
+Call Name: Alliance Interconnection Call
+Date: Monday, Jan. 7 at 1PM (EST)
+
+Tonja
+
+Tonja Wicks
+Manager, Energy Supply Policy
+Alliance of Energy Suppliers
+Edison Electric Institute
+Phone: (202) 508-5098
+Fax: (202) 508-5600
+Fax: (202) 508-5445",yes,
+legit_072,enron_016094,maildir/arora-h/inbox/saved_mail/24.,legitimate,"Fri, 30 Mar 2001 06:48:53 -0800",Documentation,30,"Harry,
+Tom has drafted a document accompanying the option model. It should
+be helpful for other people who sees the model the first time.
+
+Best,
+Alex
+
+(See attached file: DailyValuation1.doc)",yes,
+legit_073,enron_016640,maildir/white-s/inbox/93.,legitimate,"Wed, 30 Jan 2002 09:14:10 -0800",East Power RisktRAC setup,67,"Andrew-
+
+I have created a draft of our RisktRAC book setup spreadsheet for East Power. Can you take a look at it and see if everything is accurate. One issue I have relates to the 'Trading Location' field. We had previously used 'US Power East', but this is not part of the dropdown menu in the field. Has this location been changed to something else?
+
+Thanks!
+
+Andrea",yes,
+legit_074,enron_017118,maildir/mann-k/sent/3486.,legitimate,"Mon, 09 Apr 2001 08:09:00 -0700",Delta Power,47,"Hi Carolyn,
+
+GE has asked for an explanation of the relationship of Pegasus to Delta Power
+(in other words, the equity structure). Could you please ask Greg if DP can
+send an email with that explanation, so that I can pass it along to GE.
+
+Thanks,
+
+Kay",yes,
+legit_075,enron_004184,maildir/salisbury-h/inbox/878.,legitimate,"Wed, 18 Jul 2001 17:48:56 -0700","Fred Meyer Challenge, August 5-7 at The Reserve",321,"Do you like golf?
+
+Do you like kids?
+
+How would you like to put the two together, AND
+earn a free day-pass to the 2001 Fred Meyer Challenge
+at The Reserve Vineyards & Golf Club?
+
+Metropolitan Family Service (MFS) will be running several fund-raising activities during
+the Fred Meyer Challenge, August 5-7, at The Reserve Vineyards & Golf Club.
+Proceeds will help support MFS programs for children, families, and the elderly.
+
+MFS needs your help!
+Volunteers are needed to help run these fund-raising activities!
+Each volunteer shift is three hours in length and includes a lunch ticket, shirt, parking pass
+& credentials (for the volunteer day), as well as an additional day-pass to the Challenge.
+At this time, volunteers are needed for Monday & Tuesday (7-10a, 10-1p, 1-3p shifts),
+although some Sunday shifts slots are still available (11-2p, 2-5p).
+
+The duties are simple:
+greet and register participants,
+collect/handle money,
+keep scores,
+distribute prizes,
+and other easy tasks
+
+You can have fun, work with kids, and
+help raise money for a great organization--all at the same time!
+
+Are you interested?
+Please contact Tiffany Dean at MFS (tiffanyd@metfamily.org) or let me know (x8321).
+
+If you are unable to volunteer but are planning on attending the Challenge,
+please stop by and support the following MFS activities and contests:
+Putt for Kids
+Kids' Interactive Golf Course
+""The Long Drive""
+""Chip-On Game""
+The events are fun for the whole family!
+
+The 2001 Fred Meyer Challenge
+The Reserve Vineyards & Golf Club
+Aloha, OR
+
+Confirmed Players:
+Billy Adrade Brad Faxon Mark O'Meara
+Notah Begay Sergio Garcia Jack Nicklaus
+Stewart Cink Brian Henninger Gary Nicklaus
+John Cook Peter Jacobson Arnold Palmer
+Fred Couples Tom Lehman Craig Stadler
+Bob Duval Casey Martin David Toms
+David Duval Phil Mickelson Jean Van de Velde
+Steve Elkington Scott McCarron Fuzzy Zoeller
+
+Confirmed Celebrities:
+Jim Courier Stone Phillips
+Patrick Duffy Detlef Schrempf
+Richard Karn Sterling Sharpe
+Nelson (Rosie 105) Kevin Sorbo
+Dan Patrick",no,Looks like and ad
+legit_076,enron_005754,maildir/tycholiz-b/inbox/543.,legitimate,"Fri, 02 Nov 2001 14:02:55 -0800",Thermo Ft. Lupton Co-generation Plant,96,"We have a very good relationship, and long term gas sale with Thermo Partners who manage the 270 MW Ft. Lupton facility. They have inquired as to Enron's interest in either buying the energy, tolling or buying the entire plant. The effective date would be July 2002. The plant is currently under a QF contract with PSCo.
+
+Mike, I would like to see if you have some time on Monday afternoon to discuss the particulars and we can devise a game plan to get you connected with these guys. Let me know your availability.
+
+Thanks
+Mark",yes,
+legit_077,enron_010090,maildir/jones-t/inbox/397.,legitimate,"Mon, 15 Oct 2001 06:46:48 -0700",Cheryl Nelson - 10/15/01,55,"Good Morning All!
+
+I have just spoken with Cheryl and she has informed me that she will be taking the morning off as vacation today, to deal with some personal issues. She will be in after lunch. Please feel free to call me if you should need any assistance.
+Thank you,
+Keegan Farrell
+EB3875
+713-345-3317",yes,
+legit_078,enron_004344,maildir/salisbury-h/inbox/570.,legitimate,"Mon, 24 Sep 2001 13:58:15 -0700",EnronOnline -Stack Manager Changes,248,"We have made the following modifications to the EnronOnline applications.
+
+Stack Manager Changes
+
+Fill Order Enhancements - (Effective Tuesday September 25)
+? To fill a Top of Stack order in Stack Manager, Right click on the pink shaded order in the depth window of Stack Manager and select fill.
+? The trader now has the ability to fill limit orders that appear at the top of the trader's stack on both sides.
+? The order will now be filled at the full order volume regardless of the trader's stack volume.
+? Filling an order will not move the trader's price or cause a hedge to occur.
+
+Resize floated stack windows- (Effective Tuesday September 25)
+
+You will now have the ability to resize the stack window to the desired extent.
+
+Website Changes ( Effective Monday September 24)
+
+Limit Order Restrictions on Physical Transactions -
+? Customers will not be allowed to transact with themselves on physical transactions. If a top of stack limit order has been placed on a physical product the counterparty or desk that placed the order will not be allowed to transact on it.
+? If a customer or desk has top of stack limit orders at different prices on both the bid and offer and subsequently moves the price of one so that they are at the same price, both orders will be cancelled. The customer would have effectively transacted with himself.
+
+Please call me if you have any questions. Thanks.
+
+Savita ( X 31787)",yes,
+legit_079,enron_006770,maildir/nemec-g/inbox/5.,legitimate,"Mon, 29 Oct 2001 14:51:07 -0800",Crawfish land to Bridgeline,47,"Gerald,
+
+Would it be possible to get a draft of the agreement for the sale of the 2.82 acres to Bridgeline in the next day or two? This is something that we would like to finalize in the next week, if possible.
+
+Let me know.
+
+Rakhi
+x3-7871",yes,
+legit_080,enron_018290,maildir/lucci-p/inbox/174.,legitimate,"Wed, 31 Oct 2001 12:45:15 -0800",Peaking Proposal for NGC,76,"Northern Gas Company is requesting a letter proposal for peaking gas for
+December 2001 through February 2002. This proposal could be for the Casper
+Pooling point #18106 or any other mutually agreeable points into NGC's
+system. The volumes should be a max volume of 15,000 to 20,000/d. NGC
+would like to receive this proposal by November 7th and we will notify
+suppliers on November 9th or 12th. If you have questions let me know.
+Thanks, Lorraine",yes,
+legit_081,enron_001759,maildir/neal-s/inbox/156.,legitimate,"Fri, 01 Jun 2001 15:55:26 -0700",OUC Deal,71,"Scott - Attached are my notes of the OUC deal that Jared thought you would like.
+
+Dan - We need to incorporate the terms and conditions that I have mentioned in the summary below into a confirmation sheet. I'm assuming we have a Master Firm Agreement with Orlando Utilities, but if we don't, we need to get a contract drafted as well. I will check in with you to discuss.
+
+Thanks.",yes,
+legit_082,enron_008452,maildir/perlingiere-d/sent/814.,legitimate,"Thu, 16 Nov 2000 07:43:00 -0800",,35,"As discussed, please see the attached Master Firm Purchase/Sale Agreement
+draft for your review.
+
+Debra Perlingiere
+Enron North America Corp.
+Legal Department
+1400 Smith Street, EB 3885
+Houston, Texas 77002
+dperlin@enron.com
+Phone 713-853-7658
+Fax 713-646-3490",yes,
+legit_083,enron_002209,maildir/dickson-s/sent/16.,legitimate,"Wed, 14 Mar 2001 02:04:00 -0800",enovate Forms,53,"I have asked Pat Radford to put the enovate Master Firm and the enovate GISB
+in Attorney's Forms. Until she is able to do that, you can find these forms
+as follows:
+
+1) The Master Firm is at o/common/legal/sdickso/enovate/enovate master
+
+Please let me know if you have any problems locating these documents.
+
+Stacy",yes,
+legit_084,enron_002823,maildir/taylor-m/sent/437.,legitimate,"Sat, 14 Aug 1999 10:57:00 -0700",Trip to Brazil,87,"Joao -
+
+I'm making another business trip to Brazil - this time just to Sao Paolo.
+I'll be there Tuesday to Thursday of this week. Any chance you will be
+nearby? I tried to arrange a meeting in Rio too but unfortunately our office
+there is quite small and the only people I need to see will be in Sao Paolo
+then. I also still get to London every once in a while. Let me know when
+you are there - maybe we can have dinner.
+
+Mark",yes,
+legit_085,enron_012068,maildir/kaminski-v/inbox/125.,legitimate,"Fri, 14 Dec 2001 11:07:32 -0800",Power and Gas Trading,155,"Sarah,
+
+As I have not yet heard from Jayshree, I thought I would convey the gist of our phone conversation by e-mail.
+
+Over the last several days, we in the research group have looked at ORACLE risk management databases and Enrononline data to corroborate the profitability numbers for power and gas trading. Our analyses yield figures which are substantially at variance with what is normally believed to be the case. Of course, there may well be information sources we are not privy to. Moreover, we found some irregularities in the data which only serve to raise our doubts about the quality of the data.
+
+As a result, we are not able to make an authoritative statement about the profitability of power and gas units. As we are not able to intepret the data ourselves, we have provided the spreadsheets so you can draw your own conclusions. Thanks.
+
+Rakesh Bharati
+Phone: (713) 853-0936
+Fax: (713) 646-2503",yes,
+legit_086,enron_017232,maildir/mann-k/sent/2928.,legitimate,"Sat, 03 Mar 2001 09:05:00 -0800",Escalade,162,"Hi Leatha,
+
+Neil and I went to D Taylor and looked at an Escalade. We liked it, however,
+we want to price it with a couple of extra features. I like the extra wood
+package, and Neil likes it with the gold trim package. When we asked for a
+price, it added around $1700, which I thought was ridiculous. They offered
+to discount it by $200, which I again thought was ridiculous. When we priced
+these options at McGinniss, the price was less ($600 for the wood package
+instead of $995, for instance), and they offered to discount the options by a
+third. So, we can get the deal done if they will get reasonable over these
+options. The sales guy (Nathaniel) was going to ""work on it"". The fellow
+you had told us to ask for wasn't in, by the way.
+
+I will be out of town on Monday, but Neil will be in, and will have my Lexus.
+
+Thanks,
+
+Kay",yes,
+legit_087,enron_001667,maildir/lay-k/inbox/1124.,legitimate,"Sun, 20 Jan 2002 15:36:46 -0800",CEW Memo to ACCF Board,139,"Dear Ken:
+Second, I want to give you a""heads-up"" on a memo to the ACCF board of directors wich will arrive shortly by mail. Both ACCF and some members of its board have been mentioned in the press around the country in connection with Enron, David Duncan (one of our directors), and you. In addition, last week the Wall Street Journal name me as a board member in 1999, although as you know I retired in May of that year.
+I wanted our directors to know how Mark Bloomfield and I have tried to handle a substantial number of calls from the press. I have talked with no reporters and Mark has, I think, handled the few he has talked with very well.
+Harmolyn and I and are praying for you in these temendously difficult and agonizing times.
+Charly",yes,
+legit_088,enron_014757,maildir/shackleton-s/sent/2479.,legitimate,"Mon, 04 Dec 2000 01:42:00 -0800","Deutsche Bank (""DB"")",81,"Larry:
+
+According to Steve Kessler (the DB lawyer in New York who is negotiating the
+ENA ISDA Master), London e-commerce issues are normally handled ty the London
+lawyer (Conrad Libischer at 44-20-754-52705). If NY trader is also
+involved, then DB must decide on one lawyer to handle password application,
+etc.
+
+The ENA ISDA Master must first be approved by Frankfurt. I don't know how
+long this takes.
+
+You may want to let the DB trader start the EOL process.
+
+Thanks. Sara",yes,
+legit_089,enron_012420,maildir/hodge-j/inbox/597.,legitimate,"Tue, 30 Oct 2001 08:37:06 -0800",Trco ICTS contract,34,We have a discount on the ICTS contract #1.8793 from 11/1/2001 through 3/31/2002. The receipt points are Trco/Nful Leidy and Trco/Cgas Young Women's Creek. The delivery point is Trco/CNG Leidy. The rate is $.025.,yes,
+legit_090,enron_005217,maildir/ruscitti-k/inbox/265.,legitimate,"Mon, 19 Nov 2001 18:04:30 -0800",Cal vs. Rutgers - will anyone go to watch?,105,"Kevin,
+
+This has to be one of the *ugly* games of the year. The only saving
+grace (and it isn't much of one either) is that the winner gets to say
+they won their last game. For Cal, that would be their only win. I'm
+going to be in OC at my in-laws, and I'm going to try to get an Internet
+broadcast.
+
+If Rutgers wins, I'll buy you a drink the next time I see you (actually
+I'll buy you a drink regardless).
+
+Hi to Lisa - hope you guys have a Happy Thanksgiving.
+
+Tim Sarhatt
+Comprehensive Financial Management
+(408) 358-3316
+(408) 358-2487 fax",yes,
+legit_091,enron_001407,maildir/lay-k/inbox/1386.,legitimate,"Wed, 10 Oct 2001 22:47:07 -0700",Update on Retirement,125,"Ken:
+I am writing to seek coming back to Enron. I chose retirement in April this year at age 57 because we all thought the stock was going to $120 or thereabouts. We know what happened.
+I was your VP of Engineering for EE&CC under Larry Izzo.
+You might remember me, we last met at your Marco Polo awards dinner, my wife, Brenda, was the one in the Red wheelchair talking with Mr. Kissinger.
+I could help bring some intellectual capital back to Enron and help the company succeed. My resume is attached.
+I appreciate any consideration you can make.
+Thanks,
+Dennis Alexander
+Dennis Alexander, P.E.
+Phone: 713-371-0960
+Fax: 713-371-0961
+Home Phone: 979-885-4838
+Cell Phone: 979-885-8256
+Email: W5KU@AOL.COM
+Address:
+5781 FM 1094
+Sealy, Texas 77474",yes,
+legit_092,enron_015485,maildir/donoho-l/inbox/junk_file/58.,legitimate,"Fri, 11 Jan 2002 14:24:24 -0800",LIM/MIMIC Database,34,"Good Afternoon:
+
+The following information is being compiled per Lorna Brennan:
+
+Please advise me (yes or no) via e-mail if you currently utilize LIM/MIMIC on your desktop.
+
+Thank you for your assistance!
+
+Julie McCoy",yes,
+legit_093,enron_005661,maildir/shively-h/inbox/41.,legitimate,"Tue, 29 Jan 2002 11:48:09 -0800",Market Data Contracts,150,"Everyone,
+
+We are in the process of creating new contracts with UBS for all Market Data real-time applications, subscriptions and publications. Attached is a comprehensive list of all contracts that will be renegotiated under the UBS name for use by the Gas and Power trading entities.
+
+In order to leverage UBS' significant discounts and avoid duplicate efforts, Danielle Marcinkowski with Market Data will be the initial point of contact when inquiring about the addition or status of applications or publications. I bring this to your attention because we understand that several groups have initiated discussions with the various vendors over the past few days.
+
+If you have any questions please feel free to contact me at 713-853-9358 or Danielle at 713-853-7926. If you think something is missing from the list, please bring it to our attention immediately. Please pass this word around within your group as appropriate.
+
+Regards,
+
+Chris Behney",yes,
+legit_094,enron_014739,maildir/shackleton-s/sent/1381.,legitimate,"Wed, 17 May 2000 01:24:00 -0700",Spinnaker Threshold,159,"[You'll need to amend the credit worksheet to reflect changes]
+
+""Threshold"" means with respect to Party A, unlimited; provided however, that
+the Threshold for Party A shall be U.S. $5,000,000 upon the occurrence and
+during the continuance of a Material Adverse Change, and the Threshold for
+Party A shall be zero upon the occurrence and during the continuance of an
+Event of Default or a Potential Event of Default with respect to Party A.
+
+""Threshold"" means with respect to Party B, unlimited; provided however, that
+the Threshold for Party B shall be U.S. $3,000,000 upon the occurrence and
+during the continuance of a Material Adverse Change; and the Threshold for
+Party B shall be zero upon the occurrence and during the continuance of an
+Event of Default or a Potential Event of Default with respect to Party B or
+upon execution of any Transaction pursuant to this Agreement having a term
+greater than or equal to one (1) year.",yes,
+legit_095,enron_015491,maildir/donoho-l/inbox/junk_file/115.,legitimate,"Tue, 29 Jan 2002 13:09:50 -0800",hi,92,"Hi Lindy! Laura McGuire and I were talking about you today. Remember we
+were working on Florabama and we met her for lunch and it was pouring down
+rain?! She was in my office today for a meeting and it took us a while to
+remember how we knew each other. She got married in January; I think her
+new last name is Heckman.
+
+Anyway, I was thinking about you and I hope you're doing well thru all this
+Enron mess. How is Sam? talking up a storm already?
+
+Take care--
+
+Susan",yes,
+legit_096,enron_010002,maildir/jones-t/inbox/542.,legitimate,"Thu, 25 Oct 2001 09:02:24 -0700",Williams Gas Pipelines,58,"Tana,
+Please send me an NDA that covers both ""Market Manager"" and selling a ""Private E-Market Place"" for Williams Gas Pipeline Companies.
+It is for:
+
+Allison G. Bridges
+Senior Vice President, Strategic Marketing
+2800 Post Oak Blvd.
+Houston, Texas 77251
+
+This NDA should cover all of Williams' e-Commerce effofts as well as all of their pipeline companies.
+
+-Dan",yes,
+legit_097,enron_008879,maildir/kean-s/sent/312.,legitimate,"Wed, 20 Sep 2000 10:51:00 -0700",,66,"I talked to Hettie today. It's unlikely that we are going to find time for
+Jeff and the Governor to talk (because of the Governor's schedule). We'll
+try to set something up later. In the meantime, the Governor should just
+sign the bill. Of course, Hettie had already communicated this; the Gov's
+office acknowledged that the message was recieved but did not make a specific
+commitment.",yes,
+legit_098,enron_014701,maildir/shackleton-s/sent/693.,legitimate,"Thu, 09 Dec 1999 11:22:00 -0800",Utilities (investor owned),172,"Mark and I met with Mark Haedicke regarding utilities and the need for a
+legal opinion from the utility counterparty. We have agreed with Mark as
+follows:
+
+1. Our negotiations with investor owned utilities should be based upon our
+standard ISDA Schedule (ISDA Multicurrency Agreement) AND including the
+""Additional Termination Event"". Neither party should be required to provide
+a legal opinion.
+
+2. Investor owned utilites will be approved for online trading from a legal
+viewpoint. The extra ""Additional Termination Event"" paragraph is not
+currently included in the GTC's but COULD be incorporated if there is a
+revision to the online agreement.
+
+3. Our position with respect to municipals/municipal owned utilities,
+federal/state/local owned utilities and cooperatives remains unchanged. We
+should still utilize and update the ""municipal ISDA"" form, and, require a
+legal opinion from the counterparty. In that regard, Susan Flynn has been
+working on an ""omnibus"" format for an electric co-op (Deseret Generation and
+Transmission Co-operative), an earlier version of which could be used as a
+template for a municipal omnibus confirmation.",yes,
+legit_099,enron_006574,maildir/nemec-g/inbox/1283.,legitimate,"Fri, 17 Aug 2001 13:58:05 -0700",Vinson & Elkins' CLE Program on Antitrust Issues,55,"Please note the referenced CLE program will be held in the Granger A room at the Doubletree Hotel downtown and not in the La Salle B room on Wednesday, August 22, from Noon to 1:30 p.m.
+
+Thank you.
+
+Janette Elbertson
+Administrative Coordinator
+Enron Wholesale Services
+Legal Department
+Telephone: (713) 853-7906
+Fax: (713) 646-2600
+e-mail: janette.elbertson@enron.com",yes,
+legit_100,enron_008060,maildir/perlingiere-d/sent/1960.,legitimate,"Thu, 01 Feb 2001 10:10:00 -0800",,59,"Forwarding the attached resume for consideration for the following positions:
+
+Id # 0000106109
+ENA Strategic Information
+Wholesale, REtail & COMM
+
+Id# 0000107748
+Corp Analysis and Repporting
+Corporate Staff Human Resources & CoMM REL
+
+Thank you for your consideration.
+
+Debra Perlingiere
+Enron North America Corp.
+Legal Department
+1400 Smith Street, EB 3885
+Houston, Texas 77002
+dperlin@enron.com
+Phone 713-853-7658
+Fax 713-646-3490",yes,

@@ -1,0 +1,214 @@
+﻿review_id,status,pair_id,source_record,subject,original_words,enhanced_words,word_ratio,content_retention,added_word_share,token_edit_distance,also_in_random_sample,original_body,enhanced_body,fidelity_pass,reviewer_notes
+high_001,"In final dataset; repeated passage removed; excluded in the ""without repeated-passage pairs"" sensitivity analysis",nazario_001874,private-phishing4.mbox#1603,Database Maintenance Update,249,118,0.47,0.855,0.092,0.427,FALSE,"A Computer Database Maintenance is currently going on our Web mail
+Message Center Our Message Center needs to be re-set
+because of the high amount of spam mails we receive daily. A
+Quarantine Maintenance will help us prevent this everyday dilemma.
+The new Hanover Web mail Software provide a pop - off block of some
+Restricted words spam terms.a
+
+To revalidate your mailbox Please click the reply button and submit the below information’s:
+
+Full Name:
+Email Address:
+User Name/ID
+Password:
+Confirm Password:
+
+The Hanover Web mail Software is a fast and light weight application
+to quickly and easily access your e-mail.
+Failure to revalidate your mailbox will render your e-mail in-active
+from our database.
+
+Thanks
+System Administrator
+The new Hanover Web mail Software
+CONFIDENTIALITY NOTICEA Computer Database Maintenance is currently going on our Web mail
+Message Center Our Message Center needs to be re-set
+because of the high amount of spam mails we receive daily. A
+Quarantine Maintenance will help us prevent this everyday dilemma.
+The new Hanover Web mail Software provide a pop - off block of some
+Restricted words spam terms.a
+
+To revalidate your mailbox Please click the reply button and submit the below information’s:
+
+Full Name:
+Email Address:
+User Name/ID
+Password:
+Confirm Password:
+
+The Hanover Web mail Software is a fast and light weight application
+to quickly and easily access your e-mail.
+Failure to revalidate your mailbox will render your e-mail in-active
+from our database.
+
+Thanks
+System Administrator
+The new Hanover Web mail Software
+CONFIDENTIALITY NOTICE","A computer database maintenance is currently underway on our Webmail Message Center. Our Message Center needs to be reset because of the high amount of spam mail we receive daily. Quarantine maintenance will help us prevent this everyday dilemma. The new Hanover Webmail software provides a pop-off block of some restricted words and spam terms. To revalidate your mailbox, please click the reply button and submit the information below: Full Name: Email Address: User Name/ID Password: Confirm Password: The Hanover Webmail software is a fast and lightweight application to quickly and easily access your e-mail. Failure to revalidate your mailbox will render your e-mail inactive from our database. Thanks System Administrator The new Hanover Webmail Software CONFIDENTIALITY NOTICE",yes,
+high_002,Removed after review: the source email used split-word obfuscation (not an enhancement failure),nazario_003484,phishing-2019#191,Jose Get Your WeTransfer Files Labelled Payment/Invoice,81,61,0.75,0.521,0.232,0.38,FALSE,"Recipient
+jose@monkey.org
+
+Jose
+
+Jam1310@wetransfer.com
+Sent you (jose@monkey.org) some files
+2 files 131KB in total. Will be deleted on 10 October, 2019
+
+2 files
+ProofPayment.JPG (74KB)
+Invoice.pdf (57KB)
+
+Pl ease do not re ply to th is em ail. We are un able to re spond to in quiries se nt to th is ad dress. For im mediate an swers to yo ur qu estions, vi sit our He lp Ce nter by cl icking ""Help"".
+
+Inc. 20 19 We Transfer","Recipient jose@monkey.org Jose Jam1310@wetransfer.com Sent you (jose@monkey.org) some files 2 files, 131KB in total. Will be deleted on 10 October, 2019 2 files ProofPayment.JPG (74KB) Invoice.pdf (57KB) Please do not reply to this email. We are unable to respond to inquiries sent to this address. For immediate answers to your questions, visit our Help Center by clicking ""Help"". Inc. 2019 WeTransfer",yes,Original email had random break/space in words the enhancement fixed that leading to fewer characters.
+high_003,Removed after review: the source email used split-word obfuscation (not an enhancement failure),nazario_003487,phishing-2019#197,Jose Get Your Files Labelled Payment/Invoice,81,62,0.77,0.534,0.229,0.358,FALSE,"Recipient
+jose@monkey.org
+
+Jose
+
+Sam113@wetransfer.com
+Sent you (jose@monkey.org) some files
+2 files 139KB in total. Will be deleted on 17 October, 2019
+
+2 files
+ProofPayment.JPG (68KB)
+Invoice.pdf (71KB)
+
+Pl ease do not re ply to th is em ail. We are un able to re spond to in quiries se nt to th is ad dress. For im mediate an swers to yo ur qu estions, vi sit our He lp Ce nter by cl icking ""Help"".
+
+Inc. 20 19 We Transfer","Recipient jose@monkey.org Jose Sam113@wetransfer.com Sent you (jose@monkey.org) some files 2 files, 139KB in total. Will be deleted on 17 October, 2019 2 files ProofPayment.JPG (68KB) Invoice.pdf (71KB) Please do not reply to this email. We are unable to respond to inquiries sent to this address. For immediate answers to your questions, visit our Help Center by clicking ""Help"". Inc. 2019 We Transfer",yes,Original email had random break/space in words the enhancement fixed that leading to fewer characters.
+high_004,"In final dataset; repeated passage removed; excluded in the ""without repeated-passage pairs"" sensitivity analysis",nazario_000153,phishing0.mbox#12,Credit/Debit Card Update,296,145,0.49,0.964,0.02,0.357,FALSE,"Dear eBay customer,
+
+During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your billing information.
+
+This might be due to either of the following reasons:
+
+1. A recent change in your personal information ( i.e.change of address).
+
+2. Submiting invalid information during the initial sign up process.
+
+3. An inability to accurately verify your selected option of payment due to an internal error within our processors.
+
+Please update and verify your information by clicking the link below:
+
+https://signin.ebay.com/ws/eBayISAPI.dll?SignIn
+
+If your account information is not updated within 48 hours then your ability to sell or bid on eBay will become restricted.
+
+Thank you
+
+The eBay Billing Deptartment .
+
+Copyright 1995-2004 eBay Inc. All Rights Reserved.
+
+Designated trademarks and brands are the property of their respective owners.
+
+Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy .
+
+Dear eBay customer,
+
+During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your billing information.
+
+This might be due to either of the following reasons:
+
+1. A recent change in your personal information ( i.e.change of address).
+
+2. Submiting invalid information during the initial sign up process.
+
+3. An inability to accurately verify your selected option of payment due to an internal error within our processors.
+
+Please update and verify your information by clicking the link below:
+
+https://signin.ebay.com/ws/eBayISAPI.dll?SignIn
+
+If your account information is not updated within 48 hours then your ability to sell or bid on eBay will become restricted.
+
+Thank you
+
+The eBay Billing Deptartment .
+
+Copyright 1995-2004 eBay Inc. All Rights Reserved.
+
+Designated trademarks and brands are the property of their respective owners.
+
+Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy .","Dear eBay customer, During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your billing information. This might be due to either of the following reasons: 1. A recent change in your personal information (i.e., change of address). 2. Submitting invalid information during the initial sign-up process. 3. An inability to accurately verify your selected payment option due to an internal error within our processors. Please update and verify your information by clicking the link below: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn If your account information is not updated within 48 hours, then your ability to sell or bid on eBay will become restricted. Thank you The eBay Billing Department. Copyright 1995-2004 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy .",yes,
+high_005,Removed after review: the source email used split-word obfuscation (not an enhancement failure),nazario_000759,phishing3.mbox#714,Notification of Limited Account Access,62,65,1.05,0.738,0.254,0.263,FALSE,"Sensationall revoolution in medicine!
+
+E''nlarge your p''enis up to 10 cm or up to 4 inches!
+
+Its h'erbal solution what hasnt side effect, but has 100% guaranted results!
+
+Dont lose your chance and but know wihtout doubts, you will be impressed with results!
+
+Clisk here: http://sometrades.info
+
+contentious right finny zomba maltreat pad emplace set
+shim larkin presence willow feint medley saturable shell","Sensational revolution in medicine! Enlarge your penis up to 10 cm or up to 4 inches! It’s an herbal solution that has no side effects, but has 100% guaranteed results! Don’t lose your chance and buy now without doubts; you will be impressed with the results! Click here: http://sometrades.info contentious right finny zomba maltreat pad emplace set shim larkin presence willow feint medley saturable shell",yes,
+high_006,In final dataset,nazario_002303,private-phishing4.mbox#2652,Paypal transfer to your bank account initiated.,57,70,1.23,0.825,0.211,0.237,FALSE,"Paypal transfer
+
+We aresending funds fromPaypal to your bank account.
+
+Total amounttransferred$877.49
+BankaccountBANK OF NORTHCAROLINA
+Transaction ID40978536941582924
+
+Help Center Resolution Center Security CenterPlease don't reply to this email. It'll justconfuse the computer that sent it and you won'tget a response.Copyright 2012 PayPal, Inc. All rights reserved. PayPalis located at 2211 N. First St., San Jose, CA 95131.","Paypal transfer We are sending funds from Paypal to your bank account. Total amount transferred $877.49 Bank account BANK OF NORTH CAROLINA Transaction ID 40978536941582924 Help Center Resolution Center Security Center Please don't reply to this email. It'll just confuse the computer that sent it, and you won't get a response. Copyright 2012 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.",yes,
+high_007,In final dataset,nazario_002517,private-phishing4.mbox#3086,User Account Alert,40,41,1.02,0.815,0.244,0.235,FALSE,"This is It-Help Desk sending you this E-mail for your account upgrade, We are conducting an upgrade in all e-Mail account, All users are to verify his/her account for upgrade, CLICK HERE : to upgrade your account.
+
+Yours,
+System Administrator","This is IT Help Desk sending you this email regarding your account upgrade. We are conducting an upgrade of all email accounts. All users are to verify their accounts for the upgrade. CLICK HERE: to upgrade your account. Yours, System Administrator",yes,
+high_008,In final dataset,nazario_002298,private-phishing4.mbox#2645,SPAM:Paypal has sent you a bank transfer.,59,72,1.22,0.825,0.205,0.23,FALSE,"Paypal transfer
+
+We aresending funds fromYour Paypal account to your bank account.
+
+Total amounttransferred$114.77
+BankaccountBANK OF NORTHCAROLINA
+Transaction ID73659892823728451
+
+Help Center Resolution Center Security CenterPlease don't reply to this email. It'll justconfuse the computer that sent it and you won'tget a response.Copyright 2012 PayPal, Inc. All rights reserved. PayPalis located at 2211 N. First St., San Jose, CA 95131.","Paypal transfer We are sending funds from your Paypal account to your bank account. Total amount transferred $114.77 Bank account BANK OF NORTH CAROLINA Transaction ID 73659892823728451 Help Center Resolution Center Security Center Please don't reply to this email. It'll just confuse the computer that sent it, and you won't get a response. Copyright 2012 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.",yes,
+high_009,In final dataset,nazario_002300,private-phishing4.mbox#2649,Paypal transfer confirmation.,59,72,1.22,0.825,0.205,0.23,FALSE,"Paypal transfer
+
+We aremoving funds fromYour Paypal account to your bank account.
+
+Total amounttransferred$623.25
+BankaccountBANK OF NORTHCAROLINA
+Transaction ID53388186787541978
+
+Help Center Resolution Center Security CenterPlease don't reply to this email. It'll justconfuse the computer that sent it and you won'tget a response.Copyright 2012 PayPal, Inc. All rights reserved. PayPalis located at 2211 N. First St., San Jose, CA 95131.","Paypal transfer We are moving funds from your Paypal account to your bank account. Total amount transferred $623.25 Bank account BANK OF NORTH CAROLINA Transaction ID 53388186787541978 Help Center Resolution Center Security Center Please don't reply to this email. It'll just confuse the computer that sent it, and you won't get a response. Copyright 2012 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.",yes,
+high_010,In final dataset,nazario_002299,private-phishing4.mbox#2646,SPAM:Paypal transfer confirmation.,57,69,1.21,0.842,0.186,0.215,FALSE,"Paypal transfer
+
+We aretransferring funds fromPaypal to your bank account.
+
+Total amounttransferred$543.31
+BankaccountBANK OF AMERICA
+Transaction ID27349978623985584
+
+Help Center Resolution Center Security CenterPlease don't reply to this email. It'll justconfuse the computer that sent it and you won'tget a response.Copyright 2012 PayPal, Inc. All rights reserved. PayPalis located at 2211 N. First St., San Jose, CA 95131.","Paypal transfer We are transferring funds from Paypal to your bank account. Total amount transferred $543.31 Bank account BANK OF AMERICA Transaction ID 27349978623985584 Help Center Resolution Center Security Center Please don't reply to this email. It'll just confuse the computer that sent it, and you won't get a response. Copyright 2012 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.",yes,
+high_011,In final dataset,nazario_002301,private-phishing4.mbox#2650,Paypal has sent you a bank transfer.,57,69,1.21,0.842,0.186,0.215,FALSE,"Paypal transfer
+
+We aresending funds fromPaypal to your bank account.
+
+Total amounttransferred$781.22
+BankaccountBANK OF AMERICA
+Transaction ID98176783063685593
+
+Help Center Resolution Center Security CenterPlease don't reply to this email. It'll justconfuse the computer that sent it and you won'tget a response.Copyright 2012 PayPal, Inc. All rights reserved. PayPalis located at 2211 N. First St., San Jose, CA 95131.","Paypal transfer We are sending funds from Paypal to your bank account. Total amount transferred $781.22 Bank account BANK OF AMERICA Transaction ID 98176783063685593 Help Center Resolution Center Security Center Please don't reply to this email. It'll just confuse the computer that sent it, and you won't get a response. Copyright 2012 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.",yes,
+high_012,In final dataset,nazario_003306,phishing-2018#149,Account Update,27,27,1,0.808,0.214,0.214,FALSE,"Dear Value Customer, Several irregular sign on attempt was made on your account. Please clickhere to update your security question Wells Fargo Bank, 2018 N.A. Member FDIC","Dear Valued Customer, Several irregular sign-on attempts were made on your account. Please click here to update your security question. Wells Fargo Bank, 2018 N.A. Member FDIC",yes,
+high_013,In final dataset,nazario_002297,private-phishing4.mbox#2639,SPAM:Your Ebay confirmation of your transaction through Paypal.,96,105,1.09,0.772,0.138,0.214,FALSE,"Transaction ID 443334471494Transaction Time :7/23/2012 10:00 PDT
+Your funds are nowavailable
+Dear jose@monkey.org,The funds from this eBay payment are now available foruse. Check your TransactionDetails for more information. .simpleSummaryTable cell-spacing:5px =important; font:0.75em Verdana, Arial, Helvetica, sans-serifBuyerBrody Morse
+Buyer emaillorem.auctor.quis@risusNunc.edu
+Payment total266,744.26 USD
+Sincerely,PayPal
+
+HelpCenter Security CenterThis email was sent by an automated system, so if youreply, nobody will see it. To get in touch with us, login to your account and click Contact Us at the bottom ofany page.Copyright 2012 PayPal, Inc. All rights reserved. PayPalis located at 2211 N. First St., San Jose, CA 95131.","Transaction ID 443334471494 Transaction Time: 7/23/2012 10:00 PDT Your funds are now available Dear jose@monkey.org, The funds from this eBay payment are now available for use. Check your Transaction Details for more information. Buyer: Brody Morse Buyer email: lorem.auctor.quis@risusNunc.edu Payment total: 266,744.26 USD Sincerely, PayPal Help Center Security Center This email was sent by an automated system, so if you reply, nobody will see it. To get in touch with us, log in to your account and click Contact Us at the bottom of any page. Copyright 2012 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.",yes,
+high_014,In final dataset,nazario_002302,private-phishing4.mbox#2651,SPAM:Paypal has sent you a bank transfer.,59,71,1.2,0.842,0.181,0.209,FALSE,"Paypal transfer
+
+We aretransferring funds fromYour Paypal account to your bank account.
+
+Total amounttransferred$721.86
+BankaccountBANK OF AMERICA
+Transaction ID98392653966437127
+
+Help Center Resolution Center Security CenterPlease don't reply to this email. It'll justconfuse the computer that sent it and you won'tget a response.Copyright 2012 PayPal, Inc. All rights reserved. PayPalis located at 2211 N. First St., San Jose, CA 95131.","Paypal transfer We are transferring funds from your Paypal account to your bank account. Total amount transferred: $721.86 Bank account: BANK OF AMERICA Transaction ID: 98392653966437127 Help Center Resolution Center Security Center Please don't reply to this email. It'll just confuse the computer that sent it, and you won't get a response. Copyright 2012 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.",yes,

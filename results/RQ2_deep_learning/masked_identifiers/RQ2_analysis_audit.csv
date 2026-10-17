@@ -1,0 +1,33 @@
+item,value
+master_dataset,/content/drive/MyDrive/DSRT930_analysis/Final_Paired_Email_Dataset.csv
+master_dataset_sha256,25dcf2247880d249e5bd188c5c7624b843764838dc39c476543ad5ada86ac47d
+legitimate_pair_ids,19393
+complete_phishing_pair_ids,3477
+split,grouped
+requested_iterations,100
+completed_iterations,100
+resume_enabled,True
+checkpoint_every,1
+test_size,0.3
+train_size,0.7
+models,"lstm, gru, cnn"
+tokenization,regex tokens [A-Za-z0-9_']+ from body_model
+max_vocab_size,20000
+min_freq,2
+max_length,300
+embedding_dim,100
+hidden_dim,64
+num_filters,64
+dropout,0.3
+epochs_per_model,"lstm=5, gru=3, cnn=5"
+batch_size,128
+learning_rate,0.001
+grad_clip_max_norm,1.0
+rnn_input,packed sequences (final state at last real token)
+seed,930
+device,cuda
+torch_version,2.11.0+cu130
+run_label,S2_masked
+mask_terms,/content/drive/MyDrive/DSRT930_analysis/S2_Mask_Terms.csv
+mask_terms_sha256,bf30e114399f013ea91256756556a7804185006d5de5c82b0bb2019b6af87e68
+masking,"deleted: email addresses, URLs, numbers, org identifiers, person names"

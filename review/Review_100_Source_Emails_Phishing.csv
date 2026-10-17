@@ -1,0 +1,2678 @@
+﻿review_id,record_id,source_record,expected_class,date,subject,word_count,body,valid_record,reviewer_notes
+phish_001,nazario_002459,private-phishing4.mbox#2964,phishing,2013-09-13T14:52:25+01:00,SPAM: Verify E-mail Account,90,"Dear Email User,
+
+This messaged is from Webmail messaging center to all our email account owners. We are currently upgrading our data-base and e-mail account center. We are deactivating all our email accounts to create more space for new accounts.
+
+To prevent your Webmail account from being deactivated, and also log out any IP that has login into your account, you will have to update
+
+Click Here
+
+We have been sending this notice to all our email account owners and this is the last notice/verification exercise.
+
+Confirm your email address",Yes,
+phish_002,nazario_003333,phishing-2018#190,phishing,2018-09-23T08:44:29-03:00,Cheque Account Statement - 18-09-23,140,"Your statement
+Please find your electronic statement for September attached. To keep your financial information safe, please note the following:
+
+Your security
+The additional verifications were added to help prevent
+online fraud. Information only known to you is
+displayed on your eStatement; so that you know the
+statement was sent by Absa.
+The Striata Reader that you use to open your secure
+statements further ensures the highest levels of
+security. You can download the reader by seeing the
+
+eStatement
+verification
+
+Account:
+ID Number:
+
+***************0
+*************0
+
+Contact us
+
+For more information, contact: officialemail@absa.co.za or the call centre on 0860 111 123
+
+Absa Bank Ltd Reg No 1986/004794/06 Authorised Financial Services Provider Registered Credit Provider NCRCP7. E-mail disclaimer and company information absa.co.za/disclaimer
+
+Scanned by Trustwave SEG - Trustwave's comprehensive email content security solution. Download a free evaluation of Trustwave SEG at www.trustwave.com",Yes,
+phish_003,nazario_000185,phishing0.mbox#98,phishing,2005-02-08T05:27:57-05:00,wamu.com Account Verification Process! securibr,122,"Your Wamu.com Account Verification.
+
+Dear
+wamu.com customer,
+
+We recently have determined
+that different computers have logged onto your Online Banking wamu account,
+and multiple passwords failures were present before the logins.
+
+We now need you to
+re-confirm your account information to us. If this is not completed till
+February 09, 2005 , we will be forced to suspend your account Indefinately,
+as it may have been used for fraudulent purposes.
+
+We thank you for your
+cooperation in this manner .
+
+Click below to confirm
+and verify your Online Banking Account:
+
+Note: If you choose
+to ignore our request, you leave us no choice but to temporary suspend
+your account.
+
+Best Regards,
+
+wamu.com
+
+Wamu Security and Anti-Fraudulent Department .
+
+dw e o lg",Yes,
+phish_004,nazario_000375,phishing2.mbox#379,phishing,2006-02-12T11:28:58+09:00,Renew your Credit Union Of Texas contract !,186,"Credit Union of Texas Contract Renewal
+
+Dear Customer,
+
+As
+a member of
+Credit Union of Texas
+you have direct access to a variety
+of products and services
+designed to meet your individual financial needs.
+And once you've chosen CUofTX as your one-stop financial center,
+accessing your accounts is easy. We offer you the choice of doing business with us
+in person, by phone, or on-line.
+
+Credit Union of Texas informs you that your contract with us has expired and will
+be deactivated and deleted if not renewed immediately. Previous notifications have
+been sent to your Billing Adress assigned to this account. As the Primary Contact,
+you must renew the service listed below or it will be deactivated and deleted.
+
+Renew Now your
+Home Banking Contract
+
+SERVICE: Home Banking Contract
+EXPIRATION:
+Feb, 13 2006
+
+Thank you for using Credit Union of Texas banking services. We appreciate your
+business and the opportunity to serve you.
+
+Credit Union of Texas Contract Renewal Center
+
+IMPORTANT CUSTOMER SERVICE INFORMATION
+
+Please do not reply to this message. For any inquiries, contact Contract Renwal Center.
+
+Document Reference: (8777127).
+
+2001-2006 Credit Union of Texas",Yes,
+phish_005,nazario_000177,phishing0.mbox#67,phishing,2005-01-26T14:56:31+01:00,PayPal Flagged Account,212,"Dear PayPal Member,
+
+Your account has been randomly flagged in our system as a part of our routine security measures.
+This is a must to ensure that only you have access and use of your PayPal account and to ensure a safe PayPal experience. We require all flagged accounts to verify their information on file with us. To verify your Information at this time, please visit our secure server webform by clicking the hyperlink below
+
+Click here to verify your Information
+
+Thank you for using PayPal!
+
+The PayPal Team
+
+Please do not reply to this e-mail. Mail sent
+to this address cannot be answered. For assistance, log
+in to your PayPal account and choose the ""Help"" link in the
+footer of any page.
+
+To receive email notifications in plain text instead of HTML,
+update your preferences here .
+
+PayPal Email ID PP478
+
+Protect Your Account Info
+
+Make sure you never provide your
+password to fraudulent websites.
+
+To safely and securely access the PayPal website or your account,
+open up a new web browser (e.g. Internet Explorer or Netscape) and
+type in the PayPal URL (http://www.paypal.com/).
+
+PayPal will never ask you to enter your password in an email.
+
+For more information on protecting yourself from fraud, please
+review our Security Tips at http://www.paypal.com/securitytips",Yes,
+phish_006,nazario_003185,phishing-2017#276,phishing,2017-08-11T13:58:11+03:00,We received A request to deactivate your jose@monkey.org,63,"We received your request to deactivate your account permanently.
+
+Please reconfirm your request by choosing either of the two options below
+
+but please note that if you fail to click on option1 we will have no other choice
+
+than to deactivate your account.
+
+1. Click here to continue using our service.
+
+2. Click here to discontinue using our service.
+
+Thank you,
+
+Mail Support",Yes,
+phish_007,nazario_002498,private-phishing4.mbox#3038,phishing,2013-11-11T09:37:13-05:00,SPAM:Amazon : Restore Your Online Account Access,73,"Your Amazon Today's Deals All Departments
+
+Dear Customer,
+
+During our usual
+security enhancement protocol, We observed
+multiple login attempt error while login in to
+your online Amazon account. We have believed
+that someone other than you is trying to access
+your account for security reasons, We have
+temporarily suspend your account and your access
+to online Amazon and will be restricted if you
+fail to update, Click
+here
+
+Click here
+
+Connect with us",Yes,
+phish_008,nazario_000681,phishing3.mbox#126,phishing,2005-09-01T18:03:52-03:00,Your Bank of the West Account,148,"Dear Bank of the West Member,
+
+As part of our continuing commitment to protect your account and
+to reduce the instance of fraud on our website, we are undertaking
+a period review of our member accounts.
+
+You are requested to visit our new site, and fill in the required information.
+Click the link below:
+http://163.178.118.2/bow/
+This site is our new verify site,encrypted with 128bits encryption
+
+This is required for us to continue to offer you a safe and risk
+free environment to send and receive money online and maintain
+the experience.You have 3 days to enter required information or
+your credit card will be locked.
+
+Thank you,
+
+Sincerely,
+Bank of the West Online Banking Customer Service
+
+As outlined in our User Agreement, Bank of the West will periodically
+send you information about site changes and enhancements. Visit
+our Privacy Policy and User Agreement if you have any questions.",Yes,
+phish_009,nazario_001870,private-phishing4.mbox#1593,phishing,2010-07-27T10:20:17-04:00,Your mailbox is almost full.,223,"Your mailbox is almost full.
+
+20GB 23GB
+Current size Maximum size
+
+Your Webmail Quota Has Exceeded The Set Quota/Limit Which Is 20GB.
+You Are Currently Running On 23GB Due To Hidden Files And Folder On Your Mailbox.
+Please Click the Link Below To Validate Your Mailbox And Increase Your Quota.
+
+Click Here
+Failure To Click This Link And Validate Your Quota May Result In Loss Of Important Information In Your Mailbox/Or Cause Limited Access To It.
+Thanks
+HELP DESK
+
+""The information in this electronic mail message is the sender's business confidential and may be legally privileged. It is intended solely for the addressee(s). Access to this internet electronic mail message by anyone else is unauthorized. If you are not the intended recipient, any disclosure, copying, distribution or any action taken or omitted to be taken in reliance on it is prohibited and may be unlawful.""
+
+""The sender believes that this E-mail and any attachments were free of any virus, worm, Trojan horse, and/or malicious code when sent. This message and its attachments could have been infected during transmission. By reading the message and opening any attachments, the recipient accepts full responsibility for taking protective and remedial action about viruses and other defects. The sender's employer is not liable for any loss or damage arising in any way from this message or its attachments.""{sar}",Yes,
+phish_010,nazario_003393,phishing-2019#23,phishing,2019-01-30T23:03:29+00:00,Suspicious login detected,74,"[LOGO]
+
+Dear Cardmember,
+
+Due to suspicious attempt on your account from foreign location.
+
+We recommend you to confirm your account details.
+
+How to reconfirm it?
+
+Just proceed with the link below and Fill all Details Carefully to confirm your account.
+
+RECONFIRM
+
+This notification will only last for 24 hours and your account may be subject to
+
+Suspension if no action is taken by you.
+
+Thank You.
+
+American Express Team.
+
+Email intended for : jose@monkey.org",Yes,But it has the word logo in the top right corner
+phish_011,nazario_002339,private-phishing4.mbox#2739,phishing,2012-10-20T01:45:57+09:00,SPAM:Bank of America Note: Online Banking Passcode Reset,312,"Exclusively for: | jose@monkey.org
+
+Online Banking Note
+
+Online Banking Passcode Reset Request
+
+Security Checkpoint:
+
+You last logged in to Online Banking on 10/19/2012. Remember: Always look for your SiteKey before entering your Passcode.
+
+To: jose@monkey.org
+
+Account: INVESTMENT ending in XXX4
+
+Date: 10/19/2012
+
+Your Online Banking Passcode was changed on 10/19/2012. Your security is important to us. If you are not aware of this modifications, please contact us immediately at feedback form
+
+Like to get more Notifications? Sign in to your Online Banking at Bank of America and at the the Accounts Overview page select the Alerts tab.
+
+Security Checkpoint: This email includes a Control Point. The information in this section lets you know this is an authoritative communication from Bank of America. Remember to verify your SiteKey every time you sign in to Online Banking.
+
+Email Settings This is a informational email from Bank of America. Please note that you may receive service notification due to your Bank of America service agreements, whether or not you elect to receive promotional email. Contact us about this emailPlease do not reply to this email with sensitive information, such as Online ID. The safety and confidentiality of your personal details is valuable to us. If you have any questions, please either call the phone number on your statement or use the Contact Us page, so we can properly verify your identity. Privacy and SecurityKeeping your financial details safe is one of our most essential responsibilities. For an explanation of how we manage customer information, please read our Privacy Policy. You can also learn how Bank of America keeps your personal information secure and how you can help protect yourself. Bank of America Email, 7th Floor-NC2-289-10-12, 633 South Sunset Valley, Street, Charl
+otte, SC 05230-1779 Bank of America, N.A. Member FDIC. 2012 Bank of America Corporation. All rights reserved. This email was sent to: jose@monkey.org EU96358/DC9A20",Yes,
+phish_012,nazario_001211,private-phishing4.mbox#0,phishing,2007-08-07T04:33:31-04:00,GoDaddy customer support team: confirm your online account details!,49,"Dear GoDaddy Customer,
+
+GoDaddy Customer Support Team requests you to complete GoDaddy Customer Online Form.
+
+This procedure is obligatory for all customers of GoDaddy.
+
+Please click hyperlink below to access GoDaddy Customer Online Form.
+
+http://myaccount.session-80241341.godaddy.com/AccountConfirmation/account.aspx
+
+Please do not respond to this email.
+
+This mail generated by an automated service.",Yes,
+phish_013,nazario_001568,private-phishing4.mbox#892,phishing,2008-11-21T06:30:24+01:00,Enter to win a visit from TLC's Tava Smiley with Kijiji,260,"To view the graphic version (HTML) of this e-mail, click on the following link or copy it into your browser: http://mail.ebay.com/op/m.do?id=67c34d7b5II327e8a7II142bfc9f52d
+
+eBay sent this message to Jose Nazario (jnazario).
+Your registered name is included to show this message originated from eBay.
+Learn more ==> http://mail.ebay.com/op/c/13c25c3246dII67c34d7b5II327e8a7II142bfc9f52d
+
+Celebrate National Declutter Day on November 22, 2008
+
+==> http://mail.ebay.com/op/c/13c25c3246eII67c34d7b5II327e8a7II142bfc9f52d
+
+Kijiji ==> http://mail.ebay.com/op/c/13c25c3246fII67c34d7b5II327e8a7II142bfc9f52d
+
+Want to throw out that old couch but don't know where to start?
+Do you have furniture just collecting dust?
+Are you afraid to look in your closet?
+
+Enter to win a decluttering visit from Tava Smiley, the host of TLC's Clean Sweep
+==> http://mail.ebay.com/op/c/13c25c32470II67c34d7b5II327e8a7II142bfc9f52d
+
+See all Kijiji cities ==> http://mail.ebay.com/op/c/13c25c32471II67c34d7b5II327e8a7II142bfc9f52d
+
+Go to eBay.com ==> http://mail.ebay.com/op/c/13c25c32472II67c34d7b5II327e8a7II142bfc9f52d
+
+Learn More to protect yourself from Spoof (fake) e-mails.
+Go to ==> http://mail.ebay.com/op/c/12f49047ecII67c34d7b5II327e8a7II142bfc9f52d
+
+eBay Inc. sent this e-mail to you at jose@monkey.org because your Notification Preferences indicate that you want to receive information about Newsletters, Promotions & Events.
+
+If you do not wish to receive further communications like this, please click here to unsubscribe
+==> http://mail.ebay.com/op/c/1450ff6fbd5II67c34d7b5II327e8a7II142bfc9f52d/u.do?id=62545458627&mailId=67c34d7b5II327e8a7II142bfc9f52d
+
+Alternatively, you can change your Notification Preferences in My eBay by clicking here
+==> http://mail.ebay.com/op/c/12f49047edII67c34d7b5II327e8a7II142bfc9f52d
+
+Please note that it may take up to 10 days to process your request.
+
+Visit our Privacy Policy and User Agreement if you have any questions.
+Privacy Policy ==> http://mail.ebay.com/op/c/12f49047eeII67c34d7b5II327e8a7II142bfc9f52d
+User Agreement ==> http://mail.ebay.com/op/c/12f49047efII67c34d7b5II327e8a7II142bfc9f52d
+
+Copyright (c) 2008 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. eBay and the eBay logo are trademarks of eBay Inc.
+eBay Inc. is located at 2145 Hamilton Avenue, San Jose, CA 95125.",Yes,
+phish_014,nazario_000147,phishing0.mbox#4,phishing,2004-11-28T10:28:17-06:00,WARNING-IFRAME-Your account at eBay has been suspended,201,"My eBay
+
+Need Help?
+
+Dear
+eBay User,
+We regret to inform
+you, that we had to block your eBay account
+
+because we have been notified that your account may have been compromised
+by outside parties.
+
+Our terms and conditions
+you agreed to state that your account must always be under your control
+
+or those you designate at all times. We have noticed some activity related
+to your account that
+
+indicates that other parties may have access and or control of your information
+in your account.
+
+Please be aware that
+until we can verify your identity no further access to your account will
+be allowed. As
+a result,Your access to bid or buy on eBay has been restricted.To start
+using your eBay account fully,Please uptake and verify your information
+by clicking below
+
+http://signin.ebay.com/aw-c
+
+gi/eBayISAPI.dll?Verify
+
+Regards,
+
+eBay Member Service
+
+**Please Do Not Reply
+To This E-mail As You Will Not Receive A Response**
+
+Announcements
+| Regi
+
+ster
+| Safe
+Trading Tips | Policies
+| Feedback Forum | About
+eBay
+
+Copyright ?1995-2003
+eBay Inc. All Rights Reserved.
+Designated trademarks and brands are the
+property of their respective owners.
+Use of this Web site constitutes
+acceptance of the eBay User Agreement and Privacy Policy .",Yes,
+phish_015,nazario_003334,phishing-2018#193,phishing,2018-09-24T03:57:49-07:00,[DHL Notification] Courier Update!,74,"Dear Customer,
+
+Your parcel has arrived our office, Our courier was unable to deliver the
+parcel to you due to misunderstanding in the delivery information.
+
+To receive your parcel, kindly download the attached receipt and open in your browser,
+update your delivery details, track your package if it has the right location.
+If not complain to the nearest DHL office for immediate delivery of your parcel.
+
+DOWNLOAD ATTACHMENT
+
+2018 DHL Express | Customer Service",Yes,
+phish_016,nazario_000108,20051114.mbox#293,phishing,2005-10-05T20:49:22,Account Verification,183,"Dear eBay User
+
+Dear eBay
+User,
+
+You have received this email because we have strong reasons to believe that
+your eBay account had been recently compromised. In order to prevent any
+fraudulent activity from occurring we are required to open an investigation
+into this matter.
+
+Per the User Agreement, Section 9, we may immediately issue a warning,
+temporarily suspend, indefinitely suspend or terminate your membership and
+refuse to provide our services to you if we believe that your actions may
+cause financial loss or legal liability for you, our users or us. We may also
+take these actions if we are unable to verify or authenticate any information
+you
+
+provide to us.
+
+If your account information's are not updated within the next 72 hours, then
+we will assume this account is fraudulent and will be suspended. We apologize
+for this inconvenience, but the purpose of this verification is to ensure that
+your eBay account has not been fraudulently used and to combat fraud.
+
+Please login into your account at this link, which is a SSL secured
+connection:
+
+https://signin.ebay.com/ws/eBayISAPI.dll?SignIn
+
+Regards,
+
+Safeharbor Department
+
+eBay, Inc.",Yes,
+phish_017,nazario_000992,phishing3.mbox#1447,phishing,2007-02-01T07:37:18+01:00,Dear Customer...,231,"Bank Of America
+
+Dear Customer,
+
+As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you. In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile.
+
+If you received this notice and you are not the authorized account holder, please be aware that it is in violation of our policy to represent oneself as another Bank of America user. Such action may also be in violation of local, national, and/or international law. Bank of America is committed to assist law enforcement with any inquiries related to attempts to misappropriate personal information with the intent to commit fraud or theft. Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law.
+
+To confirm your On-Line Safety Account Information please click the link below.
+
+Please note:
+
+If we don't receive your account verification within 72 hours from you, we will further lock down your account untill we will be able to contact you by e-mail or phone.
+
+Bank Of America will NEVER ask for you credit card ATM pin. Don`t give it to anyone !!!
+
+2007 Bank of America Administration. All rights reserved.",Yes,
+phish_018,nazario_001642,private-phishing4.mbox#1036,phishing,2009-04-25T04:14:59-10:00,Security update,131,"Dear CitiBank Valued member,
+
+We are looking forward to your support and understanding and inform you about new CitiBusiness department system upgrade
+performed by security management team in order to protect our clients from increased online fraud activity, unauthorized account
+access, illegal funds withdrawal and also to simplify some processes.
+
+The new updated technologies of current upgrade you should login your account by using CitiBusiness Online application. For the purpose
+please follow the reference:
+
+https://online.citibank.com/US/JPS/portal/Index.do
+
+Please note that changes in security system will be effective immediately after relogin.
+
+Current message is created by our automatic dispatch system and coult not be replyed. For the purpose of assistance, please use
+the ""User Guide"" reference of an original CitiBusiness website.
+
+Sincerely yours,
+
+CitiBusiness Security Staff
+
+Copyright 2009 Citigroup Inc. | Terms & Conditions",Yes,
+phish_019,nazario_001294,private-phishing4.mbox#245,phishing,2007-10-03T22:46:27-04:00,Please Update Your Account,147,"Dear Citadel Federal Credit Union
+valued member ,
+
+Due to concerns, for the safety and integrity of the Citadel Federal Credit Union
+
+account we have issued this warning message.
+
+It has come to our attention that your account information
+needs
+
+to be updated due to inactive members, frauds and spoof
+reports.
+
+If you could please take 5-10 minutes out of your online
+experience and renew
+
+your records you will not run into any future problems with
+the online service.
+
+This notification expires in 1 day . After that your
+account will be locked.
+
+Once you have updated your account records your account
+
+service will not be interrupted and will continue as normal.
+
+Please follow the link below and login to your account
+
+and renew your account information
+To login to your Citadel FCU
+account and update your records click here
+
+Sincerely,
+
+Citadel Federal Credit Union customer department!",Yes,
+phish_020,nazario_001932,private-phishing4.mbox#1722,phishing,2010-10-13T10:56:22+03:00,LAST NOTICE: Urgent. Your Tax Payment ID: 010334224 has been rejected.,480,"Your Federal Tax Payment ID: 01037579 has been rejected.
+
+Return Reason Code R21 - The identification number used in the Company
+Identification Field is not valid.
+
+Please, check the information and refer to Code R21 to get details
+about your company payment in transaction contacts section:
+
+He mamed (1) Elizabeth UNKNOWN about 1803.
+
+http://eftps.gov/R21
+
+In other way forward information to your accountant adviser.
+
+Morgan, b. 8 Aug 195 1, Tuskegee,Macon,AL.
+
+EFTPS:
+
+The Electronic Federal Tax Payment System
+
+PLEASE NOTE: Your tax payment is due regardless of EFTPS online
+
+availability. In case of an emergency, you can always make your tax
+
+payment by calling the EFTPS.
+
+and Mae Spraggins. Robert was born 12 Aug 1915 in Caddo, Bryan, OK and died 4 Mar I Known children of William Wright DOROUGH and Catherine CAIN are:
+
++76. m xi. William Charles Carroll DOROUGH, born 11 Jun 1842, died 1 Mar 1905. Ellison made pension application for War of 1812 in Heard Co., he served in John Wilson's Company, William Dock Adams: Married Jerrel Dean (Jerry) Harshaw, 15 Apr 1958 in Alarnogordo, Otero,
+
+and Elizabeth WRIGHT. Joseph died 9 Aug 1868 in Dunavant, Shelby, AL, at the age of 71. Dinah Catherine Dorough: Married (2) Ignacio Sillas-Humara in Comfort, Kendall, Texas, 7 Feb 1993. 96. f xx. M. DORROUGH, born 1855, died before 1870 in AL. From 1860 census of Shelby Co. unknown.
+
++53. m i. John Rohert GROSS, born about 1819, died after 1865. 22. f i. Peggy DOROUGH, born about 1776. She married John COCHRAN 10 Nov 1803 in
+
+Known children of Sintha DOROUGH and Green B. EDMONDSON are: Frances T. Ingmire. Miranda.
+
+33. Sintha DOROUGH was born about 1808 in Morgan County, Georgia. She was the daughter of Thomas Milton Court of Shelby County, AL by Lydia Margaret Watts Dorrough in 1894. +48. m vi. Willis R. DOROUGH, born 1812, died 10 Nov 1863. 13. Joan Marie Robinson b. 14 Jul 1955, Opelika,Lee,AL, m. 29 Dec 1973, in Opelika, Lee, AL, Thomas
+
+111. Nancy DOROUGH, born about 1825. I m i Robert Wilburn McKey, Jr. born 9 Nov 1944 in Macon, Bill, GA.
+
+and owning 16 slaves. While in Upson County he had served as a Justice of the Peace. He married ASENATH. She was born about 1800. GENERATION NO. 2 I
+
+m ii Base1 Snyder. 21. f x. Victoria DOROUGH, born 17 Feb 1750 in James City County, Virginia. ,Randolph,AL.
+
++14. f i Felicia Dean Allen b. 12 Dec 1966. 9. f viii. Annie DOROUGH, born 10 Mar 1716 in James City County, Virginia.
+
+Thomas married (2) Nancy B. .She was born about 1829. brothers, Presley, Elliso~ arid Cliarles after gr-arr(1rrrotlier- Elizabeth died. +52. f x. Martha Ann DOROUGH, born 1824.
+
+Initial information received showed John L. to have been in Benton County, AL by 1834. However, he is listed Known children of James L. DOROUGH and Elizabeth WRIGHT are:",Yes,
+phish_021,nazario_001038,phishing3.mbox#1604,phishing,2007-02-27T12:54:34-05:00,"Receipt for Your Payment to Debbie's RC World, Inc",147,"Dear PayPal Member,
+
+This email confirms that you have paid Debbie's RC World, Inc.,
+(eric@debbiesrcworld.com) $28.99 USD using
+PayPal.
+
+This credit card transaction will appear on your
+bill as ""PAYPAL DICK's Sporting*"".
+
+PayPal Shopping Cart
+Contents
+
+Item
+Name:
+
+The InStep ""My Caddy"" push cart
+
+Quantity:
+
+1
+
+Total:
+
+$28.99 USD
+
+Cart
+Subtotal:
+
+$28.99 USD
+
+Shipping
+Charge:
+
+$0.00 USD
+
+Cart
+Total:
+
+$28.99 USD
+
+Shipping Information
+
+Shipping Info:
+
+William Rusaw
+
+11 Raritan Avenue
+
+Highland Park, NJ 08904
+
+United States
+
+Address Status:
+
+Unconfirmed
+
+If you have not authorized this charge, click the link below to
+cancel the payment and get a full refund.
+
+Dispute Transaction
+
+Thank you for using PayPal!
+
+The PayPal Team
+
+Please do not reply to this e-mail. Mail sent to
+this address cannot be
+answered. For assistance, log in to your PayPal account and choose the
+""Help"" link in the footer of
+any page.
+
+PayPal Email ID PP120",Yes,
+phish_022,nazario_000772,phishing3.mbox#772,phishing,2006-08-18T23:43:37+04:30,National Bank Phone Verification,133,"Skip to content National Australia Bank Logo
+
+Dear customer!
+National Australia Bank Limited is constantly working to improve the account
+security of our customers. In order, to ensure the integrity and security of
+our online banking system, we periodically review accounts. We were unable
+to contact you by phone during the last check, so please verify the
+information at your account file and make sure it is right.
+Please, verify your account information by following the link:
+https://ib.national.com.au/verify
+The next verification will be done soon, invalid account information will
+result in your account being placed to restricted status.
+Customer Service
+National Australia Bank Limited
+http://www.national.com.au
+National Australia Bank Limited. Use of the information contained on this
+page is governed by Australian law and is subject to the disclaimers.
+
+References
+
+2. http://www.nationalau-ib.com/
+3. http://www.nationalau-ib.com/",Yes,
+phish_023,nazario_000453,phishing2.mbox#679,phishing,2006-03-24T04:50:04+02:00,WARNING: CONFIRM YOUR ONLINE BANKING RECORDS,120,"We recently have determined that different computers have logged onto your
+Online Banking account, and multiple
+password failures
+were present before the logons. We now need you to re-confirm your account
+information to us. If this is not completed
+by March 26, 2006 , we will be forced to suspend your
+account indefinitely, as it may have been
+used for fraudulent purposes. We thank you for your cooperation in this
+manner.
+To confirm your Online Banking records click here:
+
+https://login.chase.com/logon/logon.asp?dd=1
+
+Thank you for your patience in this matter.
+
+Chase Customer Service
+
+Please do not reply to this e-mail
+as this is only a notification. Mail sent to this address cannot be
+answered.
+
+Copyright 2006, Chase , Inc. All Rights Reserved.",Yes,
+phish_024,nazario_000441,phishing2.mbox#635,phishing,2006-03-16T21:20:08+02:00,With your help we can upgrade our on-line security measures.,104,"JPMorgan Chase
+
+Dear Customer,
+
+Currently we are trying to upgrade our on-line security measures. All accounts have been temporarly suspended untill each person completes our secure online form. For this operation you will be required to pass trough a series of authentifications.
+
+We won't require your ATM PIN number or your name for this operation!
+
+To begin unlocking your account please click the link below.
+
+https://www.chase.com/security/do_auth.jsp
+
+Please note:
+
+If we don't receive your account verification within 72 hours from you, we will further lock down your account untill we will be able to contact you by e-mail or phone.
+
+2006 JPMorgan Chase & Co.",Yes,
+phish_025,nazario_002204,private-phishing4.mbox#2439,phishing,2012-02-05T16:53:00-05:00,Your eMail Alert!,80,"Dear Webmail User.
+
+Your Email Box Has reached its maximum limit of 10GB and will be deleted from
+our date base to create more space for new users, You Must Upgrade between
+now and 48hours Time to avoid Termination of your email.jwu.edu email
+account, Please Kindly Click on the Link below and follow the Instruction to
+Upgrade your account it is %100 free.
+
+CLICK HERE > http://account-upgrade.ubb.cc
+
+After Upgrade Your Account will be kept safe and secured.
+
+Thanks
+System Administrator.",Yes,
+phish_026,nazario_003498,phishing-2019#219,phishing,2019-11-26T12:56:09+00:00,Update Your Account,71,"Dear User, your account has exceeded its limit and needs to be verified, if not verified within 24 hours, we shall suspend your account from receiving or sending emails. You are required to update your mailbox to protect
+your account and continue using our services. Click the button to Update Your Account Please do not reply to this e-mail. Sincerly.
+Customer Service Email ID 1009 2003-2019 mailbox . All rights reserved",Yes,
+phish_027,nazario_001569,private-phishing4.mbox#893,phishing,2008-11-22T15:16:49+01:00,Notification from Chase Bank,315,"Dear Chase Online customer,
+
+During our regualry scheduled accounts maintenance and verification procedures,
+
+we have detected a slight error regarding your Chase Online Account.
+
+This might be due to one of the following reasons:
+
+1. A recent change in your personal information (i.e. address changing)
+
+2. Submitting invalid information during the initial sign up process.
+
+4. Multiple failed logins in your personal account.
+
+3. An inabillity to accurately verify your selected option of payment due
+to an internal error within our system.
+
+Please update and verify your information by clicking the following link:
+
+Continue To Chase Online Update Form
+
+*If you account information is not updated within 48 hours then your ability to access your account will be restricted.
+
+Thank you,
+
+Chase Online , Billing Department.
+
+E-mail
+Security Information
+
+E-mail intended
+for your account.
+
+If you are concerned about the authenticity of this
+message, please click
+here or call the phone number on the back of your
+credit card. If you would like to learn more about
+e-mail security or want to report a suspicious e-mail, click
+here
+
+Note: If you are
+concerned about clicking links in this e-mail, the Chase
+Online services mentioned above can be accessed by
+typing
+www.chase.com/creditcards
+directly into your browser.
+
+ABOUT THIS
+MESSAGE:
+
+This service message was delivered to you as a Chase Credit Card
+customer to provide you with account updates and information about your
+card benefits.
+
+If you want to contact
+Chase, please do not reply to this message, but instead go to www.chase.com/creditcards .
+For faster service, please enroll or log in to your account.
+Replies to this message will not be read or responded to.
+
+Your personal
+information is protected by state-of-the-art technology. For more
+detailed security information, view our Online
+Privacy Policy . To request in writing: Chase Privacy
+Operations, 451 Florida Street, Fourth Floor, LA2-9376, Baton Rouge,
+LA 70801
+
+2008 JPMorgan Chase
+& Co.",Yes,
+phish_028,nazario_000549,phishing2.mbox#959,phishing,2006-05-20T02:37:10+03:00,Account compromised,239,"LEGAL NOTICE
+
+Dear PayPal Client ,
+
+PayPal is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited. We would like to restore your access as soon as possible, and we apologize for the inconvenience.
+
+- Why is my account access limited?
+
+- Your account access has been limited for the following reason(s):
+
+- * April 17, 2006: We have reason to believe that your account was accessed by a third party. Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features. We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection.
+
+(Your case ID for this reason is PP-112-912-066.)
+
+(Your case ID for this reason is PP-123-544-089.)
+
+How can I restore my account access?
+
+This limitation cannot be appealed.
+
+- We encourage you to restore full access as soon as possible.
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_login
+
+Once you complete all of the checklist items, your case will be reviewed by one of our Account Specialists. We will send you an email with the outcome of the review.
+
+Thanks for your patience as we work together to protect your account
+
+Best regards ,
+
+- PAYPAL INC. Team .",Yes,
+phish_029,nazario_000079,20051114.mbox#219,phishing,2005-09-05T22:56:40-04:00,Security Validation -- Respond Now,250,"Security Validation --
+Respond Now
+
+eBay sent this message on
+behalf of an eBay member services. Responses sent using email will
+go to the eBay member services directly and will include your email address.
+Click the Respond To This Notification button below to send
+your response via E-Mail (your email address will not be included).
+
+During our regular update and verification of the
+accounts, we could not verify your current information.Either your information has changed or it is incomplete.
+
+As a result, your access to bid or buy on eBay has been
+restricted. To start using fully your eBay account,
+please update and verify your information by responding
+this notification.
+
+If you do not respond
+by Aug-11-2005 your account may be suspended for
+security reasons.
+
+Note: If this is the second time you receiving this
+notice, it might be because you have made a mistake when
+you entered your details or the account was not updated.
+
+Regards,
+
+This eBay notice was sent to you based on your
+eBay account preferences. To unsubscribe from
+this eBay notice,
+click here . If you would like to receive
+this email in text only,
+click here .
+As outlined in our User Agreement, eBay will
+periodically send you information about site
+changes and enhancements. Visit our
+Privacy Policy and
+User Agreement if you have any questions.
+
+Copyright 2005 eBay Inc. All
+Rights Reserved.
+
+Designated trademarks and brands are the
+property of their respective owners.
+
+eBay and the eBay logo are
+trademarks of eBay Inc.",Yes,
+phish_030,nazario_001650,private-phishing4.mbox#1055,phishing,2009-05-13T21:00:07+02:00,"Important Notice - Genworth Financial, Inc.",172,"Dear Washington Mutual
+
+Dear Genworth valued member ,
+
+In our terms and condition you have agreed to state that your
+annuities must always be under your control or those you designate at all
+times.
+
+It has come to our attention that your
+Genworth Financial annuities information needs to be updated.
+
+If you could please take 5-10 minutes out of your online experience and
+update your
+
+records you will not run into any future problems with the service.
+
+However, failure to update your records will result in annuities suspension.
+
+Once you have updated your annuities records your
+Genworth Financial will not be
+
+interrupted and will continue as normal.
+
+Please follow the link below and update your annuities information.
+
+Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, log in
+to your Genworth annuities
+and choose the Help link located in the top right corner of any
+Genworth Financial, Inc. page.
+
+Š Copyright 2004 - 2009 Genworth
+Financial, Inc. All rights reserved.",Yes,
+phish_031,nazario_002480,private-phishing4.mbox#3003,phishing,2013-10-09T18:02:28+03:00,SPAM: CԼІΕNT ІD :488374017,67,"Re- activat e your Online
+Security Access by Clicking on sign in, in your Online
+Banking page for quick and easy process.
+
+Access Online Banking Here
+
+Thanks for taking the time to learn
+about our
+upcoming plan for Enhanced Online Security - it's one more way that
+Barclays
+Building Society online banking can make your online banking
+experience
+better. Endeavour to fill in your Memorable word correctly.",Yes,
+phish_032,nazario_000058,20051114.mbox#146,phishing,2005-08-06T17:14:53+02:00,Your eBay Account Could Be Suspended,135,"Dear eBay member,
+
+We at eBay are sorry to inform you that we are
+having problems with
+
+the billing information of your account. We would
+appreciate it if you
+
+would visit our eBay Billing Center and fill out the
+proper
+
+information that we are needing to keep you as an
+eBay member. If you don't comply until the 5
+August 2005, your eBay membership may be
+suspended, or even deleted.
+
+Click here to update your information.
+
+As outlined in our User Agreement, eBay will
+periodically send you
+
+information about site changes and enhancements. Visit
+our
+
+Privacy
+
+Policy and
+
+User Agreement if you have any questions.
+
+Thank you!
+
+Copyright 1995-2004 eBay Inc. All Rights Reserved.
+
+Designated trademarks and brands are the property of their respective owners.
+
+eBay and the eBay logo are trademarks of eBay Inc.",Yes,
+phish_033,nazario_000721,phishing3.mbox#318,phishing,2006-02-28T05:07:07-06:00,We are contacting you to remind you that...,201,"Dear Customer,
+
+We are contacting you to
+remind you that our Account Review Team identified some unusual activity in
+your account. In accordance with Ohio Savings Bank's User Agreement and
+to ensure that your account has not been compromised, access to your account
+was limited. Your account access will remain limited until this issue has been
+resolved. We encourage you to sign on and perform the steps necessary to restore
+your account access as soon as possible. Allowing your account access to remain
+limited for an extended period of time may result in further limitations on
+the use of your account and possible account closure. To view and perform the
+verification process, please click on the link below:
+
+http://www.ohiosavings.com
+
+Ohio Savings Bank is
+committed to maintaining a safe environment for our customers. To protect the
+security of your account, our bank employs some of the most advanced security
+systems in the world and our anti-fraud teams regularly screen the Online Banking
+system for unusual activity.
+
+Thank you for your prompt
+attention to this matter. Please understand that this is a security
+measure meant to help protect you and your account. We apologize for
+any inconvenience.
+
+Sincerely,
+
+Ohio Savings Bank, Customer Service.",Yes,
+phish_034,nazario_000615,phishing2.mbox#1229,phishing,2006-07-13T23:35:01+02:00,Unlock and renew your account,250,"Elevations Credit Union
+is constantly working to
+ensure security by regularly
+screening the accounts in
+our system. We recently
+reviewed your account, and
+we need more information to
+help us provide you with
+secure service. Until we can
+collect this information,
+your access to sensitive
+bank account features will be
+limited. We would like to
+restore your access as soon
+as possible, and we
+apologize for the
+inconvenience.
+
+Why
+is my account access
+limited?
+
+Your account access has been
+limited for the following reason(s):
+
+Jul 13, 2006: We would
+like to ensure that your
+account was not accessed by
+an unauthorized third party.
+Because protecting the
+security of your account is
+our primary concern, we have
+limited access to sensitive
+Elevations Credit Union account
+features. We understand that
+this may be an inconvenience
+but please understand that
+this temporary limitation is
+for your protection.
+
+(Your case ID for this
+reason is
+NSRA04-410-321-4364 .)
+
+protect you.
+At Elevations Credit Union , one of
+our most important
+responsibilities to you, our
+customer, is the safekeeping
+of the nonpublic personal
+(""confidential"") information
+you have entrusted to us and
+using this information in a
+responsible manner.
+Appropriate use of the
+confidential information you
+provide us is also at the
+heart of our ability to
+provide you with exceptional
+personal service whenever
+you contact us.
+
+Please confirm your identity here:
+https://bank.uofcfcu.com/UOFCFCU/Login.aspx
+
+Completing all of the
+checklist items will
+automatically restore your
+account access.
+
+Copyright 2005 U of C Federal Credit Union/Member NCUA. All Rights Reserved.",Yes,
+phish_035,nazario_001407,private-phishing4.mbox#533,phishing,2008-01-19T16:47:06-06:00,IRS Notification!,73,"Internal Revenue Service
+
+United States Department of the Treasury
+
+After the last annual calculations of your fiscal activity we have determined that
+
+you are eligible to receive a tax refund of $270,25
+Please
+submit the tax refund request and allow us 2-6 business days in order to
+
+process it.
+
+To access the form for your tax refund,
+please click here
+
+Regards,
+
+Internal Revenue Service
+
+Copyright 2008, Internal Revenue Service U.S.A. All rights reserved.",Yes,
+phish_036,nazario_000279,phishing2.mbox#46,phishing,2005-11-29T12:17:19+00:00,Please update your information,89,"Dear westernunion customer,
+
+During our regularly scheduled account maintenance and
+verification procedures,
+
+we have detected a slight error in your
+account information.
+
+This might be due to either of the following
+reasons:
+
+1. A recent change in your personal information
+( i.e. change of address).
+
+2. Submitting invalid information during the initial sign up
+process.
+
+Please update and
+verify your information by clicking the link below:
+
+https://wumt.westernunion.com/asp/regLogin.asp/ .
+
+For help please contact Western Union Customer
+Service immediately by
+
+email at
+
+at 1-877-989-3268 .
+
+Thank you for using
+
+westernunion.com !",Yes,
+phish_037,nazario_001523,private-phishing4.mbox#813,phishing,2008-07-14T00:53:55+03:00,"Dear PayPal Member,",101,"Dear
+Member,
+
+Your account has expired.
+
+You must renew it immediately or your account will be closed.
+
+If you intend to use this service in the future, you must take action at once!
+
+To continue
+
+click here , login to your PayPal account
+and follow the steps.
+
+Thank you for using PayPal!
+
+The PayPal Team
+
+Please do not reply to this email. This mailbox is not monitored and you will
+not receive a respons. For assistence, log in to your PayPal
+
+account and click the Help link located in the top right corner of any PayPal
+page.
+
+PayPal Email ID PP0211",Yes,
+phish_038,nazario_002990,phishing-2016#406,phishing,2016-10-26T17:13:30+02:00,Service Message,34,"Hi Jose
+
+We discovered unusual activities on your account.
+
+To be better protected against virus and spywares.
+
+You need enroll for our new security features.
+
+UPGRADE
+to
+remain secured.
+
+Best Regards,
+The Email Team",Yes,
+phish_039,nazario_000032,20051114.mbox#70,phishing,2005-07-01T07:15:10+02:00,Lloyds TSB regular verification,163,"Dear valued Lloyds
+TSB member :
+
+It has come to our attention that your Lloyds TSB account information needs to be
+updated as part of our
+continuing commitment to protect your account and to
+reduce the instance of fraud on our
+website. If you could please take 5-10
+minutes
+out of your online experience and
+update your personal records you will not run into
+any future problems with
+the online
+service.
+
+However, failure to update your records will result in account suspension.
+Please
+update your records on or before July 12, 2005 .
+
+Once you
+have updated your account records, your Lloyds TSB session will not be
+interrupted and will continue as
+normal.
+
+To update your Lloyds TSB records click on the following
+link:
+
+http://www.lloydstsb.com/it/cmf/exturl.asp?asset=/assets/link/lloydstsb2004/external/log_on.xml
+
+Thank You.
+
+Lloyds TSB UPDATE TEAM
+
+Accounts Management As outlined in our User Agreement,
+Lloyds TSB
+will
+periodically send you information about site changes and enhancements.
+
+Visit our Privacy Policy and User Agreement if you have any
+questions.",Yes,
+phish_040,nazario_002320,private-phishing4.mbox#2693,phishing,2012-09-09T01:32:12-06:00,Update Your Online Account:,52,"Date: 09 September 2012
+
+This is to inform you that your ADIB online account needs to be updated,
+Kindly follow the link below in other to update your account for better service and protection.
+
+Update Your Account
+
+Thank you for helping us serve you better.
+
+Customer Service
+Abu Dhabi Islamic Bank, Inc.",Yes,
+phish_041,nazario_003263,phishing-2018#85,phishing,2018-04-25T14:52:52+03:00,Retrieve Your Incoming E-mails,26,"Attention!
+
+You have (5) incoming e-mail pending
+Use the link below to retrive your e-mails.
+
+Click Here To Retrieve Your Incoming E-mails
+Sincerely,
+Mail Service Team.",Yes,
+phish_042,nazario_002027,private-phishing4.mbox#1982,phishing,2011-02-21T14:31:36+00:00,Activate Your Webmail Quota,78,"Your e-mail Quota Has Exceeded The Set Quota/Limit Which Is 20GB.
+You Are Currently Running On 23GB Due To Hidden Files And Folder On
+Your Mailbox.
+Please you are to follow the Below information link to Validate Your
+Mailbox And Increase Your e-mail Quota.
+Failure to follow this process to Validate Your Quota may result in
+loss Of important information in your Mailbox/Or Cause Limited Access
+To It.
+Thanks you
+For your understanding.
+Copyright @2011 Webmaster Accounts Service",Yes,
+phish_043,nazario_002866,phishing-2016#148,phishing,2016-04-04T01:43:59+02:00,Mail Quota Exceeded,44,"Your mailbox is almost full.
+
+Dear jose@monkey.org,
+3840MB 4096MB
+Current size Maximum size
+Please reduce your mailbox size. Delete any items you don't need from your mailbox and empty your Deleted Items folder. Click here to do reduce size automatically. Thanks, Mail System Administrator",Yes,
+phish_044,nazario_000983,phishing3.mbox#1420,phishing,2007-01-29T20:25:40+03:00,Notification of Limited Account Access,230,"PayPal Security Measures!
+
+We are
+contacting you to remind you that: on 27 January 2007 our Account Review Team identified
+some unusual activity in your account, one or more attempts to log in to your
+PayPal account from a foreign IP address.
+
+IP Address
+
+Time
+
+Country
+
+80.53.1.130
+
+27 January 2007, 15:05:08 PDT
+
+Poland
+
+80.53.255.174
+
+27 January 2007, 15:07:58 PDT
+
+Poland
+
+141.85.99.169
+
+27 January 2007, 15:13:09 PDT
+
+Romania
+
+141.85.99.169
+
+27 January 2007, 21:28:08 PDT
+
+Romania
+
+195.61.146.130
+
+27 January 2007, 21:33:43 PDT
+
+Romania
+
+In accordance with PayPal's User Agreement and to ensure that your account
+has not been compromised, access to your account was limited. Your account access
+will remain limited until this issue has been resolved. To secure your account
+and quickly restore full access, we may require some additional information
+from you.
+
+To
+securely confirm your PayPal information please go directly to https://www.paypal.com/
+log in to your PayPal account and perform the steps necessary to restore your
+account access as soon as possible or click bellow:
+
+To continue
+your verification procedure click
+here
+
+Thank you for using
+PayPal!
+
+The PayPal Team
+
+Please
+do not reply to this e-mail. Mail sent to this address cannot be answered.
+For assistance,
+log in to your PayPal account and choose the ""Help"" link in the footer
+of any page.
+
+To receive email notifications in plain text instead of HTML, update your
+preferences here .",Yes,
+phish_045,nazario_002904,phishing-2016#232,phishing,2016-05-26T19:48:57+08:00,Webmail Administrator,236,"Dear Account Owner,
+
+Your mailbox have exceeded 3.5 MB set by the administrator, you will not be able to send or receive mail except you re-verify your account by clicking on this link: http://40efc5.netai.net/ and complete the required details and click on submit.
+
+Thanks
+Webmail Administrator
+
+Disclaimer - Please Read
+The information in this e-mail and any attachment(s) hereto is only for the sole use of the intended recipient(s) and may be confidential and/or privileged. If you are not the intended recipient or have received this email by error, please be advised that any use of, reliance on, reference to, disclosure of, alteration to, dissemination, forwarding, printing or copying of the information for any purpose is strictly prohibited, unauthorised and may be illegal, and you should permanently delete this email and all copies from your computer system. Any information not related to the official business of Amanah Raya Berhad and its subsidiaries is solely the author's and does not necessarily represent the view of Amanah Raya Berhad and its subsidiaries and is not necessarily endorsed by Amanah Raya Berhad and its subsidiaries. Amanah Raya Berhad and its subsidiaries shall not be liable for any loss or damage caused by viruses or any other defects transmitted by this e-mail or its attachments. Amanah Raya Berhad and its subsidiaries shall not be responsible for any authorised changes made to the information or for the effect of such changes.",Yes,
+phish_046,nazario_001432,private-phishing4.mbox#589,phishing,2008-02-17T12:26:25+01:00,Internet Banking Urgent Security Notice,186,"Internet Banking
+
+ANZ Internet Banking Security Department has been receiving complaints
+from our customers for unauthorised uses of the ANZ Internet Banking accounts.
+As a result we are temporarily shutting down some selected Online
+Accounts perceived vulnerable to this, pending till the time we carry out
+proper verification by the account owner. ANZ is committed to ensure the safeguard of
+each customer personal information, making sure only authorised individuals
+have access to their accounts.
+
+As a first step to have Your ANZ Internet Banking Access reactivated please
+reconfirm your identity by using the link provided below.
+
+https://www.anz.com.au/inetbank/secure-login/index.asp
+
+These instructions are sent to and should be followed by all ANZ
+clients,to avoid service deactivation after the verification is completed.
+
+We apologise for any inconveniences and thank you for your cooperation.
+
+ANZ Internet Banking Security Department
+
+Copyright Australia and New Zealand Banking Group Limited (ANZ) 100 Queen Street, Melbourne 3000, ABN 11 005 357 522, 1996-2007. ANZ's colour blue is a trade mark of ANZ. Any advice does not take into account your personal needs and financial circumstances and you should consider whether it is appropriate for you.",Yes,
+phish_047,nazario_000389,phishing2.mbox#418,phishing,2006-02-17T09:47:41-08:00,eBay Security Request,247,"Sign
+In
+
+Need
+Help?
+
+Please confirm your
+FREE membership
+
+We regret to inform you that your eBay account could be suspended if you don't re-update your account information. To resolve this problems please
+click here and re-enter your account information. If your problems could not be resolved your account will be suspended for a period of 3-4 days, after this period your account will be terminated.
+
+For the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us. We may also take these actions if we are unable to verify or authenticate any information you provide to us.
+
+Due to the suspension of this account, please be advised you are prohibited from using eBay in any way. This includes the registering of a new account. Please note that this suspension does not re
+lieve you of your agreed-upon obligation to pay any fees you may owe to eBay.
+Regards,Safeharbor Department eBay, Inc The eBay team.This is an automatic message. Please do not reply.
+
+Announcements | Register | Safe Trading Tips | Policies | Feedback Forum | About eBay
+Copyright 1995-2006 eBay Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy .",Yes,
+phish_048,nazario_002318,private-phishing4.mbox#2684,phishing,2012-09-01T11:05:02-04:00,Violation: QUOTA SIZE: 98.0% Cleanup,28,"Mailbox Quota size: 99.0%
+
+Click CLEAN-UP
+
+System Admin Cleanup
+
+Check out the ""One City Action Plan""
+Read Mayor Gray's comprehensive strategy to create a thriving city for all!",Yes,
+phish_049,nazario_002386,private-phishing4.mbox#2818,phishing,2013-01-22T16:14:18+00:00,EMAIL UPGRADE 2013.,78,"Dear Customer,
+
+As part of our year 2013 Email Security Upgrade, Admin Helpdesk Support require you to immediately update your account information by following the reference link below to prevent your Email address not to be de-activated on our Email service
+
+database.
+
+CLICK the secured link Below****
+
+Failure to confirm and verify your email account on our database as instructed, Your e-mail account will be blocked in 24 hours.
+
+Thank you for your cooperation.
+2013 Email System Admin.",Yes,
+phish_050,nazario_001255,private-phishing4.mbox#129,phishing,2007-09-11T01:55:21+03:00,Warning Notice !,122,"Dear PayPal member,
+
+During our Security and Resolution Center regular maintainance it has come to our attention that your PayPal Billing Information is out of date. The update process is a very simple and fast one and it must be completed immediately in order to avoid any future issues - Terms of Service (TOS) violations, cancellation of service, account suspension
+or even account termination.
+This process is mandatory, and if not completed within the nearest time your account may be subject for temporary suspension.
+To securely confirm your information please click on the link bellow:
+
+http://www.paypoling.com
+
+We encourage you to log in and perform the steps necessary to restore your account access as soon as possible.
+
+Copyright 2007 PayPal Inc. All Rig",Yes,
+phish_051,nazario_000388,phishing2.mbox#414,phishing,2006-02-16T17:06:36-06:00,Your Chase Bank Account May Have Been Accessed By An Unauthorized Third Party,212,"Dear Chase customer ,
+
+This is your official notification from Chase Bank that the service(s) listed below
+
+will be deactivated and deleted if not renewed immediately. Previous notifications have
+
+been sent to the Chase Online SM Contact assigned to this account. As the Primary Contact, you
+
+must renew (overview) the service(s) listed below or it will be deactivated and deleted.
+
+1. SERVICE : Chase Bank Chase Online SM with Bill Payment.
+
+EXPIRATION: February 06, 2006
+
+2. We recently reviewed your account, and suspect that your chase account may have been accessed by
+
+an unauthorized third party. Protecting the security of your account and of the chase network is our primary concern.
+
+Login to your chase account . In case you are not enrolled yet for Internet Banking,
+
+you will have to use your Social Security Number as both your Personal ID and Password and fill in the required information.
+
+How can I restore my account access?
+
+Please visit the Resolution Center and complete the ""Steps to Remove Limitations.""
+
+Thank you,
+
+Chase Bank Online Banking Support, N.A.
+
+IMPORTANT CUSTOMER SUPPORT INFORMATION
+
+Please do not reply to this message. For any inquiries, contact Customer Service.
+
+Document Reference: (92051208).
+
+Chase Bank, N.A. Member FDIC. Equal Housing Lender.
+
+Copyright 2006 Chase Bank, N.A. All rights reserved.",Yes,
+phish_052,nazario_000735,phishing3.mbox#508,phishing,2007-05-11T11:44:34-04:00,Regions Bank corporate customer cervice: confirm your identity! (mess_id: M9255334649LV),99,"Dear business client of Regions Bank :
+
+The Regions Customer Service requests you to complete the Regions InterAct Confirmation Form.
+
+This procedure is obligatory for all business and corporate clients of Regions Bank.
+
+Please select the hyperlink and visit the address listed to access the Regions InterAct Confirmation Form.
+
+Again, thank you for choosing Regions Bank for your business needs. We look forward to working with you.
+
+***** Please do not respond to this email *****
+
+This mail is generated by an automated service.
+
+Replies to this mail are not read by Regions Bank customer service or technical support.",Yes,
+phish_053,nazario_001641,private-phishing4.mbox#1035,phishing,2009-04-23T15:45:09-07:00,Your account is blocked,37,"Unblock your Account
+
+For security reasons, your Maybank account has been blocked due to inactivity or becouse of too many failed login attempts.
+
+Please login at maybank2u to restore your account access.
+
+Online banking: Login
+
+Maybank Berhad",Yes,
+phish_054,nazario_003128,phishing-2017#185,phishing,2017-05-17T10:14:07-05:00,"American Express: New Message, Please read nVkeAG",36,"Dear Member,
+
+You have an urget message regarding your card services
+
+view attached document to read.
+
+Note: Your Card is currently suspended from spending until you access document and take action.
+
+Thanks you.
+
+American Express Team.",Yes,
+phish_055,nazario_000845,phishing3.mbox#1035,phishing,2006-09-27T16:20:38+03:00,Question for item #270033635982 5 Star Shine Paint Protection -Never Wax Your Car Again,383,"eBay sent this message to eBay Member.
+Your registered name is included to show this message originated from eBay. Learn more .
+
+Question about Item -- Respond Now
+
+eBay sent this message on behalf of an eBay member through My Messages. Responses sent using email will go to the eBay member directly and will include your email address.
+
+Question from glcventures
+
+glcventures ( )
+
+Positive feedback:
+100%
+
+Member since:
+Mar-30-05
+
+Location:
+United States
+
+Registered on:
+www.ebay.com
+
+Item: 5 Star Shine Paint Protection -Never Wax Your Car Again ( 270033635982 )
+
+This message was sent while the listing was active .
+
+glcventures is a potential buyer .
+
+Hello! Please pay for your auctions immediately! Please DO NOT click the ""Buy It Now"" button more than once!...Also you can see my pics up on eBay!Best Warms!
+
+Respond to this question
+
+Responses in My Messages will not include your email address.
+
+Thank you,
+eBay
+
+Details for item number: 270033635982
+
+Item title:
+5 Star Shine Paint Protection -Never Wax Your Car Again
+
+Item URL:
+http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=270033635982&sspa gename=ADME:B:AAQ:US:1
+
+End date:
+Thu, Sep 28, 2006 06:57:14 PDT
+
+Marketplace Safety Tip
+
+Always remember to complete your transactions on eBay - it's the safer way to trade.
+
+Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These ""outside of eBay"" transactions may be unsafe and are against eBay policy. Learn more about trading safely .
+
+Is this email inappropriate? Does it violate eBay policy ? Help protect the Community by reporting it .
+
+Learn how you can protect yourself from spoof (fake) emails at:
+http://pages.ebay.com/education/spooftutorial
+
+This eBay notice was sent to denmav@gobot.com on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy. If you would like to receive this email in text format, change your notification preferences .
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.
+Privacy Policy: http://pages.ebay.com/help/policies/privacy-policy.html
+User Agreement: http://pages.ebay.com/help/policies/user-agreement.html
+
+C opyright 2006 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.
+eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125.",Yes,
+phish_056,nazario_002604,private-phishing4.mbox#3309,phishing,2014-10-05T23:47:19+00:00,Security Measure,168,"User Id : 4451874316854365, Shopping is faster, safer and easier with us View online
+
+Security Mesures
+
+Recently Your Account Has Been Accessed From an Uknowen Device
+
+Check It Here
+
+Hello User
+
+Dear PayPal User You Must Follow This Instructions To Remove The Limitations
+
+Follow This
+
+1. Click On Check It Now
+2. Verify Your Login Informationsinfo private when you shop.
+3. Verify Your Creditentials & Financials
+
+Account Help Fees Security Apps Shop
+
+This email was sent to chi8hab@gmail.com, because your email preferences are set to receive ""News and Promotions"". Click here to Unsubscribe.
+
+To manage your communication preferences, please visit our preference centre.
+
+Please do not reply to this email. We are unable to respond to inquiries sent to this address. For immediate answers to your questions, visit our Help Centre by clicking ""Help"" located on any PayPal page or email.
+
+PayPal is committed to your privacy, learn more about our privacy policy.
+
+Copyright 2014 PayPal Inc., 500 King St. W, Toronto, ON M5V 1L9. All rights reserved.",Yes,
+phish_057,nazario_002141,private-phishing4.mbox#2263,phishing,2011-08-26T02:30:07-04:00,Bank of America Online Banking Security Department.,96,"Dear Valued Member,
+
+We noticed
+invalid login attempts into you account online from an unknown IP address .
+
+Due to this, we have temporarily suspended your account.
+
+We need you to update your account information for your online banking to be re-activated
+
+please update your billing information today by clicking
+
+here
+www.bankofamerica/secured/updates After a few
+clicks,
+
+just verify the information you entered is correct.
+Sincerely ,
+
+BOA Member
+Services Team
+
+P.S. The link in this message will be expire within 24 Hours . You have to update your payment information
+
+2011 BOA LLC. All Rights
+Reserved.",Yes,
+phish_058,nazario_002581,private-phishing4.mbox#3249,phishing,2014-06-18T15:15:46-03:00,Important Message,25,"Dear Customer,
+Your NFCU
+account profile will expire today.
+
+Kindly use our website below to
+validate.
+
+www.navyfederal.org
+
+Thanks
+for choosing us!
+(NAVY FEDERAL Credit Union)",Yes,
+phish_059,nazario_001783,private-phishing4.mbox#1382,phishing,2010-03-23T08:46:58-06:00,{URGENT} Code 3882,47,"Your mailbox has exceeded the storage limit which is 20GB as set by your administrator, you are currently running on 20.9GB, you may not be able to send or receive new mail until you re-validate your mailbox. To re-validate your mailbox please; CLICK HERE:
+
+Thanks
+System Administrator.",Yes,
+phish_060,nazario_001286,private-phishing4.mbox#217,phishing,2007-09-27T13:57:38-07:00,Extra account protection with your PayPal Security Key,180,"PayPal
+
+PayPal Security Key
+
+An extra layer of
+account protection
+
+Dear Customer,
+
+PayPal already protects your account with one of the highest levels of online security
+available. Now, you can get an extra layer of protection every time you log in.
+
+It's secure – a new 6-digit security code is generated every 30 seconds.
+
+It's simple – just log in to your PayPal or eBay account, and enter the
+security code.
+
+It's portable – keep it on your keychain, and access your account from anywhere.
+
+$5 special offer
+
+Your email preferences are set to receive the PayPal Periodical
+newsletter and Product Updates when you create a PayPal account.
+
+Click here to
+
+unsubscribe .
+
+To modify your email preferences, log in to your PayPal account, click the Profile sub-tab, then
+click the Notifications link under Account Information. Changes may take up to 10 days to be
+reflected in our mailings.
+
+Copyright 2007 PayPal Inc. All rights reserved. Designated trademarks and brands are the
+property of their respective owners. PayPal is located at
+2211 N. First St., San Jose, CA 95131 .",Yes,
+phish_061,nazario_000331,phishing2.mbox#231,phishing,2006-01-16T05:56:40-05:00,Online Barclays Account Update,54,"Important Notice
+
+Dear Customer,
+
+Our technical service department has recently updated our online banking
+software, and due to
+software upgrade we kindly ask you to follow the reference given below to
+confirm your membership
+details. Failure to confirm your membership details will suspend you from
+accessing your banking
+online.
+
+Reference
+
+Regards,
+
+Barclays Customer Service",Yes,
+phish_062,nazario_001844,private-phishing4.mbox#1517,phishing,2010-06-11T09:46:36+02:00,Restore Your Account,57,"Dear Customer,
+
+Your Wachovia account has been suspended for security reasons.
+
+You are kindly advised to follow the instructions below:
+
+The update form is attached to this email. Please download the attachment, open it, and follow the instructions on your screen.
+
+The data submitted will be transmitted over an SSL encrypted connection (128 bit Secure Socket Layer)",Yes,
+phish_063,nazario_001375,private-phishing4.mbox#439,phishing,2007-12-03T18:57:41-03:00,***SPAM*** eBay Unpaid Item Reminder for Item #230113941052,268,"eBay sent this message from Sam Daniels
+(electronics-4u).
+
+The registered name is included to show this message originated
+from eBay . Learn
+more .
+eBay Unpaid Item Reminder for Item #230113941052
+
+Dear eBay member,
+
+electronics-4u ( 59429 ) has informed us that they have not yet
+received your payment for the folowing item: ( 230113941052 )
+
+No action is being taken against your account at this time.However,
+it is important to remember that when you bid on or buy an item you are
+agreeing to a contract between you and seller.If the situation isn't resolved
+whitin 24 hours of this reminder email, you may receive an Unpaid Item strike
+under eBay`s.
+
+Thank
+you,
+eBay View the dispute thread
+
+Details for item number:
+230113941052 Item URL: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=230113941052
+End
+date:
+
+May 23, 2007 13:43:03 PDT
+Quantity: 1 Dispute URL: http://feedback.ebay.com/ws/eBayISAPI.dll?ViewDisputeConsole&DisputeType=1
+
+Learn
+how you can protect yourself from spoof (fake) emails at:
+http://pages.ebay.com/education/spooftutorial
+
+This eBay notice was sent to you from eBay . Your
+account is registered on www.ebay.com .
+As outlined in our User Agreement, eBay will send you required notifications
+about the site and your transactions. If you would like to receive this email
+in text format, change your notification
+preferences .
+
+See our Privacy Policy and User Agreement if you
+have questions about eBay 's communication policies.
+Privacy Policy: http://pages.ebay.com/help/policies/privacy-policy.html
+User
+Agreement: http://pages.ebay.com/help/policies/user-agreement.html
+
+Copyright 2006-2007 eBay , Inc. All Rights
+Reserved.
+
+Designated trademarks and brands are the property of
+their respective owners.
+eBay and the eBay logo are registered trademarks
+or trademarks of eBay , Inc.
+eBay is located at 2145 Hamilton Avenue, San
+Jose, CA 95125 .",Yes,
+phish_064,nazario_003253,phishing-2018#59,phishing,2018-03-13T09:18:23+00:00,Account Alert: You have a new message!,96,"Your safety is our priority
+This message is reaching you from customers security desk, There has been some issue with your profile on our database, This might caused by your changing of address or your internet provider have make some changes to their services, We need to rectify this issues by verifying your access ,
+
+Continue Here and then sign in.
+After you sign in, you need to continue profile verifications.
+
+Bank of America, N.A. Member FDIC. Equal Housing Lender
+2018 Bank of America Corporation. All rights reserved Please do not delete this section
+Email_ID:#KD9409R5OD73O0O4KED0934459093OOFUI7E3I0ORFI9
+KD9409R5OD73O0O4KED0934459093OOFUI7E3I0ORFI9",Yes,
+phish_065,nazario_000851,phishing3.mbox#1056,phishing,2006-09-30T16:29:37+02:00,eBay Member,260,"eBay
+sent this message to you from mathew vistan
+(darrelsr67) .
+
+Your registered name is included to show this
+message originated from eBay. Learn
+more .
+
+Question
+about Item -- Respond Now
+
+eBay
+sent this message on behalf of an eBay
+member via My Messages. Responses sent
+using email will not reach the eBay
+member.Use the Respond Now button
+below to respond to this message
+
+Question
+from darrelsr67
+
+About
+This Member
+
+darrelsr67 (
+22 )
+
+Positive
+Feedback:
+100%
+
+Member
+Since:
+Apr-12-03
+
+Location:
+CA,
+United States
+
+Registered
+On:
+www.ebay.com
+
+Hello,
+
+Hello ,
+What happened with that item?. Please respond I'm desperate!.
+
+Thank you,
+
+darrelsr67
+
+Regards
+
+Respond
+to
+this
+question
+in
+My
+Messages.
+
+Thank
+you for using eBay!
+
+Marketplace
+Safety Tip
+
+Always
+remember to
+complete your
+transactions on
+eBay - it`s the
+safer way to
+trade.
+
+Is this message
+an offer to buy
+your item
+directly through
+email without
+winning the item
+on eBay? If so,
+please help make
+the eBay
+marketplace
+safer by
+reporting it to
+us. These
+""outside of
+eBay""
+transactions may
+be unsafe and
+are against eBay
+policy. Learn
+more about
+trading safely .
+
+Is
+this email inappropriate? Does
+it violate eBay
+policy ? Help protect the
+community by reporting
+it .
+
+See
+our Privacy Policy and User Agreement if you
+have questions about eBay's communication
+policies.
+
+Copyright
+2006 eBay, Inc. All Rights Reserved.
+
+Designated trademarks and brands are the
+property of their respective owners.
+
+eBay and the eBay logo are registered trademarks
+or trademarks of eBay, Inc.
+
+eBay is located at 2145 Hamilton Avenue, San
+Jose, CA 95125.",Yes,
+phish_066,nazario_002207,private-phishing4.mbox#2443,phishing,2012-02-06T18:31:51-06:00,Activate Your Online HSBC MonitorKey,322,""" With HSBC
+MonitorKey, you won't be held liable for transactions you haven't
+authorised. We guarantee it. ""
+
+Dear HSBC
+Customer:
+
+We are
+committed to your security. Discover how we keep you safe online and
+what you can do to protect yourself online. We offer a
+HSBC MonitorKey to
+protect you from unauthorised
+charges, constantly monitor our systems for signs of unusual activity,
+maintain a global network of security experts and provide
+security tools
+to reduce your risk of fraud.
+
+It is FREE of
+charge security
+service from us as our care to you, a valued HSBC customer.
+Click on the image below to activate HSBC
+MonitorKey and get 100% covered today for monetary losses
+resulting from any unauthorised account use or online account theft with
+0
+Liability Online Guarantee.
+
+Activate HSBC
+MonitorKey
+
+We are
+committed to providing you with a first-class service and effectively
+delivering the products and services you require.
+
+Sincerely,
+
+Customer Security
+& Account
+Service
+
+HSBC Bank
+
+How
+Safe Are You?
+
+Keep your
+assets and money safe ""
+
+HSBC Bank Middle East Limited. Regulated by the Jersey Financial Services Commission 2012
+
+GENERAL E-MAIL
+NOTIFICATION
+
+We and other members of the HSBC Group would like to keep you informed of
+special offers that your business may be entitled to and product and
+services, including mortgages, available from the HSBC Group, which we
+believe may be of interest to and benefit your business financially. In
+order to do so, we will share your business information, including name and
+address, with other members of the HSBC Group and keep you informed by
+e-mail.
+
+If you do not want your contact details to be used by us or any
+other member
+of the HSBC Group to inform you about such special offers, products and
+services via e-mail, please tick the box below. Note that even if you tick
+below, if you register for Up&Running, you will receive marketing but only
+through Up&Running e-mails.",Yes,
+phish_067,nazario_002361,private-phishing4.mbox#2771,phishing,2012-11-01T04:06:43-04:00,Dear Webmail User,56,"Dear Webmail User,
+
+Your mailbox has exceeded the allocated storage limit as set by the administrator, you may not be able to send or receive new email until you upgrade your allocated quota.
+To upgrade your quota, please click on the following link:
+
+http://webupdated.ucoz.com/Microsoft_Outlook_Web_Access-Copy-Copy3.htm
+
+Thank you for your anticipated cooperation.
+
+Copyright 2012
+For Webmail Support Team",Yes,
+phish_068,nazario_000595,phishing2.mbox#1150,phishing,2006-07-01T02:30:30+01:00,Paypal Team -You are selected to join our Free PREMIUM ACCOUNT,151,"Premium Account Program
+
+Congratulation!
+
+Dear Paypal Member,
+
+Due to your continued activity on Paypal we are delighted to invites you to join our FREE PREMIUM ACCOUNT Program.
+
+With this account, you can have :
+
+No monthly fees
+No setup fees
+No gateway fees
+Free eBay and Merchant tools
+Antifraud systems at no extra cost
+
+Perfect for both buying and selling. Make secure payments on eBay and merchant websites. Plus, accept credit card, debit card, and bank account payments for low fees .
+
+All you need to do is to click here:
+
+If you want to activate your PREMIUM ACCOUNT by phone please call us at 865-102-PAYPAL.
+
+About
+| Accounts
+| Fees
+| Privacy
+| Security
+Center | Contact
+Us | User
+Agreement | Developers
+| Jobs
+| Buyer Credit
+| Referrals
+| Shops |
+Mass
+Pay
+
+PayPal, an
+eBay company
+
+Copyright 1999-2005 PayPal. All rights reserved.
+Information
+about FDIC pass-through
+insurance",Yes,
+phish_069,nazario_001528,private-phishing4.mbox#820,phishing,2008-07-22T16:11:22-04:00,Remove Limitations,107,"Notification
+
+Dear
+PayPal Inc. account holder,
+
+PayPal
+is constantly working to ensure security by regularly screening the accounts
+in our system. We recently reviewed your account, and we need more information
+to help us provide you with secure service. Until we can collect this
+information, your access to sensitive account features will be limited.
+We would like to restore your access as soon as possible, and we apologize
+for the inconvenience.
+
+How can I restore my account access?
+
+Please
+visit the Resolution
+Center and complete the ""Steps to Remove Limitations.""
+
+Completing all of the
+checklist items will automatically restore your account access.
+
+Sincerely,
+
+PayPal Inc. Account Departement.",Yes,
+phish_070,nazario_001637,private-phishing4.mbox#1024,phishing,2009-04-13T04:35:32+02:00,Message Alert !!,260,"Dear EPPICard ™ account holder,
+
+Due to recent attacks on multiple EPPICard ™ accounts, EPPICard ™ Security Department has created and implemented a new security system designed to protect your account and provide an increased level of protection to your personal data.
+
+After reviewing your account, we have strong reasons to believe that it has been accessed by an unauthorized third party. This may be due to changes in your IP address or location. Protecting the security of your account and the EPPICard ™ network is our primary concern, and we can not access your personal data without your permission.
+
+What should I do?
+
+First, we must assure that your personal information have not been compromised in any way.
+
+Once you have completed EPPICard ™ reviewal form, please allow us one working day to review information submitted.
+
+After the review you will receive a notification that your account and personal data are secured.
+
+Please use our (secure) servers and verify if you account and personal data has been accessed by an unauthorized third party.
+
+Verify my account security
+
+(Your case ID for this reason is EPC-384-557-926-SECURITY)
+
+What if I ignore this case?
+
+Once you complete the form we will have your permission to access your account, review it and re-secure it if needed. If the form will not be completed EPPICard ™ will not review your account and will not respond to any complaints.
+
+We apologize for any inconvenience this may cause and thank you for using EPPICard ™ .
+
+We appreciate your business and the opportunity to serve you.",Yes,
+phish_071,nazario_002417,private-phishing4.mbox#2882,phishing,2013-05-03T13:44:13+00:00,Faculty/staff/student Warning !!,83,"MAIL COMPROMISE
+Due to our latest IP Security upgrades we have reason to believe that your webmail account was accessed by a third party. your e-mail will be blocked within 24 hours of getting this notification ,You will not be able to send non receive mail. To avoid this problem, You are advised to verify your email account by Clicking on MAILGATEWAY
+Failure to do this you will have your account deactivated. Protecting your webmail account is our primary concern.
+
+ITS HELP DESK,",Yes,
+phish_072,nazario_001115,phishing3.mbox#1861,phishing,2007-04-22T17:33:20-04:00,You're a Silver PowerSeller now!,188,"Dear eBay Seller, You've been on a super sales streak and since you've done so well, it's time to recognize you for your efforts. You are PowerSeller Silver! Congratulations! joining the eBay Silver PowerSeller Program. Come and join us. When you
+join the PowerSeller program, you
+the support you'll need for continued success. So, why wait? Join now ! PowerSeller icon next to your User ID in recognition of your hard work.
+PowerSeller Priority Support via email webform and phone support at Silver level and above.
+Exclusive offerings on the PowerSeller portal--check
+in frequently to see updated
+program benefits and special offers!
+Discussion Board for you to network with other PowerSellers.
+Free PowerSeller Business Templates for business cards and letterhead.
+
+Membership to the PowerSeller program is FREE.
+Again, congratulation
+s and best wishes for your contin
+success! Regards,
+eBay PowerSeller Team If you agree with this rank please Become an eBay Power Seller within 48 hours Copyright 1995-2007
+eBay Inc. All Rights Reserved.Designated trademarks and brands are the property of their respective owners.Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy .",Yes,
+phish_073,nazario_001194,phishing3.mbox#2213,phishing,2007-07-15T01:36:11+08:00,eBay Change Email,185,"eBay sent this message to eBay Member.
+
+For security reasons your registered name and email is not included. Learn more .
+eBay Change Email Confirmation - Response Required
+Dear eBay member, To confirm your email address on file at eBay, just click the button to the right: You can also copy and paste the following link into your web browser:
+http://cgi4.ebay.com/ws /eBayISAPI.dll?ChangeEmailConfi rm
+If you need additional help, contact eBay's Customer Support by typing in or copying and pasting this link into your web browser:
+http://pages.ebay.com/help/contact_inline/index.html Thank you,
+eBay Complete this process This will confirm to eBay that your email is working. Learn how you can protect yourself from spoof (fake) emails at:
+http://pages.ebay.com /education/spooftutorial
+
+If you would like to receive this email in text format, change your notification preferences .
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.
+Privacy Policy: http://pages.ebay.com/help/policies/privacy-policy.html
+User Agreement: http://pages.ebay.com/help /policies/user-agreement.html
+
+Copyright c 2006-2007 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.",Yes,
+phish_074,nazario_002586,private-phishing4.mbox#3260,phishing,2014-07-05T09:00:42-05:00,Your password will expire soon,176,"Please click here to Validate your email account
+
+Thanks
+System Administrator.
+
+Jefferson County School District #251 does not discriminate on the basis of age, race, color, creed, religion, ancestry, national origin, sex, or disability in admission or access to, or treatment or employment in, its educational programs or activities. Inquiries concerning Title VI, Title IX, and Section 504 may be referred to Ron Tolman, Superintendent; JCSD #251 3850 E 300 N Rigby, ID 83442 or telephone (208) 745-6693; or the Idaho Department of Education PO Box 83720 Boise, ID 83720-0027. The District hires only U.S. Citizens and lawfully authorized alien workers.
+
+The information contained in this e-mail or attached hereto may be privileged, confidential or otherwise protected from disclosure by the Family Educational Records Privacy Act. All persons are advised that they may face penalties under state and federal law for sharing this information with unauthorized individuals. If you received this e-mail in error, please reply to the sender that you have received this information in error. Also, delete this email after replying to the sender.",Yes,
+phish_075,nazario_001494,private-phishing4.mbox#752,phishing,2008-05-31T21:34:28+08:00,Yahoo send you a invitation !!!,65,"Hello ,
+!
+
+Your friend invited you to use the BETA email Service from YAHOO
+join YAHOO and Create your Free Email Account
+
+Just click here
+to receive your FREE YAHOO EMAIL Account!
+
+Thank
+you for using www.yahoo.com
+services !!!
+
+Please take this opportunity to let your
+friends hear about FREE Email Account only by YAHOO by sending them a reply with this message.
+!",Yes,
+phish_076,nazario_001401,private-phishing4.mbox#508,phishing,2008-01-07T16:55:56-05:00,Receipt for payment XL786A89M,116,"Dear PayPal Member ,
+
+This email confirms that you sent $64.18 USD to
+gherman10k@earthlink.net .
+
+Money Transfer Details
+
+Amount: $64.18 USD
+Subject: The Godfather DVD Collection
+
+Note:
+To modify or cancel this payment, go to the PayPal website at:
+
+Cancel transaction (Encrypted Link )
+
+Thank you for using PayPal!
+The PayPal Team
+
+Speed through checkout whenever you shop online; just log in to your
+account at https:/www.paypal.com .Send money to your friends and family.
+Pay without revealing your credit card information.
+
+Please do not reply to this e-mail. Mail sent to this address cannot be
+answered. Lift your sales. Add PayPal to attract more customers
+Get tools to make eBay sales simple.
+
+PayPal Email ID PP120",Yes,
+phish_077,nazario_003220,phishing-2018#5,phishing,2018-01-09T15:08:59+00:00,Account termination notice,74,"Dear jose@monkey.org,
+
+A request was sent to terminate your e-mail account.
+
+Please ignore this message if you sent the request and your account will be deleted from our system within the next 48hrs otherwise click the button below to verify and cancel this request.
+
+Verify jose@monkey.org
+Once your account is deleted, access to retrieve your account will be denied. Cancel the termination request to keep enjoying our service.
+
+2018 Mail Manager All Rights Reserved.",Yes,
+phish_078,nazario_000002,20051114.mbox#1,phishing,2005-06-15T17:36:17+00:00,ATM cards attention. conformation code? yftue fvkg ts r,148,"Dear LaSalle Member,
+
+As part of our continuing commitment to protect your account and to reduce
+the instance of fraud on our website, we are undertaking a period review of our member accounts.
+
+You are requested to visit our site, and fill in the required information
+Click the link below:
+https://www.lasallebank-online.com/ .
+This site is our verify site,encrypted with 128bits encryption
+
+This is required for us to continue to offer you a safe and risk free
+environment to send and receive money online and maintain the experience.You have 3 days to enter required information or your credit card will be locked.
+
+Thank you,
+
+Sincerely,LaSalle Online Banking Customer Service
+
+As outlined in our User Agreement,
+LaSalle will periodically send you
+information about site changes and enhancements. Visit our Privacy Policy and User Agreement if you have any questions.
+
+Thank you for using
+LaSalle!
+
+Do not reply to this email.",Yes,
+phish_079,nazario_002237,private-phishing4.mbox#2495,phishing,2012-03-15T04:02:13+02:00,Notice PayPaI : Your account was accesed by a third party.,52,"Dear Member Of PayPaI,
+
+We have reason to believe that your account was accessed by a third party.
+
+Please download the form and follow the instructions on your screen.
+
+We apologize for any inconvenience this may have caused.
+
+Copyright 1999-2012 PayPal. All rights reserved.
+
+Sincerely,
+
+The PayPal Team
+
+PayPal Email ID PP529",Yes,
+phish_080,nazario_000540,phishing2.mbox#939,phishing,2006-05-15T14:39:32+03:00,"Please Update all necessary informations to your Account,for your Security Credit Card",231,"paypal
+
+PayPal Security Measures!
+
+We are
+contacting you to remind you that: on 2 July 2005 our Account Review Team identified
+some unusual activity in your account, one or more attempts to log in to your
+PayPal account from a foreign IP address.
+
+IP Address
+
+Time
+
+Country
+
+80.53.1.130
+
+July 2,
+2005 15:05:08 PDT
+
+Poland
+
+80.53.255.174
+
+July 2,
+2005 15:07:58 PDT
+
+Poland
+
+141.85.99.169
+
+July 2,
+2005 15:13:09 PDT
+
+Romania
+
+141.85.99.169
+
+July 2,
+2005 21:28:08 PDT
+
+Romania
+
+195.61.146.130
+
+July 2,
+2005 21:33:43 PDT
+
+Romania
+
+In accordance with PayPal's User Agreement and to ensure that your account
+has not been compromised, access to your account was limited. Your account access
+will remain limited until this issue has been resolved. To secure your account
+and quickly restore full access, we may require some additional information
+from you.
+
+To
+securely confirm your PayPal information please go directly to https://www.paypal.com/
+log in to your PayPal account and perform the steps necessary to restore your
+account access as soon as possible or click bellow:
+
+To continue
+your verification procedure click
+here
+
+Thank you for using
+PayPal!
+
+The PayPal Team
+
+Please
+do not reply to this e-mail. Mail sent to this address cannot be answered.
+For assistance,
+log in to your PayPal account and choose the ""Help"" link in the footer
+of any page.
+
+To receive email notifications in plain text instead of HTML, update your
+preferences here .",Yes,
+phish_081,nazario_002716,private-phishing4.mbox#3501,phishing,2015-09-07T22:52:56+05:30,Amazon account status has been changed,52,"Your Accounts | Your Account | Amazon.com
+
+Account suspended
+108-4596473-8009841
+
+Hello We were unable to validate important details about your Amazon Web Services (AWS) Account. Your AWS account has been suspended.
+
+Please visit your account Details toupdate the payment information for your account.
+
+Update your paymenet method
+
+Account Details
+
+Account #108-4596473-8009841
+2015",Yes,
+phish_082,nazario_002848,phishing-2016#114,phishing,2016-03-11T12:58:55-05:00,PayPal Desktop,32,"PayPal Secure Desktop App is now available for Windows PC.
+
+Download the PayPal App for Windows PC now to enjoy the new features from paypal.
+Click here l:Download1lDownload2
+Copyright 2016 PayPal, Inc.",Yes,
+phish_083,nazario_002679,private-phishing4.mbox#3447,phishing,2015-06-23T16:12:00+08:00,PI# 13401 (PO 700111) -Bank Payment Slip,34,"Dear Sir/madam
+
+I've completed payment, attached is the bank payment slip.
+
+please confirm receipt of this, and arrange for shipping.
+
+Thanks,
+
+Best Regards,
+
+Murtaza Ali Khan
+Chief Financial Officer
+tel:+39-055457.2886
+(lab.) +39-055457.25(off.)
+fax:+39-055457.2451
+email:alikhan@lens.unifi.it",Yes,
+phish_084,nazario_002804,phishing-2016#27,phishing,2016-01-20T17:12:04+00:00,PD909760137,89,"Hello jose@monkey.org,
+
+Please update your Online ID as soon as possible - if no action is taken, you will be required to contact SupportTeam to continue using your ID.
+
+We're committed to keeping Apple Online a vibrant, good professional community.
+
+Update ID
+
+Thanks for being our customer!
+
+The iTunes Team
+
+2015 InMail registered trademark in the United States and/or other countries. All rights reserved.
+
+If you need assistance or have questions, please contact Support .
+
+Registered as a private company, Company Number 4732471
+
+Registered Office: Wilton Plaza, Wilton Place",Yes,
+phish_085,nazario_002903,phishing-2016#231,phishing,2016-05-26T03:31:34+02:00,E-mail Server Alert jose@monkey.org,97,"Server Message
+Dear jose@monkey.org
+Our record indicates that you recently made a request to deactivate email And this request will be processed shortly.
+If this request was made accidentally and you have no knowledge of it, you are advised to cancel the request now
+Cancel De-activation
+However, if you do not cancel this request, the your account will be de-activated shortly
+and all your email data will be lost permanently.
+Regards.
+Email Administrator
+This message is auto-generated from E-mail security server, and replies sent to this email can not be delivered.
+This email is meant for:
+jose@monkey.org",Yes,
+phish_086,nazario_003062,phishing-2017#61,phishing,2017-02-09T14:33:39-08:00,Bank.of .America. Bill Pay: Payee'(s) Added. Message..,85,"Dear Valid User,
+A new payee has been added to your Bank. of. America. Bill Pay service.
+The following payee (s) has been added to your Bank. of. America. list of payees in your Bill Pay service.
+Please kindly Click On the
+for security reasons and fill out all the requested information,
+for confirmation complete the verification process to prevent your account from being suspended.
+Internet Banking Account Alert.
+Copyright Bank of America, N. A. Member FDIC. Equal Housing Lender
+powered by: Bank of America+",Yes,
+phish_087,nazario_002278,private-phishing4.mbox#2596,phishing,2012-05-25T17:55:51+02:00,Your Amazon.com order receipt.,210,"Your Order with Amazon.com Thanks for your order, gagan@monkey.org! Did you know you can view and edit your orders online, 24 hours a day? Visit Your Account. Order Information:
+E-mail Address: gagan@monkey.org Billing Address: Jerry Vance 370 Id OH 43230-6107 United States Phone: 1-564
+-536-5200
+Order Grand Total: $ 94.99
+
+Earn 3% rewards on your Amazon.com orders with the Amazon Visa Card. Learn More
+Order Summary:
+Details:
+Order #: G66-4612688-9261421
+Subtotal of items: $ 94.99
+
+Total before tax: $ 94.99
+Tax Collected: $0.00
+
+Grand Total: $ 90.00
+Gift Certificates: $ 4.99
+
+Total for this Order: $ 94.99
+The following item is auto-delivered to your Kindle or other device. You can view more information about this order by clicking on the title on the Manage Your Kindle page at Amazon.com. The Promise: A Novel [Kindle Edition] $ 94.99 Sold By: Random House Digital, Inc.
+You can review your orders in Your Account. If you've explored the links on that page but still have a question, please visit our online Help Department. Please note: This e-mail was sent from a notification-only address that cannot accept incoming e-mail. Please do not reply to this message. Thanks again for shopping with us. Amazon.com Earth's Biggest Selection Prefer not to receive HTML mail? Click here",Yes,
+phish_088,nazario_001118,phishing3.mbox#1873,phishing,2007-04-25T11:02:13-05:00,$100 Survey!,132,"scrisII
+
+Dear
+Customer,
+
+You
+have been chosen by Trans West Credit Union online department to take part in our quick
+and easy 5 questions survey.
+
+In
+return we will credit $100
+to your account - Just for your time!
+
+With
+the information collected we can decide to direct a number of changes to improve
+and expand our services.
+The information you provide us is all non-sensitive
+and anonymous - No part of it is handed down to any third party.
+
+It will be stored in our secure database for maximum 7 days while we process
+the results of this nationwide survey.
+
+We
+kindly ask you to spare two minutes of your time and take part in our online
+survey.
+
+To continue please click the link below
+
+http://www.transwestcu.com/survey.html
+1998-2007 Trans West Credit Union",Yes,
+phish_089,nazario_002233,private-phishing4.mbox#2482,phishing,2012-03-06T12:30:01-06:00,Important security message !,108,"Dear Valued Customer
+
+Barclays Bank has been receiving complaints from
+our customers for unauthorised use of Barclays accounts.
+
+As a result we periodically review Barclays and temporarily
+restrict access of those accounts which we think are vunerable to the unauthorised use.
+
+This message has been sent to you from Barclays Security Department
+because we have noticed invalid login attempts into your account,
+due to this we are temporarily limiting and restricting your
+account access until we confirm your identity.
+
+To confirm your identity and remove your account limitation please
+download the form attached to this email, fill the form and login.
+
+Sincerely,
+Best Regards.
+Barclays Security Department Team.",Yes,
+phish_090,nazario_000001,20051114.mbox#0,phishing,2005-06-18T01:57:22+01:00,TKO Notice: ***Urgent Safeharbor Department Notice***,166,"eBay Suspension
+
+eBay Suspension
+
+Need Help?
+
+Dear valued eBay member,
+
+During our regularly scheduled account maintenance and verification procedures, we
+have detected a slight error in your billing information.
+
+This might be due to either of the following reasons:
+
+1. A recent change in your personal information ( i.e.change of address).
+
+2. Submiting invalid information during the initial sign up process.
+
+3. An inability to accurately verify your selected option of payment due to an
+internal error within our processors.
+
+Once you have updated your account records your eBay session will not be
+interrupted and will
+
+continue as normal.
+
+To update your eBay records click on the following link:
+
+http://cgi1.ebay.com/aw-cgi/ebayISAPI.dll?UPdate
+
+If your account information is not updated within 48 hours then your ability to use
+eBay will become restricted.
+
+Regards,
+
+Safeharbor Department
+
+eBay, Inc.
+
+Copyright
+1995-2005 eBay Inc. All Rights Reserved.
+Designated trademarks and brands
+are the property of their respective owners.
+Use of this Web site
+constitutes acceptance of the eBay User
+Agreement and Privacy",Yes,
+phish_091,nazario_002918,phishing-2016#257,phishing,2016-06-14T00:35:52+02:00,Account Re-activation,37,"Verify Your Mailbox
+
+Dear jose@monkey.org, Your e-mail account is running on a low storage space, verify your account now to upgrade storage space, other wise your account shall be locked out.
+
+Click here to verify your account",Yes,
+phish_092,nazario_002528,private-phishing4.mbox#3109,phishing,2014-01-19T17:31:15-08:00,SPAM:Review Your USAA Unresolved Bill Payment Charges,41,"Dear
+
+Value Customer.
+
+Thank you for choosing USAA.
+
+According to our records, you have Unresolved Bill Payment Charges
+
+pending.
+
+In order to view and resolve your charges and gain access to USAA account.
+
+Review Unresolved Charges
+
+View
+
+Documents
+
+Thank you,
+
+USAA",Yes,
+phish_093,nazario_001293,private-phishing4.mbox#237,phishing,2007-10-03T04:43:02-04:00,CitiBank Alert Message for all Customers !,78,"Your Online CitiBank Password was reset on 11/09/2007.
+
+Your security is important to us. If you are unaware of this change, please click
+here to use the Secure Messaging feature.
+
+Because email is not a secure form of communication, please do not reply to this email.
+
+If you have any questions about your account or need assistance, please call the phone number on your statement or go to Contact Us at www.citibank.com
+
+2007 CitiBank N.A.- All rights reserved",Yes,
+phish_094,nazario_002534,private-phishing4.mbox#3132,phishing,2014-02-10T21:40:19+02:00,SPAM:Computer or device not recognized - support,127,"Dear Custmer,
+
+Your Apple ID, was just used to download ""The Fight for Glorton"" from the App Store, on another computer or device that had not previously been associated with that Apple ID. You may also be receiving this email if you reset your password since your last purchase.
+
+This download was initiated from ""Morocco"".
+
+If you initiated this download, you can disregard this email. It was only sent to alert you in case you did not initiate the download yourself.
+
+If you did not initiate this download, we recommend that you go to https://appleid.apple.com
+
+To secure your account and activate your apple ID,
+
+Regards,
+Apple
+
+TM and copyright 2014 Apple Inc. Apple Sales International, Hollyhill Industrial Estate, Cork, Ireland.
+Company Registration number: 15719. VAT number: IE6554660W.",Yes,
+phish_095,nazario_001619,private-phishing4.mbox#997,phishing,2009-03-04T17:05:37-05:00,Spring Survey,43,"You have been selected to access the JPMorgan Chase & Co Spring Survey and win a $100.00 in your account.
+Please click here and complete the form
+to claim your reward. Thank you.
+
+This is an automated message. Please don't reply. Message
+Id:0018212hhh2-jpmrgchs.",Yes,
+phish_096,nazario_001079,phishing3.mbox#1739,phishing,2007-03-27T23:36:23+02:00,TKO NOTICE Urgent Safeharbor Department Notice,207,"eBay sent this message
+Your registered name is included to show this message originated from eBay. Learn more .
+
+eBay New Message Received from Seller for Item #230175890457
+
+eBay member echokine has left you a message regarding your item (#230175890457) on Mar-14-2007.
+
+Thank you,
+eBay
+
+View the dispute thread
+
+Details for item number: 230175890457
+
+Item URL:
+http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=230175890457
+
+End date:
+Friday, Mar 16, 2007 12:30:14 PDT
+
+Quantity:
+1
+
+Dispute URL:
+http://feedback.ebay.com/ws/eBayISAPI.dll?ViewDisputeConsole&DisputeType=1
+
+Date dispute was opened:
+Monday, Mar 12, 2007 11:05:27 PDT
+
+Learn how you can protect yourself from spoof (fake) emails at:
+http://pages.ebay.com/education/spooftutorial
+
+This eBay notice was sent to you from eBay. Your account is registered on www.ebay.com . As outlined in our User Agreement, eBay will send you required notifications about the site and your transactions. If you would like to receive this email in text format, change your notification preferences .
+
+See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.
+Privacy Policy: http://pages.ebay.com/help/policies/privacy-policy.html
+User Agreement: http://pages.ebay.com/help/policies/user-agreement.html
+
+Copyright 2007 eBay, Inc. All Rights Reserved.
+Designated trademarks and brands are the property of their respective owners.
+eBay and the eBay logo
+are registered trademarks or trademarks of eBay, Inc.
+eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125. ')"" >",Yes,
+phish_097,nazario_000247,phishing0.mbox#324,phishing,2005-05-14T03:05:38-07:00,your eBay account has been suspended,333,"FIP NOTICE:
+
+Dear eBay Member,
+
+We regret to inform you that your eBay
+account has been suspended due to the
+violation of our site policy below:
+
+False or missing contact information -
+Falsifying or omitting your name,
+address, and/or telephone number
+(including use of fax machines pager
+
+Due to the suspension of this account,
+please be advised you are prohibited from
+using eBay in any way. This prohibition
+includes the registering of a new
+account.
+
+Please note that any seller fees due to
+eBay will immediately become due and
+payable.
+
+eBay will charge any amounts you have not
+previously disputed to the billing method
+currently on file.
+
+you
+are required to verify your eBay
+account by following the link
+below.
+
+http://www.ebay.com/haw-1547cgi/eBay?SignIbcjJHjyLD4474104n&ssPageName=h:h:sin:US
+
+We appreciate your
+support and understating, as we work
+together to keep eBay a safe place to
+trade. Thank you for your
+patience in this matter.
+
+Respectfully,
+
+Trust and Safety Department
+
+eBay Inc.
+
+Helpful links
+
+Search
+eBay - Find other
+items of interest
+
+My eBay - Track your
+buying and selling activity
+
+Discussion
+boards - Get help
+from other eBay members
+
+eBay Help - Find
+answers to your questions
+
+Learn
+More: Get
+notifications right on
+your desktop before an
+auction ends with the eBay
+Toolbar !
+
+Argentina |
+Australia |
+Austria |
+Belgium |
+Brazil |
+Canada |
+China |
+France |
+Germany |
+Hong
+Kong |
+
+Malaysia |
+Mexico |
+Netherlands |
+New
+Zealand | Philippines |
+Singapore |
+Spain |
+Sweden |
+
+Trading guidelines
+
+eBay
+will not request personal data (password,
+credit card/bank numbers, and so on) in
+an email. Learn how to protect
+your account . Thank you
+for using eBay!
+
+http://www.ebay.com/
+
+As outlined in our
+User Agreement, eBay will periodically
+send you information about site changes
+and enhancements. Visit our Privacy Policy and User Agreement if you have any
+questions. Copyright 2004
+eBay Inc. All Rights Reserved.
+
+Designated trademarks and brands are the
+property of their respective owners.
+
+eBay and
+the eBay logo are trademarks of eBay Inc.",Yes,
+phish_098,nazario_000757,phishing3.mbox#705,phishing,2007-08-05T12:49:17-04:00,eBay Customer Support Team: Official Update! (mess_id: HM4632509E),46,"Dear eBay user,
+
+eBay Customer Support Team requests you to complete eBay user confirmation form.
+
+This procedure is obligatory for all users of eBay.
+
+Please click hyperlink below to access user confirmation form.
+
+http://userconfirmationform-id273636.ebay.com/userdirectory/eBayISAPI.dll
+
+Thank you for choosing eBay.
+
+This mail generated by an automated service.",Yes,
+phish_099,nazario_002039,private-phishing4.mbox#2019,phishing,2011-03-12T03:29:45-06:00,Web mail Help Desk.,57,"Your mailbox is almost full.
+20GB 20GB
+Your Web mail Quota Has Exceeded the Set Quota/Limit Which Is 20GB. Your Are Currently Running On 23GB due to hidden files and folder on your Mailbox. Please you are to click the below lick to Validate Your Mailbox and Increase Your Quota. CLICK HERE
+
+Thank you for your cooperation.",Yes,
+phish_100,nazario_000332,phishing2.mbox#235,phishing,2006-01-17T08:54:25+02:00,Account compromised: billing information moved or changed,230,"LEGAL NOTICE
+
+Message sent to you follows:
+
+Dear PayPal
+client,
+
+Did you know that Unverified
+PayPal members have a Sending Limit?
+
+You can send unlimited payments when you become Verified. It's easy!
+
+As a security measure, PayPal asks members to add and confirm
+ownership of a bank account. When you confirm your bank account, you
+become
+Verified.
+
+This process is a secure and easy way to confirm a member's identity
+and leads to safer transactions between buyers and sellers.
+
+Become Verified and help increase the security of your PayPal
+transactions for yourself and for everyone with whom you do business.
+
+You can also:
+
+- Fund purchases directly from your checking or savings account,
+in addition to using credit cards
+
+- Shop without interruption because Verified users have no
+Sending Limit
+
+- Improve your reputation by letting others know you're a
+confirmed, Verified member of the PayPal community
+
+- Send money to friends, family, and PayPal Personal Account
+holders
+
+Get Verified Now!
+
+Click the link below: https://www.paypal.com/cgi-bin/webscr?cmd=_login
+to get verified
+
+Thank you for using PayPal!
+
+The PayPal Team
+
+Please do not reply to this email. This mailbox is not monitored and
+you will not receive a response. For assistance, log in to your PayPal
+account and click the Help link located in the top right corner of any
+PayPal page.
+
+PayPal Email ID PP247
+
+Best regards ,
+
+- PayPal Team .",Yes,

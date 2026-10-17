@@ -1,0 +1,103 @@
+source_record,source_dataset,record_id,review_flags,review_decision,review_reason_code,decided_on,decision_log_entry
+maildir/corman-s/inbox/archives/229.,enron,enron_000340,foreign_language,exclude,promotional_mailing_not_interpersonal,2026-10-06,D15
+maildir/taylor-m/inbox/marketing/8.,enron,enron_002510,foreign_language,keep,valid_record_false_flag,2026-10-06,D15
+maildir/skilling-j/inbox/270.,enron,enron_007554,foreign_language,keep,valid_record_false_flag,2026-10-06,D15
+maildir/ermis-f/inbox/439.,enron,enron_008786,foreign_language,keep,valid_record_false_flag,2026-10-06,D15
+maildir/ermis-f/inbox/53.,enron,enron_008799,foreign_language,exclude,substantial_non_english_passage,2026-10-06,D15
+maildir/shackleton-s/inbox/383.,enron,enron_014207,foreign_language,keep,valid_record_false_flag,2026-10-06,D15
+maildir/taylor-m/sent/1377.,enron,enron_002868,foreign_language | gibberish,keep,valid_record_false_flag,2026-10-06,D15
+maildir/solberg-g/inbox/130.,enron,enron_002931,foreign_language | gibberish,exclude,non_english,2026-10-06,D15
+maildir/dasovich-j/sent/302.,enron,enron_003600,foreign_language | gibberish,keep,valid_record_false_flag,2026-10-06,D15
+maildir/bass-e/sent/1207.,enron,enron_009680,foreign_language | gibberish,exclude,no_message_text_url_only,2026-10-06,D15
+maildir/kaminski-v/sent/1990.,enron,enron_012134,foreign_language | gibberish,exclude,non_english_contact_block_only,2026-10-06,D15
+maildir/kaminski-v/sent/2476.,enron,enron_012144,foreign_language | gibberish,exclude,non_english,2026-10-06,D15
+maildir/kaminski-v/sent/741.,enron,enron_012201,foreign_language | gibberish,exclude,non_english,2026-10-06,D15
+maildir/kaminski-v/sent/721.,enron,enron_012207,foreign_language | gibberish,exclude,non_english,2026-10-06,D15
+maildir/scott-s/sent/779.,enron,enron_013812,foreign_language | gibberish,exclude,non_english,2026-10-06,D15
+maildir/giron-d/sent/492.,enron,enron_013959,foreign_language | gibberish,keep,valid_record_false_flag,2026-10-06,D15
+maildir/beck-s/inbox/641.,enron,enron_015740,foreign_language | gibberish,keep,valid_record_false_flag,2026-10-06,D15
+maildir/keiser-k/inbox/145.,enron,enron_001048,gibberish,keep,valid_record_false_flag,2026-10-06,D15
+maildir/south-s/sent/16.,enron,enron_009262,gibberish,keep,valid_record_false_flag,2026-10-06,D15
+maildir/haedicke-m/inbox/637.,enron,enron_011276,gibberish,keep,valid_record_false_flag,2026-10-06,D15
+maildir/smith-m/inbox/134.,enron,enron_011519,gibberish,exclude,non_language_content_code,2026-10-06,D15
+maildir/kaminski-v/inbox/484.,enron,enron_012032,gibberish,keep,valid_record_false_flag,2026-10-06,D15
+maildir/kaminski-v/sent/4384.,enron,enron_012127,gibberish,exclude,no_message_text_contact_block_only,2026-10-06,D15
+maildir/buy-r/inbox/138.,enron,enron_012776,gibberish,exclude,promotional_mailing_not_interpersonal,2026-10-06,D15
+maildir/scott-s/inbox/33.,enron,enron_013474,gibberish,exclude,novelty_generated_text_not_standard_english,2026-10-06,D15
+maildir/scott-s/sent/749.,enron,enron_013861,gibberish,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#85,nazario,nazario_001294,footer_only,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#3366,nazario,nazario_002692,footer_only,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#3234,nazario,nazario_002627,foreign_language,keep,valid_record_false_flag,2026-10-06,D15
+phishing-2016#45,nazario,nazario_002869,foreign_language,keep,valid_record_false_flag,2026-10-06,D15
+phishing3.mbox#40,nazario,nazario_000682,foreign_language | gibberish,exclude,unreadable_character_obfuscation,2026-10-06,D15
+private-phishing4.mbox#3090,nazario,nazario_002570,foreign_language | gibberish,exclude,substantial_non_english_passage,2026-10-06,D15
+phishing-2016#304,nazario,nazario_002994,foreign_language | gibberish,exclude,substantial_non_english_passage,2026-10-06,D15
+phishing-2017#91,nazario,nazario_003139,foreign_language | no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing2.mbox#595,nazario,nazario_000443,gibberish,exclude,readable_character_obfuscation,2026-10-06,D15
+phishing3.mbox#1143,nazario,nazario_000918,gibberish,exclude,readable_character_obfuscation,2026-10-06,D15
+private-phishing4.mbox#3006,nazario,nazario_002533,gibberish,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#3353,nazario,nazario_002685,gibberish,exclude,substantial_non_english_passage,2026-10-06,D15
+phishing-2016#356,nazario,nazario_003019,gibberish,exclude,readable_character_obfuscation,2026-10-06,D15
+20051114.mbox#32,nazario,nazario_000020,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+20051114.mbox#34,nazario,nazario_000022,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+20051114.mbox#36,nazario,nazario_000023,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+20051114.mbox#37,nazario,nazario_000024,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+20051114.mbox#38,nazario,nazario_000025,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+20051114.mbox#417,nazario,nazario_000146,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing0.mbox#60,nazario,nazario_000179,no_phishing_text,exclude,spam_not_phishing,2026-10-06,D15
+phishing0.mbox#388,nazario,nazario_000265,no_phishing_text,exclude,no_message_text_html_notice_only,2026-10-06,D15
+phishing1.mbox#0,nazario,nazario_000270,no_phishing_text,exclude,invalid_source_mailbox_system_artifact,2026-10-06,D15
+phishing2.mbox#364,nazario,nazario_000379,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing2.mbox#990,nazario,nazario_000569,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing2.mbox#1123,nazario,nazario_000603,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing2.mbox#1162,nazario,nazario_000611,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing2.mbox#1306,nazario,nazario_000650,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing2.mbox#1381,nazario,nazario_000663,no_phishing_text,exclude,spam_not_phishing,2026-10-06,D15
+phishing3.mbox#334,nazario,nazario_000739,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#351,nazario,nazario_000740,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#359,nazario,nazario_000742,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#374,nazario,nazario_000743,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#378,nazario,nazario_000744,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#385,nazario,nazario_000746,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#403,nazario,nazario_000747,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#405,nazario,nazario_000748,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#413,nazario,nazario_000749,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#414,nazario,nazario_000750,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#416,nazario,nazario_000751,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#425,nazario,nazario_000752,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#426,nazario,nazario_000753,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#428,nazario,nazario_000754,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#435,nazario,nazario_000758,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#444,nazario,nazario_000760,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#445,nazario,nazario_000761,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#463,nazario,nazario_000762,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#917,nazario,nazario_000839,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#943,nazario,nazario_000851,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing3.mbox#1022,nazario,nazario_000876,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing3.mbox#1027,nazario,nazario_000878,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing3.mbox#1081,nazario,nazario_000893,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing3.mbox#1152,nazario,nazario_000922,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1242,nazario,nazario_000959,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing3.mbox#1293,nazario,nazario_000975,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1325,nazario,nazario_000989,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1337,nazario,nazario_000992,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing3.mbox#1353,nazario,nazario_000998,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1415,nazario,nazario_001022,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1446,nazario,nazario_001034,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1471,nazario,nazario_001046,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1537,nazario,nazario_001069,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1686,nazario,nazario_001111,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1709,nazario,nazario_001119,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1769,nazario,nazario_001133,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1773,nazario,nazario_001136,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+phishing3.mbox#1800,nazario,nazario_001143,no_phishing_text,exclude,filler_text_no_phishing_message,2026-10-06,D15
+private-phishing4.mbox#331,nazario,nazario_001380,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#572,nazario,nazario_001470,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#1194,nazario,nazario_001758,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#1307,nazario,nazario_001808,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#3154,nazario,nazario_002599,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#3176,nazario,nazario_002606,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+private-phishing4.mbox#3205,nazario,nazario_002612,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing-2016#244,nazario,nazario_002964,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing-2018#185,nazario,nazario_003390,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15
+phishing-2018#272,nazario,nazario_003433,no_phishing_text,keep,valid_record_false_flag,2026-10-06,D15

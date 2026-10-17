@@ -1,0 +1,449 @@
+record_id,source_record,from,subject,reason_code,review_decision,decided_on,decision_log_entry
+enron_000016,maildir/blair-l/inbox/118.,mbellido@southerngas.org,SGA Energy Accounting & Market Services Conference,person_written_correspondence,keep,2026-10-06,D18
+enron_000158,maildir/harris-s/inbox/44.,gregoryklatt@earthlink.net,SoCalGas BCAP,person_written_correspondence,keep,2026-10-06,D18
+enron_000202,maildir/corman-s/inbox/54.,dale.m.davis@williams.com,Order RM96-1-019 (Partial Day Recalls) - BPS Schedule is Official & Pipeline Segment Meeting,person_written_correspondence,keep,2026-10-06,D18
+enron_000229,maildir/corman-s/inbox/archives/258.,dawno@midwestenergy.org,Leak Detection - REGISTER NOW - Class Space is Limited,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_000255,maildir/corman-s/inbox/archives/424.,john@pgsenergy.com,Houston/Philadelphia Seminars,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_000289,maildir/corman-s/inbox/archives/437.,deanrogers@energyclasses.com,"Kase Hedging Class, Early Bird 'til 3/11, Houston",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_000293,maildir/corman-s/inbox/archives/231.,john@pgsenergy.com,New PGS Training Software,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_000294,maildir/corman-s/inbox/archives/old_messages/30.,cbi_mail@igate.cbinet.com,Safety and Security in the Electric Power Industry,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_000302,maildir/corman-s/inbox/archives/old_messages/67.,pjglaves@swbell.net,Ashford Blood drive--Feb.3,person_written_correspondence,keep,2026-10-06,D18
+enron_000316,maildir/corman-s/inbox/archives/old_messages/3.,news@eyeforenergy.com,Sponsored tickets for Energy Exchanges Online,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_000339,maildir/corman-s/inbox/archives/212.,michele.winckowski@dynegy.com,Meeting 637 - Refiling,person_written_correspondence,keep,2026-10-06,D18
+enron_000347,maildir/corman-s/inbox/archives/283.,private_equity@sriconference.com,2ND ANNUAL FUELCELL INVESTOR CONFERENCE-REGICTER NOW!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_000379,maildir/corman-s/inbox/48.,kvanpelt@cmsenergy.com,Pipeline Meeting to Discuss Order RM96-1-019 (Partial Day Recalls),person_written_correspondence,keep,2026-10-06,D18
+enron_000392,maildir/whalley-g/inbox/182.,nkelley@tqcap.com,Jeff,person_written_correspondence,keep,2026-10-06,D18
+enron_000416,maildir/whalley-g/inbox/150.,eronn@mail.utexas.edu,"Invitation to Present Feb. 21, 2002 Keynote Address at the Spring 2002 University of Texas Energy Finance Conference",person_written_correspondence,keep,2026-10-06,D18
+enron_000429,maildir/whalley-g/inbox/263.,bhehir@netacumen.com,NetAcumen Radar,person_written_correspondence,keep,2026-10-06,D18
+enron_000476,maildir/whalley-g/inbox/148.,les@yahoo-inc.com,Yahoo Broadcast Services as option for Corporate travel/training,person_written_correspondence,keep,2026-10-06,D18
+enron_000489,maildir/whalley-g/inbox/129.,offley@hoover.stanford.edu,HOOVER INSTITUTION NEWS ADVISORY: Conference on the California Electricity Problem,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_000620,maildir/cash-m/inbox/259.,mills.ariail@odnss.com,TRO pleadings,person_written_correspondence,keep,2026-10-06,D18
+enron_000626,maildir/cash-m/inbox/1.,cshaw@siebel.com,Enron Amendment (corrected version),person_written_correspondence,keep,2026-10-06,D18
+enron_000861,maildir/may-l/inbox/904.,allactivestudents@listserv.amunet.edu,AMU Network Up,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_000874,maildir/may-l/inbox/861.,distribution@pira.com,PIRA Seminar Material on PIRA Online,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001090,maildir/lay-k/inbox/375.,barbara.sain@compaq.com,Compaq - Third Quarter Earnings Conference Call,person_written_correspondence,keep,2026-10-06,D18
+enron_001108,maildir/lay-k/inbox/924.,holly@layfam.com,,person_written_correspondence,keep,2026-10-06,D18
+enron_001114,maildir/lay-k/inbox/214.,scenicmo@tranquility.net,PBS public relations opportunity,person_written_correspondence,keep,2026-10-06,D18
+enron_001115,maildir/lay-k/inbox/1701.,mccann@nc.rr.com,"Kenneth Lay, your November E-lert is now available",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001135,maildir/lay-k/inbox/79.,r-4-728402-1640008-2-453-us2-302c5a2f@xmr3.com,"Forrester Research on Best Practices for the ""Virtualized"" Enterprise",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001140,maildir/lay-k/inbox/633.,iam@michaelberry.com,BIG Michael Berry Oct 11 Fundraiser: YOUR REPLY REQUESTED,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001145,maildir/lay-k/inbox/884.,jwalk1_99@yahoo.com,"Relief for Enron ""Alumni""",person_written_correspondence,keep,2026-10-06,D18
+enron_001147,maildir/lay-k/inbox/368.,bengelhart@pantechnica.com,CE World Call for Content,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001170,maildir/lay-k/inbox/13.,jbarry@eyeforenergy.com,Speaking Invitation,person_written_correspondence,keep,2026-10-06,D18
+enron_001190,maildir/lay-k/inbox/372.,governing@aei.org,Invitation: What If Congress Were Obliterated?,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001193,maildir/lay-k/inbox/117.,william_hogan@harvard.edu,Electricity restructuring,person_written_correspondence,keep,2026-10-06,D18
+enron_001210,maildir/lay-k/inbox/579.,kerry.donk@esca.com,SUMMIT 2001 INVITATION,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001225,maildir/lay-k/inbox/761.,john.cain@tlc.state.tx.us,Investing advice,person_written_correspondence,keep,2026-10-06,D18
+enron_001244,maildir/lay-k/inbox/1090.,mrslinda@lplpi.com,Ken's SEC Testimony,person_written_correspondence,keep,2026-10-06,D18
+enron_001265,maildir/lay-k/inbox/823.,mccann@nc.rr.com,"Kenneth Lay, your December E-lert is now available ...",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001270,maildir/lay-k/inbox/126.,elizabeth.davis@compaq.com,Financial Analysts' Reports for 6.05.01,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_001281,maildir/lay-k/inbox/1640.,ronniechan@hanglung.com,,person_written_correspondence,keep,2026-10-06,D18
+enron_001295,maildir/lay-k/inbox/1607.,mark.lay@solutioncompany.com,Wisdom,person_written_correspondence,keep,2026-10-06,D18
+enron_001297,maildir/lay-k/inbox/959.,cheryltd@tbardranch.com,"Theatre Under The Stars Inaugural Event and 35th Anniversary AT our new home:The Hobby Center for Performing Arts...May 18th,2002..Please do not confuse....",person_written_correspondence,keep,2026-10-06,D18
+enron_001303,maildir/lay-k/inbox/9.,ldumdum@ase.org,Industry Policy Task Force Meeting - May 24,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001323,maildir/lay-k/inbox/581.,iengelhardt@peabodyenergy.com,October 3 & 4 Conference,person_written_correspondence,keep,2026-10-06,D18
+enron_001346,maildir/lay-k/inbox/1876.,warner@rff.org,RFF Workshop -Dec.11,person_written_correspondence,keep,2026-10-06,D18
+enron_001353,maildir/lay-k/inbox/1012.,mail@triactive.com,Low Impact Upgrades/Deployments,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001368,maildir/lay-k/inbox/53.,katieh@ruf.rice.edu,[ENERGYFORUM] Mu?oz Presentation at the Baker Institute,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001372,maildir/lay-k/inbox/469.,shea_dugger@i2.com,REMINDER - AUDIT COMMITTEE MEETING THIS WEEK - REMINDER,person_written_correspondence,keep,2026-10-06,D18
+enron_001375,maildir/lay-k/inbox/154.,event@aei.org,Ritalin Conference,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001378,maildir/lay-k/inbox/679.,dolson@smileatyou.com,Advice,person_written_correspondence,keep,2026-10-06,D18
+enron_001382,maildir/lay-k/inbox/1049.,cshanbhogue@aol.com,Dr. Lienhard- IACCGH February 13th,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001397,maildir/lay-k/inbox/1760.,kann@pdq.net,sale of power plant in India,person_written_correspondence,keep,2026-10-06,D18
+enron_001402,maildir/lay-k/inbox/1780.,jelyons@alumni.rice.edu,"[ENERGYFORUM] December 3, 2001 Event",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001409,maildir/lay-k/inbox/500.,sunil.misser@us.pwcglobal.com,WEF Draft,person_written_correspondence,keep,2026-10-06,D18
+enron_001414,maildir/lay-k/inbox/1087.,cheryltd@warrenelectric.com,"Invitation to a Happy ""HOBY"" Hour with Hugh O'Brian",person_written_correspondence,keep,2026-10-06,D18
+enron_001440,maildir/lay-k/inbox/636.,thedesk@scudderpublishing.com,current issue,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001445,maildir/lay-k/inbox/678.,jtoland@forrester.com,Pls RSVP: Invite to Forrester's Analyst Call on Portal Servers 9/18,person_written_correspondence,keep,2026-10-06,D18
+enron_001454,maildir/lay-k/inbox/1001.,contact@weforum.org,Annual Meeting 2002 Programme - KnowledgeConcierge Service - CORRECTED ACCESS - ref:nro,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001459,maildir/lay-k/inbox/681.,t.merrill@scievents.com,Telecom Energy Conference,person_written_correspondence,keep,2026-10-06,D18
+enron_001465,maildir/lay-k/inbox/725.,jelyons2@hotmail.com,[ENERGYFORUM] Baker Institute Energy Forum Reminder,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001473,maildir/lay-k/inbox/952.,barblpl@yahoo.com,Rueben,person_written_correspondence,keep,2026-10-06,D18
+enron_001483,maildir/lay-k/inbox/4.,johnp@energycoalition.org,Calif.'s Energy Future,person_written_correspondence,keep,2026-10-06,D18
+enron_001494,maildir/lay-k/inbox/1654.,srselgolf@athens.net,Supply Corps Distinguished Alumni/Athens-Clarke County Power Plant,person_written_correspondence,keep,2026-10-06,D18
+enron_001524,maildir/lay-k/inbox/1719.,proactiveupdate@proactivenet.com,"Learn how Walmart.com, the world's largest retailer, manages its online applications with ProactiveNet!",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001541,maildir/lay-k/inbox/732.,potempa@kingwoodcable.com,Solace\Personal,person_written_correspondence,keep,2026-10-06,D18
+enron_001543,maildir/lay-k/inbox/1.,vmartinez@winstead.com,Request for meeting -- Subject: short speech to US Olympic Commit tee 7.16-19.01,person_written_correspondence,keep,2026-10-06,D18
+enron_001548,maildir/lay-k/inbox/1802.,prieur3@infolink.com,Information on ENRON Broadband,person_written_correspondence,keep,2026-10-06,D18
+enron_001550,maildir/lay-k/inbox/1637.,jelyons2@hotmail.com,Putin Reception,person_written_correspondence,keep,2026-10-06,D18
+enron_001560,maildir/lay-k/inbox/1856.,ahampshire-cowan@howard.edu,Emergency Consideration of Authorization to Execute an Option to Purchase Strategic Properties Adjacent to the University,person_written_correspondence,keep,2026-10-06,D18
+enron_001573,maildir/lay-k/inbox/37.,esheridan@uh.edu,,person_written_correspondence,keep,2026-10-06,D18
+enron_001595,maildir/lay-k/inbox/137.,kkosman@aei.org,Free Trade vs. States' Rights Event,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001602,maildir/lay-k/inbox/308.,karen.white@csfb.com,An invitation to the 2001 PGA TOUR Championship,person_written_correspondence,keep,2026-10-06,D18
+enron_001642,maildir/lay-k/inbox/371.,shea_dugger@i2.com,REMINDER - OCTOBER 24 BOARD MEETING - REMINDER,person_written_correspondence,keep,2026-10-06,D18
+enron_001644,maildir/lay-k/inbox/688.,royalty@vsnl.com,Concerned most deeply about all known to me in the US.Pray all is well with all of you and your families,person_written_correspondence,keep,2026-10-06,D18
+enron_001646,maildir/lay-k/inbox/874.,jelyons@alumni.rice.edu,[ENERGYFORUM] President of Kazakhstan: December 19,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001649,maildir/lay-k/inbox/1710.,garydlindley@visto.com,Sophia,person_written_correspondence,keep,2026-10-06,D18
+enron_001662,maildir/lay-k/inbox/1122.,cashflowebusiness@aol.com,"Earn an instant $1k+ weekly, from home!",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001663,maildir/lay-k/inbox/1084.,devine@ssprd2.net,ADV: divine and BEA host Free Portal Webinar,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_001856,maildir/heard-m/inbox/master_netting/140.,billy.dixon@bp.com,Final NA Master,person_written_correspondence,keep,2026-10-06,D18
+enron_002015,maildir/causholli-m/inbox/66.,he@resourceinfo.com,Good to see you,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_002024,maildir/causholli-m/inbox/107.,thompson@resourceinfo.com,2001 Conference Questionnaire Reply,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_002249,maildir/lenhart-m/inbox/28.,jrharris@lilly.com,Jennifer and Max's Wedding Details,person_written_correspondence,keep,2026-10-06,D18
+enron_002473,maildir/taylor-m/inbox/67.,heather.davis@travelpark.com,TAYLOR/MARK E 18OCT IAH to MLI - plz note changes,person_written_correspondence,keep,2026-10-06,D18
+enron_002501,maildir/taylor-m/inbox/205.,jtyler@monm.edu,ZBT ALUMNI,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_002503,maildir/taylor-m/inbox/250.,scarey@isda.org,North American Energy and Developing Products Committee Agenda & NEW MEETING DETAILS,person_written_correspondence,keep,2026-10-06,D18
+enron_002590,maildir/taylor-m/inbox/social/97.,enronsportsbook@yahoo.com,Week 4 Lines,person_written_correspondence,keep,2026-10-06,D18
+enron_002632,maildir/taylor-m/inbox/279.,william.mccoy@morganstanley.com,PLI Conference - Powerpoint,person_written_correspondence,keep,2026-10-06,D18
+enron_002637,maildir/taylor-m/inbox/139.,ronr@hba.org,Computer & Online Law Section,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_002649,maildir/taylor-m/inbox/228.,dkdavis@monm.edu,Monmouth College CRTF Report #11,person_written_correspondence,keep,2026-10-06,D18
+enron_003153,maildir/dasovich-j/inbox/723.,jgopal@energy.state.ca.us,CADER'S DG 2001 CONFERENCE,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003169,maildir/dasovich-j/inbox/1467.,matt.pagano@sce.com,DA Credit,person_written_correspondence,keep,2026-10-06,D18
+enron_003208,maildir/dasovich-j/inbox/1546.,jbennett@gmssr.com,Conference Call re 11/7 Prehearing Conference Statement,person_written_correspondence,keep,2026-10-06,D18
+enron_003214,maildir/dasovich-j/inbox/766.,morel@haas.berkeley.edu,Silicon Valley Technology Conference,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003223,maildir/dasovich-j/inbox/1059.,add2@pge.com,PG&E Conference Call,person_written_correspondence,keep,2026-10-06,D18
+enron_003226,maildir/dasovich-j/inbox/986.,avramsiegel@attbi.com,"Alert- new email address for Avram Siegel, Allison Fisher and True Blue bluegrass band",person_written_correspondence,keep,2026-10-06,D18
+enron_003233,maildir/dasovich-j/inbox/73.,jblunden@xenergy.com,Joining XENERGY - contact info,person_written_correspondence,keep,2026-10-06,D18
+enron_003255,maildir/dasovich-j/inbox/1554.,morel@haas.berkeley.edu,TIPS ON INTERVIEWING AND UPDATING YOUR RESUME 11/6&7,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003258,maildir/dasovich-j/inbox/605.,yee@haas.berkeley.edu,Women In Leadership Conference - Get Your Tickets Now!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003263,maildir/dasovich-j/inbox/871.,cguardino@svmg.org,Negotiating Skills - Second Class,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003281,maildir/dasovich-j/inbox/234.,cguardino@svmg.org,Dick Gephardt - Luncheon Invitation,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003283,maildir/dasovich-j/inbox/1521.,hkd2061@home.com,CAEM Important Project Announcement,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003286,maildir/dasovich-j/inbox/1028.,segev@haas.berkeley.edu,Fisher CITM's eBusiness Conference next week,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003288,maildir/dasovich-j/inbox/262.,neil.stein@csfb.com,Replay Available for Power Generation Conference Call,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003302,maildir/dasovich-j/inbox/1027.,tp@technologicp.com,The toughest job. . . .,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003303,maildir/dasovich-j/inbox/1578.,tmcvey@sric.sri.com,Entrepreneurship @ UCSF Innovation accelerator,person_written_correspondence,keep,2026-10-06,D18
+enron_003307,maildir/dasovich-j/inbox/904.,cguardino@svmg.org,Negotiating Skills - SOLD OUT!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003310,maildir/dasovich-j/inbox/524.,morel@haas.berkeley.edu,UPDATING YOUR RESUME,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003313,maildir/dasovich-j/inbox/215.,lgoldseth@svmg.org,Updated Agenda for Tomorrow's Energy Committee Meeting,person_written_correspondence,keep,2026-10-06,D18
+enron_003316,maildir/dasovich-j/inbox/1024.,ellis@haas.berkeley.edu,SPAM: Contact info and website,person_written_correspondence,keep,2026-10-06,D18
+enron_003318,maildir/dasovich-j/inbox/508.,veeser@haas.berkeley.edu,"William Drayton, Founder of Ashoka, to speak this Friday!",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003321,maildir/dasovich-j/inbox/143.,lgoldseth@svmg.org,PG&E Stakeholders Meeting Agenda,person_written_correspondence,keep,2026-10-06,D18
+enron_003322,maildir/dasovich-j/inbox/243.,segev@haas.berkeley.edu,Fisher CITM's eBusiness Conference next week,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003323,maildir/dasovich-j/inbox/506.,valerio@haas.berkeley.edu,More Evening workshops,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003328,maildir/dasovich-j/inbox/24.,jgopal@energy.state.ca.us,2001 CADER Conference - update,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003341,maildir/dasovich-j/inbox/1532.,kontko@home.com,Benefit Event,person_written_correspondence,keep,2026-10-06,D18
+enron_003346,maildir/dasovich-j/inbox/861.,morel@haas.berkeley.edu,Hedge Fund Careers how to break into the profession 11/20@7:30,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003350,maildir/dasovich-j/inbox/585.,birdsey@haas.berkeley.edu,Squaw Valley Discount Tickets,person_written_correspondence,keep,2026-10-06,D18
+enron_003354,maildir/dasovich-j/inbox/544.,jbennett@gmssr.com,Update on the Implementation of the Suspension of Direct Access,person_written_correspondence,keep,2026-10-06,D18
+enron_003357,maildir/dasovich-j/inbox/1652.,douglass@earthlink.net,WPTF WestConnect Protest,person_written_correspondence,keep,2026-10-06,D18
+enron_003368,maildir/dasovich-j/inbox/603.,friedman@hugheshubbard.com,"2001 ICSC LAW CONFERENCE- PALM DESERT, CA (OCT. 24-27,2001)- ADVANCED SEMINAR PROGRAMS",person_written_correspondence,keep,2026-10-06,D18
+enron_003374,maildir/dasovich-j/inbox/933.,alumni@haas.berkeley.edu,"EB Chapter, Tax Planning Workshop, Sat., Dec. 1",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003383,maildir/dasovich-j/inbox/1001.,morel@haas.berkeley.edu,December Graduates!!!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003387,maildir/dasovich-j/inbox/3.,survey@trafficschooltogo.com,Traffic School To Go needs your help to survive,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003390,maildir/dasovich-j/inbox/973.,sfalbie@msn.com,"REMINDER: Come Meet the Recruitment Center Account Managers on Thurs., Dec. 6",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003400,maildir/dasovich-j/inbox/952.,ichen@haas.berkeley.edu,Santa Arrives by Helicopter,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003402,maildir/dasovich-j/inbox/630.,frost@haas.berkeley.edu,save.the.date: Nov. 14/15 - upcoming presentations on the HAAS ALUMNI NETWORK,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003403,maildir/dasovich-j/inbox/446.,jgopal@energy.state.ca.us,CADER's DG Conference in San diego.,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003410,maildir/dasovich-j/inbox/56.,mstjohn@haas.berkeley.edu,Corporate Sponsors Reception - FAQ,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003418,maildir/dasovich-j/inbox/359.,valerio@haas.berkeley.edu,More workshops,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003426,maildir/dasovich-j/inbox/1494.,mday@gmssr.com,AReM response to Wood ACR,person_written_correspondence,keep,2026-10-06,D18
+enron_003429,maildir/dasovich-j/inbox/857.,groyer@cmta.net,Turning California Around,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003440,maildir/dasovich-j/inbox/49.,jbennett@gmssr.com,Draft Decision on DWR Revenue Requirement,person_written_correspondence,keep,2026-10-06,D18
+enron_003443,maildir/dasovich-j/inbox/1609.,cguardino@svmg.org,Silicon Valley Business Ink : Empowering Silicon Valley Security and Terrorism Conference,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003461,maildir/dasovich-j/inbox/1651.,morel@haas.berkeley.edu,EveMBA Student-To-Student Job Fair 11/27 & 11/28,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003469,maildir/dasovich-j/inbox/779.,prohelp@venturewire.com,Don't Miss the Enhanced Benefits of VentureWire Professional,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003471,maildir/dasovich-j/inbox/1582.,morel@haas.berkeley.edu,INTERVIEWING AND UPDATING YOUR RESUME TONIGHT,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003472,maildir/dasovich-j/inbox/78.,cross@haas.berkeley.edu,Valuable Information - Consulting Club Firm Night 9/20,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003478,maildir/dasovich-j/inbox/870.,sfalbie@msn.com,Come Meet the Recruitment Center Account Managers,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003485,maildir/dasovich-j/inbox/304.,josephtambornino@yahoo.com,A Little Whingding for Our Departing Director,person_written_correspondence,keep,2026-10-06,D18
+enron_003489,maildir/dasovich-j/inbox/589.,morel@haas.berkeley.edu,Suggestions on life/work/school balance,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003496,maildir/dasovich-j/inbox/1108.,foothillservices@mindspring.com,WPTF Board Meeting January 8,person_written_correspondence,keep,2026-10-06,D18
+enron_003501,maildir/dasovich-j/inbox/876.,sgovenar@govadv.com,Water,person_written_correspondence,keep,2026-10-06,D18
+enron_003514,maildir/dasovich-j/inbox/665.,prohelp@venturewire.com,"Your VentureWire Professional Two-Week, No-Risk Trial",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003517,maildir/dasovich-j/inbox/502.,lynnelh@pacbell.net,BA/E296.1 Nonprofit Boards Class,person_written_correspondence,keep,2026-10-06,D18
+enron_003520,maildir/dasovich-j/inbox/1493.,segev@haas.berkeley.edu,Fisher CITM Workshop on Enabling eBusiness (EEB): eBusiness Transformation in Banking,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_003536,maildir/dasovich-j/inbox/180.,grosston@stanford.edu,,person_written_correspondence,keep,2026-10-06,D18
+enron_003543,maildir/dasovich-j/inbox/122.,smolek@haas.berkeley.edu,Leading Edge Sponsor Resume Drop - Wed. Sept. 12th!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_004341,maildir/salisbury-h/inbox/448.,ecenter@energynewslive.com,Welcome to - Energy News Live,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_004521,maildir/schoolcraft-d/inbox/junk/451.,ghills@br-inc.com,El Paso/Transwestern/Burlington Window Rock Conference Call Agenda,person_written_correspondence,keep,2026-10-06,D18
+enron_004741,maildir/rogers-b/inbox/29.,megrogers_99@yahoo.com,weird thing!!,person_written_correspondence,keep,2026-10-06,D18
+enron_004756,maildir/rogers-b/inbox/250.,aimr2001@bbh1.viamedialinq.com,Online CFA Program Registration,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_004772,maildir/rogers-b/inbox/12.,megrogers_99@yahoo.com,,person_written_correspondence,keep,2026-10-06,D18
+enron_005049,maildir/dean-c/inbox/1006.,tweathersbee@txu.com,Contingency Plans for RMS Meeting,person_written_correspondence,keep,2026-10-06,D18
+enron_005128,maildir/donohoe-t/inbox/342.,herbl@amerexenergy.com,,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005140,maildir/donohoe-t/inbox/341.,staff@energyjobsnetwork.com,Energy Jobs,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005150,maildir/donohoe-t/inbox/34.,orders@amazon.com,Your Amazon.com Inquiry,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_005195,maildir/ruscitti-k/inbox/8.,career.management.center@anderson.ucla.edu,Investment Banking Associate Opportunity,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005197,maildir/ruscitti-k/inbox/115.,career.management.center@anderson.ucla.edu,Career Opportunity: Loan Fund Associate with Seedco in New York.,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005200,maildir/ruscitti-k/inbox/263.,career.management.center@anderson.ucla.edu,"Career Opportunity: Director, International Education with IDP Education Australia in Washington, DC.",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005202,maildir/ruscitti-k/inbox/146.,career.management.center@anderson.ucla.edu,Career Opportunity: Executive Director with Fund of the Four Directions in New York.,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005206,maildir/ruscitti-k/inbox/187.,career.management.center@anderson.ucla.edu,"Career Opportunity: Commercial Sales Director, China/Asia/Pacific with Valmont Industries",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005208,maildir/ruscitti-k/inbox/249.,career.management.center@anderson.ucla.edu,"Career Opportunity: Director of Marketing and Sales with North Atlantic Books/Frog, Ltd. in Berkeley, CA.",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005212,maildir/ruscitti-k/inbox/281.,career.management.center@anderson.ucla.edu,Career Opportunity: Executive Director with The Catalog for Giving of New York City,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005213,maildir/ruscitti-k/inbox/71.,smitter@smitter.com,Anderson '96 Reunion - Register NOW!,person_written_correspondence,keep,2026-10-06,D18
+enron_005215,maildir/ruscitti-k/inbox/92.,career.management.center@anderson.ucla.edu,"Career Opportunity: Senior Analyst with Mattel, Inc. in El Segundo, CA.",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005216,maildir/ruscitti-k/inbox/87.,career.management.center@anderson.ucla.edu,"Career Opportunities: Principal/Senior Consultant and Consultant with BDC Advisors in San Francisco, CA.",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005218,maildir/ruscitti-k/inbox/91.,career.management.center@anderson.ucla.edu,Career Opportunity: Director of Consulting with The Third Sector New England Organization.,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005221,maildir/ruscitti-k/inbox/7.,career.management.center@anderson.ucla.edu,Opportunities available with Nortel Networks in Mexico City,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005222,maildir/ruscitti-k/inbox/145.,career.management.center@anderson.ucla.edu,"Career Opportunity: Senior Cable Manager with EarthLink, Inc.",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005228,maildir/ruscitti-k/inbox/207.,smitter@smitter.com,Anderson '96 Reunion - List of Attendees,person_written_correspondence,keep,2026-10-06,D18
+enron_005231,maildir/ruscitti-k/inbox/105.,custserv@bananarepublic.m0.net,Fall's on sale - up to 50% off,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005232,maildir/ruscitti-k/inbox/361.,custserv@bananarepublic.m0.net,Luxury -- at a price you can afford.,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005233,maildir/ruscitti-k/inbox/104.,career.management.center@anderson.ucla.edu,Career Opportunity: Chief Financial Officer with Rubicon Programs. Inc.,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005296,maildir/saibi-e/inbox/315.,evillanueva@industrialinfo.com,IIR Nuclear Report,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005333,maildir/saibi-e/inbox/3.,fyqukgcivgjfttim@msn.com,[xsgqt],bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005491,maildir/crandell-s/inbox/rto_west/14.,ekrogh@serv.net,Notice of Posting and Extended December 19 Review Meeting,person_written_correspondence,keep,2026-10-06,D18
+enron_005497,maildir/crandell-s/inbox/rto_west/12.,chrisrtowest@earthlink.net,Notice of Jan 25 Clarification Mtg and Revised Key Dates,person_written_correspondence,keep,2026-10-06,D18
+enron_005513,maildir/crandell-s/inbox/33.,chrisrtowest@earthlink.net,Notice of RTO West Documents Posted for Jan. 25 Mtg,person_written_correspondence,keep,2026-10-06,D18
+enron_005527,maildir/crandell-s/inbox/65.,ekrogh@serv.net,Notice of December 19 Review Session on Stage 2 Write-ups,person_written_correspondence,keep,2026-10-06,D18
+enron_005537,maildir/crandell-s/inbox/165.,jlietz@calpine.com,Details on Golf Tournament Oct. 12,person_written_correspondence,keep,2026-10-06,D18
+enron_005541,maildir/crandell-s/inbox/164.,jlietz@calpine.com,WSPP Conference Reception,person_written_correspondence,keep,2026-10-06,D18
+enron_005544,maildir/crandell-s/inbox/93.,chrisrtowest@earthlink.net,RTO West RRG - Confirmation and November 30 Working Agenda,person_written_correspondence,keep,2026-10-06,D18
+enron_005575,maildir/wolfe-j/inbox/214.,dslsports@earthlink.net,AuctionHelper.com Invoice,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_005576,maildir/wolfe-j/inbox/170.,support@billmanager.accountonline.com,Change to Subscriber Agreement,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_005577,maildir/wolfe-j/inbox/193.,store@lucasarts.com,LucasArts Company Store Order,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_005587,maildir/wolfe-j/inbox/295.,john.dunn@enform.com,XBOX - read the not so fine print,person_written_correspondence,keep,2026-10-06,D18
+enron_005597,maildir/wolfe-j/inbox/177.,fulfillmentctr@west.zomax.com,Backorder Status,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_005607,maildir/wolfe-j/inbox/216.,dslsports@earthlink.net,1012997426 eBay Auction Items You Won,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_005715,maildir/gilbertsmith-d/inbox/141.,danielle.jaussaud@puc.state.tx.us,Preparation for meeting,person_written_correspondence,keep,2026-10-06,D18
+enron_005724,maildir/gilbertsmith-d/inbox/102.,dodle@ercot.com,"Change Controls and Question for FRIDAY, 2/1/02",person_written_correspondence,keep,2026-10-06,D18
+enron_005726,maildir/gilbertsmith-d/inbox/20.,dodle@ercot.com,Change Control Conference Call 2/8/02,person_written_correspondence,keep,2026-10-06,D18
+enron_005729,maildir/gilbertsmith-d/inbox/51.,aepin@aep.com,,person_written_correspondence,keep,2026-10-06,D18
+enron_005961,maildir/germany-c/inbox/260.,twyla_s._strogen@dom.com,Next Meeting,person_written_correspondence,keep,2026-10-06,D18
+enron_005975,maildir/germany-c/inbox/202.,john@pgsenergy.com,Last Call for Houston Seminars,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_005998,maildir/germany-c/inbox/119.,twyla_s._strogen@dom.com,Meeting or phone call,person_written_correspondence,keep,2026-10-06,D18
+enron_006503,maildir/nemec-g/inbox/410.,bbryant@katzlaw.com,Today's Hearing,person_written_correspondence,keep,2026-10-06,D18
+enron_006636,maildir/nemec-g/inbox/157.,julie.p.baumgarten@williams.com,Houston Young Lawyers Association - Mark Your Calendar,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_006641,maildir/nemec-g/inbox/1271.,patricia_cuero@dell.com,"Patricia's B-day party, Charlie's B-day and House warming (NOT A DELL SPONSORED EVENT)",person_written_correspondence,keep,2026-10-06,D18
+enron_007305,maildir/skilling-j/inbox/258.,gdubin@houstontech.org,"""Reminder for TIE Angel Forum on June 2nd",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007306,maildir/skilling-j/inbox/375.,fran@zembu.com,Online application issues,person_written_correspondence,keep,2026-10-06,D18
+enron_007309,maildir/skilling-j/inbox/1317.,lilu@himalayacapital.com,The First Year on PBS,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007325,maildir/skilling-j/inbox/1303.,john@pgsenergy.com,Energy Derivatives/Power Trading Seminars,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007327,maildir/skilling-j/inbox/1112.,dottie@kerr-solutions.com,HBS October 2 Lunch - REMINDER,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007333,maildir/skilling-j/inbox/1231.,dlong@houstontech.org,"Mentor Network Breakfast meeting - Tuesday, 09.25.01",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007336,maildir/skilling-j/inbox/1243.,rcossick@houstontech.org,Summary of October Symposium Discussions,person_written_correspondence,keep,2026-10-06,D18
+enron_007349,maildir/skilling-j/inbox/2503.,dottie@kerr-solutions.com,Harvard Club Town Meeting 11/8/01 - REMINDER,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007362,maildir/skilling-j/inbox/1380.,dottie@kerr-solutions.com,HBS Breakfast Club and Sept. 6 Meeting with Orlando Sanchez,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007423,maildir/skilling-j/inbox/1517.,frigap@bschool.unc.edu,The McKinsey Mind,person_written_correspondence,keep,2026-10-06,D18
+enron_007426,maildir/skilling-j/inbox/339.,cliftonh@summitia.com,Houston Technology Forum,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007431,maildir/skilling-j/inbox/1153.,lmoore@houstontech.org,Upcoming golf tournament and venture capital conference,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007447,maildir/skilling-j/inbox/1146.,john@pgsenergy.com,Last PGS Seminars Until October,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007474,maildir/skilling-j/inbox/366.,gerhard.schulmeyer@sc.siemens.com,Microsoft CEO Summit Follow-up,person_written_correspondence,keep,2026-10-06,D18
+enron_007480,maildir/skilling-j/inbox/2510.,arobertshaw@eyeforenergy.com,Eyeforenergy Announces Next European Events,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007487,maildir/skilling-j/inbox/1012.,dottie@kerr-solutions.com,ACG October 9 Lunch - REMINDER,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007501,maildir/skilling-j/inbox/genie/8.,behrp@washpost.com,Energy Community Forum,person_written_correspondence,keep,2026-10-06,D18
+enron_007503,maildir/skilling-j/inbox/genie/4.,mvelarde@sdge.com,Conference in Washington DC Oct 3-4,person_written_correspondence,keep,2026-10-06,D18
+enron_007504,maildir/skilling-j/inbox/genie/7.,aroach@nrdc.org,John Adams/Oct.3-4,person_written_correspondence,keep,2026-10-06,D18
+enron_007531,maildir/skilling-j/inbox/1192.,dottie@kerr-solutions.com,HBS Dinner Boat Cruise October 6 - RSVP NOW!!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007562,maildir/skilling-j/inbox/1309.,dottie@kerr-solutions.com,ACG September Luncheon - REMINDER,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007568,maildir/skilling-j/inbox/1571.,holfati@ispheres.com,request for appropriate trading contact/s - Caltech-developed arb itrage technology being assessed by Reliant Energy,person_written_correspondence,keep,2026-10-06,D18
+enron_007574,maildir/skilling-j/inbox/1369.,pwhobby@hobbycomm.com,space,person_written_correspondence,keep,2026-10-06,D18
+enron_007594,maildir/skilling-j/inbox/1131.,dottie@kerr-solutions.com,HBS September Social,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007609,maildir/skilling-j/inbox/1437.,aszabo@stonebond.com,Invitation--Tom Peters/Sapient Event,person_written_correspondence,keep,2026-10-06,D18
+enron_007639,maildir/skilling-j/inbox/1130.,john@pgsenergy.com,Apology!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007652,maildir/skilling-j/inbox/1045.,cwallen@hilcorp.com,,person_written_correspondence,keep,2026-10-06,D18
+enron_007657,maildir/skilling-j/inbox/1216.,dottie@kerr-solutions.com,Harvard University Club of Houston - Harvard Forum REMINDER,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007659,maildir/skilling-j/inbox/320.,craigl@hypercon.com,Forum selection process,person_written_correspondence,keep,2026-10-06,D18
+enron_007667,maildir/skilling-j/inbox/2551.,net-athome@sigma-consultants.fr,Net@Home2001 - Tomorrow it might be too late?,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007677,maildir/skilling-j/inbox/1093.,dottie@kerr-solutions.com,HBS Boat Cruise - REMINDER!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007687,maildir/skilling-j/inbox/950.,john@pgsenergy.com,"Weather,Energy Derivatives,ElectPowerSeminars",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007698,maildir/skilling-j/inbox/1347.,pfrison@houstontech.org,HTC Educational Seminar - September 11th,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007763,maildir/steffes-j/inbox/55.,jgallagher@epsa.org,Conference Call on Tuesday,person_written_correspondence,keep,2026-10-06,D18
+enron_007780,maildir/steffes-j/inbox/376.,mreddy@epsa.org,EPSA Conference Call Schedule for the Week of November 26th,person_written_correspondence,keep,2026-10-06,D18
+enron_007786,maildir/steffes-j/inbox/417.,jeffrey.jakubiak@troutmansanders.com,Mirant Protected Materials,person_written_correspondence,keep,2026-10-06,D18
+enron_007787,maildir/steffes-j/inbox/168.,mreddy@epsa.org,December 26th Regulatory Affairs Conference Call CANCELED,person_written_correspondence,keep,2026-10-06,D18
+enron_007788,maildir/steffes-j/inbox/474.,cgosain@steptoe.com,Deposition of Dr. Cicchetti -- Corrected Details,person_written_correspondence,keep,2026-10-06,D18
+enron_007791,maildir/steffes-j/inbox/435.,r-4-479015-3637800-2-527-sg1-b6943a70@xmr3.com,Infrastructure projects in Asia: risky landmine or lucrative goldmine?,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_007797,maildir/steffes-j/inbox/275.,sslater@epsa.org,Monday's Northeast/Mid-Atlantic Conference Call REMINDER,person_written_correspondence,keep,2026-10-06,D18
+enron_007802,maildir/steffes-j/inbox/381.,pjs@dwgp.com,Additional Schedule Clarification - 202(c) witness availability,person_written_correspondence,keep,2026-10-06,D18
+enron_007813,maildir/steffes-j/inbox/401.,joann.scott@ferc.fed.us,The parties to Docket No. EL00-95-045 had a one-hour phone call this afternoon to discuss ways to id,person_written_correspondence,keep,2026-10-06,D18
+enron_007830,maildir/steffes-j/inbox/164.,jgallagher@epsa.org,"SeTrans Stakeholder Advisory Committee Meeting, January 14-15, 2002 in Atlanta-- Conference Call",person_written_correspondence,keep,2026-10-06,D18
+enron_007833,maildir/steffes-j/inbox/212.,jgallagher@epsa.org,January 2nd Regulatory Affairs Conference Call AGENDA,person_written_correspondence,keep,2026-10-06,D18
+enron_007846,maildir/steffes-j/inbox/419.,jgallagher@epsa.org,EPSA Draft Request for Extension of Time to Submit Comments on Market-Based Rate Tariffs Order,person_written_correspondence,keep,2026-10-06,D18
+enron_007847,maildir/steffes-j/inbox/1.,jerrybowyer@home.com,"disruptive technology, short and simple and confidential",person_written_correspondence,keep,2026-10-06,D18
+enron_007852,maildir/steffes-j/inbox/266.,jgallagher@epsa.org,Second Draft of EPSA Leave-Behind on Market-Based Rate Authority,person_written_correspondence,keep,2026-10-06,D18
+enron_007853,maildir/steffes-j/inbox/123.,d_perrino@msn.com,Merry Christmas and Happy New Year,person_written_correspondence,keep,2026-10-06,D18
+enron_007858,maildir/steffes-j/inbox/468.,cgosain@steptoe.com,Deposition of Dr. Chicchetti -- Details,person_written_correspondence,keep,2026-10-06,D18
+enron_007866,maildir/steffes-j/inbox/292.,jgallagher@epsa.org,November 20th Power Marketing Conference Call-- NOTE DATE & TIME CHANGE,person_written_correspondence,keep,2026-10-06,D18
+enron_008023,maildir/perlingiere-d/inbox/39.,cabbie@unm.edu,Maxwell Museum Update,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_008028,maildir/perlingiere-d/inbox/63.,nkaraca@donwat.com,WENH January Meeting...,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_008030,maildir/perlingiere-d/inbox/53.,cabbie@unm.edu,MAXWELL OOPS!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_008785,maildir/ermis-f/inbox/510.,annualconference@prosrm.com,Rescheduled Dates for PROS 9th Annual Pricing & Revenue Optimization Conference,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_008808,maildir/ermis-f/inbox/1.,contact@dew-consulting.com,Project Management Training,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_008818,maildir/kean-s/inbox/8.,marlo@eba-net.org,International Bar Association conference,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_008822,maildir/kean-s/inbox/16.,nresourcesmail@srinstitute.com,Unique Opportunity to Learn the Latest Developments in CBM Water Management,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_008837,maildir/kean-s/inbox/7.,nresourcesmail@srinstitute.com,Unique Opportunity to Learn the Latest Developments in LNG Industry,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_008843,maildir/kean-s/inbox/31.,power@wbresearch.com,25% Discount For Power2001,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_009105,maildir/tholt-j/inbox/43.,custserv@800-flowers.net,Delivery Confirmation,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_009308,maildir/ybarbo-p/inbox/199.,gmburres@purvingertz.com,Purvin & Gertz 5th Annual Asia LPG Seminar,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_009333,maildir/ybarbo-p/inbox/285.,gmburres@purvingertz.com,Early Registration Discount! 5th Annual Asia LPG Seminar,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_009339,maildir/ybarbo-p/inbox/772.,cmaliaga@purvingertz.com,Purvin & Gertz Update,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_009374,maildir/ybarbo-p/inbox/611.,bwhitta@pnm.com,Disclosure of Discount Rate,person_written_correspondence,keep,2026-10-06,D18
+enron_009389,maildir/ybarbo-p/inbox/570.,bwhitta@pnm.com,Oct. Invoice,person_written_correspondence,keep,2026-10-06,D18
+enron_009492,maildir/lewis-a/inbox/40.,matthew_faunce@notes.teradyne.com,New Sae Page Alumni Section,person_written_correspondence,keep,2026-10-06,D18
+enron_009508,maildir/lewis-a/inbox/20.,njamroz@wpi.edu,SAE Pledge Mission,person_written_correspondence,keep,2026-10-06,D18
+enron_009562,maildir/zipper-a/inbox/220.,angel.flight.south.central.pilots.list@angelflightsc.org,GIDDINGS BBQ FLY IN DEC 15,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_009573,maildir/zipper-a/inbox/17.,janet.mulero@ubsw.com,Market Risk Meeting - Andy Zipper,person_written_correspondence,keep,2026-10-06,D18
+enron_009598,maildir/pimenov-v/inbox/106.,becky@cqg.com,CQG,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_009602,maildir/bass-e/inbox/377.,brettlawler@hotmail.com,Yeah Orange....,person_written_correspondence,keep,2026-10-06,D18
+enron_009621,maildir/bass-e/inbox/147.,teresa.knight@nesanet.org,Sunshine Kids Benefit Golf Tournament - March 18th,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_009635,maildir/bass-e/inbox/167.,eblastoff@rocketball.com,Let the Games Begin! Rockets Tip Off Tomorrow,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_009814,maildir/love-p/inbox/30.,owner-hsa_reg@boldfish2.snowball.com,"Class of 1991, CLEAR LAKE HIGH SCHOOL : New Member Alert",automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_010012,maildir/jones-t/inbox/1020.,platt@scenictexas.org,Cece Fowler,person_written_correspondence,keep,2026-10-06,D18
+enron_010122,maildir/jones-t/inbox/427.,email@christopherswine.com,"This week's tastings, Wine Bar, a new sampler case",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011152,maildir/haedicke-m/inbox/235.,hemery@firstunion1.com,"Conference Call With First Union Securities Chief EquityStrategist, Doug Sandler",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011191,maildir/haedicke-m/inbox/472.,scarey@isda.org,BANKRUPTCY CONFERENCE CALL TODAY AT 2:00 p.m.,person_written_correspondence,keep,2026-10-06,D18
+enron_011201,maildir/haedicke-m/inbox/146.,rpickel@isda.org,Bank of England Application,person_written_correspondence,keep,2026-10-06,D18
+enron_011205,maildir/haedicke-m/inbox/530.,scarey@isda.org,Netting Legislation Conference Call - 2:30 p.m. - Today,person_written_correspondence,keep,2026-10-06,D18
+enron_011222,maildir/haedicke-m/inbox/483.,smarra@isda.org,NOVEMBER 5 CREDIT DERIVATIVES MEETING,person_written_correspondence,keep,2026-10-06,D18
+enron_011225,maildir/haedicke-m/inbox/185.,pmartinez@isda.org,Next Brazilian Subcommittee meeting,person_written_correspondence,keep,2026-10-06,D18
+enron_011241,maildir/haedicke-m/inbox/475.,smarra@isda.org,REMINDER OF NOVEMBER 5 CREDIT DERIVATIVES MEETING AND AGENDA,person_written_correspondence,keep,2026-10-06,D18
+enron_011258,maildir/haedicke-m/inbox/576.,lmrig@qwest.net,New Conference Proceedings and Upcoming Conferences,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011317,maildir/haedicke-m/inbox/100.,mholland@rmmlf.org,RMMLF Natural Gas Institute,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011318,maildir/haedicke-m/inbox/282.,lmrig@qwest.net,Electricity Risk Management and Transmission Conferences,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011410,maildir/kitchen-l/inbox/96.,richard.wilson@tmp.com,Opportunities,person_written_correspondence,keep,2026-10-06,D18
+enron_011498,maildir/smith-m/inbox/346.,sales@abestkitchen.com,Your Receipt - Abestkitchen.com,person_written_correspondence,keep,2026-10-06,D18
+enron_011502,maildir/smith-m/inbox/45.,bkostek@ch2m.com,Annual get together,person_written_correspondence,keep,2026-10-06,D18
+enron_011623,maildir/rapp-b/inbox/1.,mholland@rmmlf.org,RMMLF Natural Gas & Water Quality Institutes,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011674,maildir/lokey-t/inbox/642.,rlu53@hal-pc.org,Merry Christmas and Happy New Year,person_written_correspondence,keep,2026-10-06,D18
+enron_011688,maildir/lokey-t/inbox/995.,josena@flash.net,*EMCA*,person_written_correspondence,keep,2026-10-06,D18
+enron_011708,maildir/lokey-t/inbox/585.,rlu53@hal-pc.org,Health Insurance - 12-11-01,person_written_correspondence,keep,2026-10-06,D18
+enron_011763,maildir/lokey-t/inbox/816.,hsmith3@attglobal.net,*EMCA* The inner city grid,person_written_correspondence,keep,2026-10-06,D18
+enron_011798,maildir/hernandez-j/inbox/149.,ecarmetsc@aep.com,Security Coordinator Conference Call 10-15-01,person_written_correspondence,keep,2026-10-06,D18
+enron_011832,maildir/hernandez-j/inbox/164.,ecarmetsc@aep.com,Security Coordinator Conference Call 10-19-01,person_written_correspondence,keep,2026-10-06,D18
+enron_011838,maildir/hernandez-j/inbox/152.,ecarmetsc@aep.com,Security Coordinator Conference Call 10-16-01,person_written_correspondence,keep,2026-10-06,D18
+enron_011887,maildir/platter-p/inbox/79.,or4ne@or4ne.com,OR4NE Night at Winterhawks Hockey,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011916,maildir/platter-p/inbox/327.,jeffberlat@mindspring.com,Space City Alumni: Pledge class party NOV 9 Friday night,person_written_correspondence,keep,2026-10-06,D18
+enron_011919,maildir/platter-p/inbox/106.,jmvkad@earthlink.net,Nebraska Recruiting,person_written_correspondence,keep,2026-10-06,D18
+enron_011925,maildir/kaminski-v/inbox/61.,andreas.simou@garp.com,GARP 2002 Convention,person_written_correspondence,keep,2026-10-06,D18
+enron_011926,maildir/kaminski-v/inbox/110.,andreas.simou@garp.com,The GARP 2002 Convention: gentle reminder,person_written_correspondence,keep,2026-10-06,D18
+enron_011939,maildir/kaminski-v/inbox/79.,alliance@eei.org,Latest Draft of Pro Forma Interconnection Agreement for Conf. Call Discussion,person_written_correspondence,keep,2026-10-06,D18
+enron_011945,maildir/kaminski-v/inbox/81.,zariphop@math.utexas.edu,Various,person_written_correspondence,keep,2026-10-06,D18
+enron_011948,maildir/kaminski-v/inbox/477.,barrett@rice.edu,Workshop Invoice,person_written_correspondence,keep,2026-10-06,D18
+enron_011954,maildir/kaminski-v/inbox/398.,andreas.simou@garp.com,The GARP 2002 Convention,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011955,maildir/kaminski-v/inbox/14.,vkerridge@riskwaters.com,EPRM 2002 USA,person_written_correspondence,keep,2026-10-06,D18
+enron_011960,maildir/kaminski-v/inbox/640.,s077549@student.uq.edu.au,Hi Vince from Australia,person_written_correspondence,keep,2026-10-06,D18
+enron_011972,maildir/kaminski-v/inbox/10.,euromoney@euromoney.com,Banks face insurance woes,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011976,maildir/kaminski-v/inbox/107.,crri@andromeda.rutgers.edu,Reminder the Deadline for CRRI's Call for Papers is approaching,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011978,maildir/kaminski-v/inbox/421.,alliance@eei.org,ALLIANCE FERC ALERT: FERC Issues ANOPR on Interconnection and Notice of Conference,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_011980,maildir/kaminski-v/inbox/9.,alliance@eei.org,REVISED REMINDER: Feb 1 Industry Collaborative on Developing Energy Standards Organization in NYC,person_written_correspondence,keep,2026-10-06,D18
+enron_011982,maildir/kaminski-v/inbox/408.,mbross@riskwaters.com,Real Options Research...,person_written_correspondence,keep,2026-10-06,D18
+enron_011985,maildir/kaminski-v/inbox/63.,vkerridge@riskwaters.com,EPRM 2002 USA,person_written_correspondence,keep,2026-10-06,D18
+enron_011993,maildir/kaminski-v/inbox/769.,mmielke@bcm.tmc.edu,Thank you.,person_written_correspondence,keep,2026-10-06,D18
+enron_011998,maildir/kaminski-v/inbox/131.,sloanconsulting@aol.com,Denise Palmer Huggins Interview,person_written_correspondence,keep,2026-10-06,D18
+enron_012005,maildir/kaminski-v/inbox/703.,parkhill@mit.edu,leadership conference at MIT,person_written_correspondence,keep,2026-10-06,D18
+enron_012012,maildir/kaminski-v/inbox/242.,vkerridge@riskwaters.com,EPRM 2001 Europe,person_written_correspondence,keep,2026-10-06,D18
+enron_012013,maildir/kaminski-v/inbox/608.,visitors@edgar-online.com,EDGAR Online Trial Begins.,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_012020,maildir/kaminski-v/inbox/416.,stephen.jensen@mba02.bus.utexas.edu,UT MBA Energy Finance Practicum Sponsorship,person_written_correspondence,keep,2026-10-06,D18
+enron_012029,maildir/kaminski-v/inbox/678.,pkumar@uh.edu,Energy Institute Curriculum,person_written_correspondence,keep,2026-10-06,D18
+enron_012030,maildir/kaminski-v/inbox/322.,pannesley@riskwaters.com,Risk 2001 Australia,person_written_correspondence,keep,2026-10-06,D18
+enron_012034,maildir/kaminski-v/inbox/136.,chonawee@umich.edu,summay letters of recommendation,person_written_correspondence,keep,2026-10-06,D18
+enron_012036,maildir/kaminski-v/inbox/669.,eronn@mail.utexas.edu,"Invitation to Present Feb. 21, 2002 Keynote Address at the Spring 2002 University of Texas Energy Finance Conference",person_written_correspondence,keep,2026-10-06,D18
+enron_012038,maildir/kaminski-v/inbox/627.,pkumar@uh.edu,Seminars,person_written_correspondence,keep,2026-10-06,D18
+enron_012040,maildir/kaminski-v/inbox/612.,visitors@edgar-online.com,EDGAR Online Trial Continues.,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_012052,maildir/kaminski-v/inbox/7.,teresa.knight@nesanet.org,"MIXER TOMORROW - THURSDAY, JANUARY 31ST!",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_012069,maildir/kaminski-v/inbox/253.,charlesshen8@yahoo.com,greetings from Charles,person_written_correspondence,keep,2026-10-06,D18
+enron_012071,maildir/kaminski-v/inbox/404.,james_garven@baylor.edu,your upcoming visit,person_written_correspondence,keep,2026-10-06,D18
+enron_012077,maildir/kaminski-v/inbox/323.,alix.yates@iqpc.co.uk,Risk Assessment and Portfolio Optimisation for Oil and Gas,person_written_correspondence,keep,2026-10-06,D18
+enron_012080,maildir/kaminski-v/inbox/267.,hillh@stanford.edu,June 21-22,person_written_correspondence,keep,2026-10-06,D18
+enron_012081,maildir/kaminski-v/inbox/589.,eps.conf@uha.fr,APFA3 Conference Programme now available,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_012082,maildir/kaminski-v/inbox/692.,luigical@rice.edu,Energy Club program,person_written_correspondence,keep,2026-10-06,D18
+enron_012084,maildir/kaminski-v/inbox/683.,lukee@infocastinc.com,A kind reminder for presentation materials for Gas Volatility & S torage Valuation conference,person_written_correspondence,keep,2026-10-06,D18
+enron_012089,maildir/kaminski-v/inbox/674.,astaude@iirltd.co.uk,"Gas & PoweRisk 2001 Conference, November",person_written_correspondence,keep,2026-10-06,D18
+enron_012090,maildir/kaminski-v/inbox/282.,erisk@email.erisks.com,P&C RAROC iConference,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_012097,maildir/kaminski-v/inbox/645.,chris@lacimagroup.com,EPRM,person_written_correspondence,keep,2026-10-06,D18
+enron_012104,maildir/kaminski-v/inbox/74.,vkerridge@riskwaters.com,EPRM 2002 USA,person_written_correspondence,keep,2026-10-06,D18
+enron_012105,maildir/kaminski-v/inbox/660.,prich@neptunerts.com,NeptuneRTS Open Season,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_012283,maildir/sturm-f/inbox/22.,dboone@amerenenergy.com,Ameren Vs Cinergy Peak Spread,person_written_correspondence,keep,2026-10-06,D18
+enron_012354,maildir/hodge-j/inbox/33.,teresa.knight@nesanet.org,"MEMBERSHIP MIXER - JANUARY 31, 2002!",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_012361,maildir/hodge-j/inbox/146.,teresa.knight@nesanet.org,NESA/HEA Board of Director Nominations,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_012372,maildir/hodge-j/inbox/534.,mgordon@llgm.com,Cyber seminar responses,person_written_correspondence,keep,2026-10-06,D18
+enron_012399,maildir/hodge-j/inbox/495.,jklauber@llgm.com,Are you hanging in there?,person_written_correspondence,keep,2026-10-06,D18
+enron_012452,maildir/hodge-j/inbox/167.,mbboesen@yahoo.com,Invensys,person_written_correspondence,keep,2026-10-06,D18
+enron_012487,maildir/reitmeyer-j/inbox/455.,accounts@ezboard.com,Welcome to the Texas Military Forces Museum EzBoard Online Community!,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_012610,maildir/thomas-p/inbox/174.,georgew@review.com,Halloween Party!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_012617,maildir/thomas-p/inbox/407.,fcox@npcc.org,Meeting Reminder - NPCC OSS Users Group - 12/01,person_written_correspondence,keep,2026-10-06,D18
+enron_012626,maildir/thomas-p/inbox/386.,andrew.p.vo@accenture.com,"New Address, New Phone Number, New Orleans...",person_written_correspondence,keep,2026-10-06,D18
+enron_012716,maildir/buy-r/inbox/877.,drerupd@ds-s.com,EH&S Data Management and Process Safety Management Technology Seminar,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_012774,maildir/buy-r/inbox/1114.,claref@marcusevansch.com,course instructor,person_written_correspondence,keep,2026-10-06,D18
+enron_012788,maildir/buy-r/inbox/547.,jeaster@reliant.com,I know this sounds crazy but...,person_written_correspondence,keep,2026-10-06,D18
+enron_012792,maildir/buy-r/inbox/1028.,thiessen@conferenceboard.ca,A Composite Sketch of a Chief Risk Officer,person_written_correspondence,keep,2026-10-06,D18
+enron_012806,maildir/buy-r/inbox/264.,kgarland@sterlinggrp.net,Kevin Garland Joins The Sterling Group,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_012810,maildir/buy-r/inbox/363.,david.m.johnson@us.andersen.com,Risk Officers Roundtable,person_written_correspondence,keep,2026-10-06,D18
+enron_013002,maildir/buy-r/inbox/438.,melissamagley@economist.com,Economist Speaking Invitation,person_written_correspondence,keep,2026-10-06,D18
+enron_013232,maildir/hayslett-r/inbox/245.,briefing@moodys.com,Moody's Teleconference - Issuer Financial Analysis Under FASB Statement No. 133,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_013266,maildir/hayslett-r/inbox/253.,r-8-62757-3666190-2-2683-us2-1c63ffe4@xmr3.com,Webcast: Driving Best-in-Class Performance,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_013400,maildir/geaccone-t/inbox/335.,phaney@aoshouston.org,gala item update,person_written_correspondence,keep,2026-10-06,D18
+enron_013419,maildir/hendrickson-s/inbox/46.,orders@amazon.com,Your Amazon.com order (#102-2941809-4220146),automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_013515,maildir/scott-s/inbox/183.,ehillegeist@hotmail.com,,person_written_correspondence,keep,2026-10-06,D18
+enron_013516,maildir/scott-s/inbox/75.,eboon@thlee.com,New info.,person_written_correspondence,keep,2026-10-06,D18
+enron_013537,maildir/scott-s/inbox/427.,wsmith@wordsmith.org,A.Word.A.Day--corybantic,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_013540,maildir/scott-s/inbox/357.,jamie.kingbelinne@bus.utexas.edu,Assistance for Enron Alumni,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_013893,maildir/giron-d/inbox/237.,ahadonation@heart.org,Donation Confirmation,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_013921,maildir/giron-d/inbox/374.,csulzer@grenergy.com,Conference Call Tuesday November 13 at 10:00,person_written_correspondence,keep,2026-10-06,D18
+enron_014039,maildir/allen-p/inbox/68.,mery.l.brown@accenture.com,Room for Tomorrow's Meeting,person_written_correspondence,keep,2026-10-06,D18
+enron_014154,maildir/hyatt-k/inbox/21.,nancy.bagot@dynegy.com,El Paso FR conf. scheduled,person_written_correspondence,keep,2026-10-06,D18
+enron_014157,maildir/hyatt-k/inbox/41.,carries@tradefairgroup.com,Update - Natural Gas Infrastructure Conference,person_written_correspondence,keep,2026-10-06,D18
+enron_014163,maildir/hyatt-k/inbox/18.,rick_krejci@kindermorgan.com,MS 150 Pledge,person_written_correspondence,keep,2026-10-06,D18
+enron_014170,maildir/slinger-r/inbox/11.,9099632747@airmessage.net,Message from a two-way device,person_written_correspondence,keep,2026-10-06,D18
+enron_014171,maildir/slinger-r/inbox/47.,kelmo3@hotmail.com,hey! kelly here!claire gave me yo 411,person_written_correspondence,keep,2026-10-06,D18
+enron_014183,maildir/shackleton-s/inbox/807.,officeofthechairman@nymex.com,Exchange in Support of Feinstein Amendment,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_014209,maildir/shackleton-s/inbox/1053.,ted.leh@gs.com,Thank you one and all for making the Fed Wire deadline...,person_written_correspondence,keep,2026-10-06,D18
+enron_015622,maildir/beck-s/inbox/704.,bgibson50606@houston.rr.com,Prospective Membership Packet,person_written_correspondence,keep,2026-10-06,D18
+enron_015729,maildir/beck-s/inbox/229.,shrutigandhi_gupta@yahoo.com,Merry Xmas & Happy New Year!,person_written_correspondence,keep,2026-10-06,D18
+enron_015736,maildir/beck-s/inbox/397.,tom.hopwood@gte.net,Birkman Method On-Line Questionnaire,person_written_correspondence,keep,2026-10-06,D18
+enron_016098,maildir/arora-h/inbox/saved_mail/34.,cmeyers@kingstonmortgage.com,rates for refi,person_written_correspondence,keep,2026-10-06,D18
+enron_016130,maildir/sanders-r/inbox/29.,cesherman@hahnlaw.com,monthly update,person_written_correspondence,keep,2026-10-06,D18
+enron_016140,maildir/sanders-r/inbox/bid_ask/12.,bsims@velaw.com,Settlement conference,person_written_correspondence,keep,2026-10-06,D18
+enron_016258,maildir/shankman-j/inbox/58.,robert.brown.wh97@wharton.upenn.edu,Penn Career Network,person_written_correspondence,keep,2026-10-06,D18
+enron_016278,maildir/shankman-j/inbox/86.,lmrig@qwest.net,Upcoming Conferences and Recently Published Conference Proceedings,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016292,maildir/shankman-j/inbox/101.,booksonart@aol.com,Confirm ABE Book Order: Les Annees 30.,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_016416,maildir/whitt-m/inbox/153.,customerservice10@sierratradingpost.com,1967119/Shipping/Change of Method,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_016425,maildir/whitt-m/inbox/174.,ngarner@ipams.org,Possible Virus,person_written_correspondence,keep,2026-10-06,D18
+enron_016430,maildir/whitt-m/inbox/126.,john@pgsenergy.com,Working PGS Seminar Schedule Link,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016434,maildir/whitt-m/inbox/76.,ngarner@ipams.org,Rush Memo to IPAMS Membership,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016436,maildir/whitt-m/inbox/204.,ipams@ipams.org,Next Media Training Session,person_written_correspondence,keep,2026-10-06,D18
+enron_016438,maildir/whitt-m/inbox/412.,ipams@ipams.org,Upcoming Meetings & Events,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016447,maildir/whitt-m/inbox/736.,cornwell@ipams.org,VISA,person_written_correspondence,keep,2026-10-06,D18
+enron_016452,maildir/whitt-m/inbox/718.,johnwhitt@gvec.net,NADA,person_written_correspondence,keep,2026-10-06,D18
+enron_016470,maildir/whitt-m/inbox/49.,john@pgsenergy.com,PGS Winter/Spring Seminar Schedule,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016484,maildir/whitt-m/inbox/428.,htebs@huber.com,San Juan Proposal,person_written_correspondence,keep,2026-10-06,D18
+enron_016513,maildir/derrick-j/inbox/16.,tiusa@aol.com,Invitation to TI-USA Quarterly Meeting,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016522,maildir/derrick-j/inbox/73.,demetris@publicans.com,National Bar Association sponsorship,person_written_correspondence,keep,2026-10-06,D18
+enron_016527,maildir/derrick-j/inbox/126.,fsmith008@aol.com,Texas General Counsel Group - 2002 Spring Conference,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016567,maildir/derrick-j/inbox/17.,kersten.schenck@cliffordchance.com,Visit to Houston,person_written_correspondence,keep,2026-10-06,D18
+enron_016730,maildir/baughman-d/inbox/344.,highschoolalumni@highschoolalumni.com,Get CoolBlueOffers(R) Savings,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016735,maildir/baughman-d/inbox/262.,baughmanpatricia@hotmail.com,Happy Birthday Don Jr.,person_written_correspondence,keep,2026-10-06,D18
+enron_016758,maildir/baughman-d/inbox/253.,mark.schultz@pdq.net,New Saltwater Conservation Organization,person_written_correspondence,keep,2026-10-06,D18
+enron_016761,maildir/baughman-d/inbox/227.,getmorechannels@hotmail.com,GET A FREE SATELLITE DISH NOW,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016815,maildir/parks-j/inbox/177.,chyde@earthsat.com,"EarthSat/PIRA conference to be held in Houston, May 9th",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016822,maildir/parks-j/inbox/524.,customercare@fitrx.com,FitRx.com account,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_016839,maildir/parks-j/inbox/159.,jbelcher@chemweek.com,My New Position,person_written_correspondence,keep,2026-10-06,D18
+enron_016905,maildir/holst-k/inbox/47.,tripmaker@earthlink.net,FARE,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_016926,maildir/carson-m/inbox/70.,j.nesmith@prodigy.net,A & M Game,person_written_correspondence,keep,2026-10-06,D18
+enron_016927,maildir/carson-m/inbox/66.,seareel@neosoft.com,Golf Tournament,person_written_correspondence,keep,2026-10-06,D18
+enron_016930,maildir/carson-m/inbox/89.,seareel@neosoft.com,new e-mail address,person_written_correspondence,keep,2026-10-06,D18
+enron_016938,maildir/carson-m/inbox/52.,j.nesmith@prodigy.net,More football and bbq,person_written_correspondence,keep,2026-10-06,D18
+enron_016944,maildir/carson-m/inbox/125.,seareel@stpaulshouston.org,January meeting,person_written_correspondence,keep,2026-10-06,D18
+enron_017594,maildir/mims-thurston-p/inbox/140.,coldwatercreek.1621644.1427.0@thecreek.coldwatercreek.com,Picture this!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_017651,maildir/mims-thurston-p/inbox/313.,orders@newport-news.com,Your Newport News Order,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_017763,maildir/davis-d/inbox/wells/3.,wendykoeb@springisd.org,phone call,person_written_correspondence,keep,2026-10-06,D18
+enron_018294,maildir/lucci-p/inbox/202.,christine.d.sinn@xcelenergy.com,Prairie Island Contingent Bid RFP pre-bid Conference CallMeeting,person_written_correspondence,keep,2026-10-06,D18
+enron_018325,maildir/swerzbin-m/inbox/259.,john.topgear@ukgateway.net,I'm a real racing driver now Mike!,person_written_correspondence,keep,2026-10-06,D18
+enron_018359,maildir/arnold-j/inbox/29.,swl@winelibrary.com,"3 announcements-Tasting,Catalog,Big Sale!!!",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_018667,maildir/ward-k/inbox/264.,specialdeals@lists.em5000.com,URGENT MESSAGE FOR YOU,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_018710,maildir/sager-e/inbox/30.,howard@wrightlaw.com,November Mtg. Conference Call-In Information,person_written_correspondence,keep,2026-10-06,D18
+enron_018714,maildir/sager-e/inbox/928.,jeppnp@aol.com,AOS,person_written_correspondence,keep,2026-10-06,D18
+enron_018715,maildir/sager-e/inbox/872.,ecomer@eei.org,EEI Contract/Future Meetings,person_written_correspondence,keep,2026-10-06,D18
+enron_018732,maildir/sager-e/inbox/514.,howard@wrightlaw.com,Follow-up conference call on margin/collateral agreements,person_written_correspondence,keep,2026-10-06,D18
+enron_018740,maildir/sager-e/inbox/376.,ecomer@eei.org,Invitation: Conference Call re: Transition of Into Product to MISO (Nov 2910:00 AM EST),person_written_correspondence,keep,2026-10-06,D18
+enron_018744,maildir/sager-e/inbox/347.,dmarkey@pdq.net,"HHA General Meeting Monday, November 12th",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_018748,maildir/sager-e/inbox/39.,mikec@ippso.org,IPPSO 2001 Conference and Trade Show,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_018790,maildir/sager-e/inbox/449.,howard@wrightlaw.com,12/19/01 Conference Call Rescheduled,person_written_correspondence,keep,2026-10-06,D18
+enron_018797,maildir/sager-e/inbox/356.,aepin@aep.com,Conference Call re: Transition of Into Product to MISO,person_written_correspondence,keep,2026-10-06,D18
+enron_018805,maildir/sager-e/inbox/887.,ntillett@reliant.com,"""Into"" Products",person_written_correspondence,keep,2026-10-06,D18
+enron_018846,maildir/sager-e/inbox/184.,akatz@eei.org,Upcoming EEI Contract Activities,person_written_correspondence,keep,2026-10-06,D18
+enron_018858,maildir/sager-e/inbox/207.,akatz@eei.org,Conference Call Info,person_written_correspondence,keep,2026-10-06,D18
+enron_018869,maildir/sager-e/inbox/227.,akatz@eei.org,Availability for Conference Call,person_written_correspondence,keep,2026-10-06,D18
+enron_019107,maildir/watson-k/inbox/142.,pabrown@socalgas.com,Conference Call,person_written_correspondence,keep,2026-10-06,D18
+enron_019117,maildir/watson-k/inbox/139.,dee.espinoza@travelpark.com,Ferry,person_written_correspondence,keep,2026-10-06,D18
+enron_019143,maildir/watson-k/inbox/105.,groves.ned@mayo.edu,Moving Forward with RM,person_written_correspondence,keep,2026-10-06,D18
+enron_019170,maildir/williams-j/inbox/81.,support@newpower.com,Welcome to NewPower!!!,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_019196,maildir/williams-j/inbox/91.,greg_wilson@es.adp.com,beach house details,person_written_correspondence,keep,2026-10-06,D18
+enron_019241,maildir/mcconnell-m/inbox/7.,lesliewmadams@aol.com,HABITAT NEWS,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019426,maildir/campbell-l/inbox/21.,1800flowers@1800flowers.flonetwork.com,Send Back To School gifts that get an A+!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019430,maildir/campbell-l/inbox/918.,1800flowers.152845755@s2u2.com,Send a friend a gift during National Friendship Week!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019435,maildir/campbell-l/inbox/347.,1800flowers@1800flowers.flonetwork.com,Get your Halloween gifts early at 1-800-FLOWERS.COM(R)!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019449,maildir/campbell-l/inbox/1020.,americandiam@earthlink.net,Incredible Diamond Sale!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019454,maildir/campbell-l/inbox/666.,aaron@global2000.net,FERC RTO Meeting Rescheduled,person_written_correspondence,keep,2026-10-06,D18
+enron_019458,maildir/campbell-l/inbox/237.,messenger@smartreminders.com,Give relief,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_019460,maildir/campbell-l/inbox/264.,1800flowers@1800flowers.flonetwork.com,Get a FREE personalized card at 1-800-FLOWERS.COM!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019461,maildir/campbell-l/inbox/57.,mbauer@keyspanenergy.com,EDI Conference,person_written_correspondence,keep,2026-10-06,D18
+enron_019465,maildir/campbell-l/inbox/83.,jcfleury@nyseg.com,NYS Reliability Council Executive Committee,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019468,maildir/campbell-l/inbox/216.,messenger@smartreminders.com,You can help,automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_019480,maildir/campbell-l/inbox/1061.,bounce@corp.freerealtime.com,RedChip Specialty Retail Webcast,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019488,maildir/campbell-l/inbox/684.,1800flowers.133139412@s2u2.com,Hurry for hot savings on summer roses!,bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019496,maildir/campbell-l/inbox/95.,1800flowers@1800flowers.flonetwork.com,"LARRY, here is a $15 Electronic Gift Certificate for you!",bulk_promotional_or_organizational_mailing,exclude,2026-10-06,D18
+enron_019503,maildir/campbell-l/inbox/794.,mailbot@datek.com,"""Datek Online Rebate Credit""",automated_transactional_or_system_notice,exclude,2026-10-06,D18
+enron_019511,maildir/campbell-l/inbox/645.,custserv@sportingbetusa.com,Important Notice!,automated_transactional_or_system_notice,exclude,2026-10-06,D18
