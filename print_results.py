@@ -91,7 +91,9 @@ def change_text(row: dict | None, decimals: int = 3) -> str:
 
 def shapiro(src: Source, rq: str, analysis: str, metric: str = "d_prime") -> str:
     row = next((r for r in src.rows(rq, analysis, "normality_assumption_summary") if r["metric"] == metric), None)
-    return "not available" if row is None else p_text(row["shapiro_wilk_p_value"])
+    if row is None or not row["shapiro_wilk_p_value"]:  # blank when there are too few iterations (--quick)
+        return "not available"
+    return p_text(row["shapiro_wilk_p_value"])
 
 
 def family(src: Source, rq: str, analysis: str, metric: str) -> dict | None:

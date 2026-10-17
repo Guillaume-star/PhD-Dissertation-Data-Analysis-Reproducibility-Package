@@ -19,6 +19,7 @@ import os
 import shutil
 import subprocess
 import sys
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -98,6 +99,38 @@ def setup(ws: Path) -> None:
     (raw / "enron").mkdir(exist_ok=True)  # the Enron archive is added by ensure_enron_archive()
 
 
+def download_enron(partial: Path, manual_folder: Path, attempts: int = 4) -> None:
+    """Download the Enron archive, resuming after a stall (the server can be slow)."""
+    for attempt in range(1, attempts + 1):
+        have = partial.stat().st_size if partial.exists() else 0
+        request = urllib.request.Request(ENRON_URL, headers={"Range": f"bytes={have}-"} if have else {})
+        try:
+            with urllib.request.urlopen(request, timeout=120) as response:
+                if have and response.status != 206:  # server ignored the resume request: start over
+                    have = 0
+                with partial.open("ab" if have else "wb") as handle:
+                    done = have
+                    for block in iter(lambda: response.read(1 << 20), b""):
+                        handle.write(block)
+                        done += len(block)
+                        if done % (50 << 20) < (1 << 20):
+                            print(f"  {done >> 20} MB", flush=True)
+            return
+        except urllib.error.HTTPError as error:
+            if error.code == 416 and have:  # nothing left to send: the partial file is already complete
+                return
+            last_error = error
+        except OSError as error:
+            last_error = error
+        if attempt < attempts:
+            print(f"  download interrupted ({last_error}); resuming (attempt {attempt + 1} of {attempts})", flush=True)
+        else:
+            partial.unlink(missing_ok=True)
+            raise SystemExit(f"STOP: the Enron download failed ({last_error}).\n"
+                             f"Download {ENRON_URL} yourself, rename it enron.tar.gz,\n"
+                             f"and put it in {manual_folder} (create the folder if needed), then run this again.")
+
+
 def ensure_enron_archive(ws: Path) -> None:
     """Put the raw Enron archive in the workspace, downloading it if the package does not include it."""
     target = ws / "raw" / ENRON_ARCHIVE
@@ -107,21 +140,8 @@ def ensure_enron_archive(ws: Path) -> None:
             link_or_copy(local, target)
         else:
             print(f"The raw Enron archive is not in this copy of the package. Downloading it (423 MB) from\n  {ENRON_URL}")
-            partial = target.with_name(target.name + ".part")
-            try:
-                with urllib.request.urlopen(ENRON_URL, timeout=60) as response, partial.open("wb") as handle:
-                    done = 0
-                    for block in iter(lambda: response.read(1 << 20), b""):
-                        handle.write(block)
-                        done += len(block)
-                        if done % (50 << 20) < (1 << 20):
-                            print(f"  {done >> 20} MB", flush=True)
-            except OSError as error:
-                partial.unlink(missing_ok=True)
-                raise SystemExit(f"STOP: the Enron download failed ({error}).\n"
-                                 f"Download {ENRON_URL} yourself, rename it enron.tar.gz,\n"
-                                 f"and put it in {local.parent}, then run this again.")
-            partial.rename(target)
+            download_enron(target.with_name(target.name + ".part"), local.parent)
+            target.with_name(target.name + ".part").rename(target)
     actual = sha256(target)
     if actual != ENRON_SHA256:
         raise SystemExit(f"STOP: {target} is not the archive used in the study.\n  expected {ENRON_SHA256}\n  got      {actual}")

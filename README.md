@@ -5,6 +5,8 @@ Guillaume Kanh, DSRT-930
 
 This package contains the data, code, and outputs behind every result in Chapter 4.
 
+**Prefer a notebook?** Open **`Reproducibility_Notebook.ipynb`** (Jupyter, VS Code, or Google Colab). It runs each option below in its own cell: view all results, check the files, a quick test rerun, and the full rerun.
+
 ## See the results without running anything
 
 Open **`RESULTS_SUMMARY.html`** in a web browser: every Chapter 4 result (RQ1 to RQ3, Tables 1 and 2, the sensitivity analyses, AUC-ROC, and the outlier check), read directly from the output files.
@@ -15,7 +17,7 @@ To produce it yourself:
 python print_results.py
 ```
 
-This prints the same results in the terminal, confirms that the data files match their frozen checksums, and saves `RESULTS_SUMMARY.html`. Only the Python standard library is needed.
+This prints the same results in the terminal, confirms that the data files match their frozen checksums, and saves `RESULTS_SUMMARY.html`. Only the Python standard library is needed. On a Mac or Linux computer where `python` is not found, use `python3` in all commands.
 
 ## What is in the package
 
