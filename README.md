@@ -7,6 +7,8 @@ This package contains the data, code, and outputs behind every result in Chapter
 
 **Prefer a notebook?** Open **`Reproducibility_Notebook.ipynb`** (Jupyter, VS Code, or Google Colab). It runs each option below in its own cell: view all results, check the files, a quick test rerun, and the full rerun.
 
+**Want to see each step of the analysis?** Open **`Analysis_Walkthrough.ipynb`**. It follows Appendix E of the dissertation, from the dataset counts (Table C1) to Table 2, using the study's own code and saved outputs, and retrains the classical models for the first iteration to show that they reproduce the saved results. It runs in under a minute and needs no GPU.
+
 ## See the results without running anything
 
 Open **`RESULTS_SUMMARY.html`** in a web browser: every Chapter 4 result (RQ1 to RQ3, Tables 1 and 2, the sensitivity analyses, AUC-ROC, and the outlier check), read directly from the output files.
@@ -28,7 +30,7 @@ This prints the same results in the terminal, confirms that the data files match
 | `gap_search/` | Literature search of October 13, 2026: original database exports, deduplication log, and screening decisions. `About_This_Search.md` explains how each record was labeled by closeness to this study's design |
 | `docs/` | `Decision_Summary.md` (data decisions in brief), `Sensitivity_Analyses_Explained.md`, and the full decision log |
 | `data/raw/` | Raw Enron and Nazario files (the GitHub copy leaves out the 423 MB Enron archive; see below) |
-| `data/final/` | Final dataset (`Final_Paired_Email_Dataset.csv`), the two sensitivity-analysis inputs, and the independent audit of the final dataset |
+| `data/final/` | Final dataset (`Final_Paired_Email_Dataset.csv`), the two sensitivity-analysis inputs, the independent audit of the final dataset, and the dataset preparation counts (Table C1) |
 | `data/enhancement/` | The GPT-5.4-mini enhancement outputs and attempt log used to build the final dataset |
 | `code/` | All scripts used by `run_all.py` |
 
@@ -55,6 +57,6 @@ Other options: `--quick` (2 iterations per analysis, a fast test only), `--stage
 
 - **Result folder names follow Table 2.** Inside the files, the original run labels still appear: `grouped` (primary), `random`, `S2_masked` (masked identifiers), `S3_relaxed` (with bulk emails), `S4_no_repeated` (without repeated-passage pairs), and `S5` (outlier check).
 - **Most heavily edited pairs.** 14 pairs with a token edit distance of .20 or more were reviewed, and none failed. 3 were later removed because the source email used split-word obfuscation, leaving the 11 reported in Chapter 3. The `status` column shows which.
-- **Dataset counts (Table C1).** The rerun writes the count at each cleaning stage to the workspace (`processed/`).
+- **Dataset counts (Table C1).** The rerun writes the count at each cleaning stage to the workspace (`processed/`). The counts from the study's rebuild are saved in `data/final/Dataset_Preparation_Counts.csv`.
 - **CSV files** are saved as UTF-8 so Excel displays accented and look-alike characters correctly.
 - **Data sources.** Enron Email Dataset (Cohen, 2015, https://www.cs.cmu.edu/~enron/) and Nazario Phishing Corpus (https://monkey.org/~jose/phishing/). Checksums of all files are in `CHECKSUMS_SHA256.txt`. In the GitHub copy, check them with `shasum -a 256 -c --ignore-missing CHECKSUMS_SHA256.txt`, because the Enron archive is listed there but not included.
