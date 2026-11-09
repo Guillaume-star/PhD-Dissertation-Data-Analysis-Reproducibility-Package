@@ -17,7 +17,7 @@ from pathlib import Path
 PACKAGE = Path(__file__).resolve().parent
 RESULTS = PACKAGE / "results"
 
-ANALYSES = [  # (folder name, label in Table 2)
+ANALYSES = [  # (folder name, label in Table 3)
     ("primary_grouped_split", "Primary (grouped split)"),
     ("random_split", "Random split"),
     ("masked_identifiers", "Masked identifiers"),
@@ -135,7 +135,7 @@ def rq3_section(src: Source) -> list[str]:
 
 
 def table1(src: Source) -> list[str]:
-    out = ["## Table 1: Model-level average d′ (primary analysis; descriptive only)", "",
+    out = ["## Table 2: Model-level average d′ (primary analysis; descriptive only)", "",
            "| Model family | Model | Baseline mean d′ | Enhanced mean d′ | Mean difference |", "|---|---|---|---|---|"]
     for rq, fam in (("RQ1", "Classical ML"), ("RQ2", "Deep learning")):
         for r in sorted((r for r in src.rows(rq, "primary_grouped_split", "metric_summary")
@@ -187,7 +187,7 @@ def report(src: Source, title: str) -> list[str]:
     lines += rq12_section(src, "RQ2", "RQ2: Deep learning (primary analysis)")
     lines += rq3_section(src)
     lines += table1(src)
-    lines += table2(src, "d_prime", "Table 2: Change in d′, primary and sensitivity analyses", 3)
+    lines += table2(src, "d_prime", "Table 3: Change in d′, primary and sensitivity analyses", 3)
     lines += table2(src, "roc_auc", "Change in AUC-ROC, primary and sensitivity analyses (complementary metric)", 5)
     lines += outlier_section(src)
     return lines

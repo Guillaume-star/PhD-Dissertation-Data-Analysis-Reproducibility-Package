@@ -32,10 +32,14 @@ EXPECTED = {
     "final": "25dcf2247880d249e5bd188c5c7624b843764838dc39c476543ad5ada86ac47d",
     "with_bulk": "2fdc429d04576f2d41fa55a71f8049a6f92dd67fa9e9ad68b139bb7a13095b55",
 }
-# The raw Enron archive (423 MB) is too large for GitHub, so a copy without it
-# downloads the identical public file the first time the dataset is rebuilt.
+# The raw Enron archive (423 MB) is too large for the repository, so a copy without it
+# downloads the study's copy, attached to the v1.0 release, the first time the dataset
+# is rebuilt; the public CMU file is the fallback. Either must match ENRON_SHA256.
 ENRON_ARCHIVE = Path("enron") / "enron.tar.gz"
-ENRON_URL = "https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz"
+ENRON_URLS = (
+    "https://github.com/Guillaume-star/PhD-Dissertation-Data-Analysis-Reproducibility-Package/releases/download/v1.0/enron.tar.gz",
+    "https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz",
+)
 ENRON_SHA256 = "b3da1b3fe0369ec3140bb4fbce94702c33b7da810ec15d718b3fadf5cd748ca7"
 PRIMARY_ITERATIONS, SENSITIVITY_ITERATIONS = 500, 100
 REPEATED_PASSAGE_PAIRS = "nazario_001874,nazario_000153"
@@ -99,11 +103,11 @@ def setup(ws: Path) -> None:
     (raw / "enron").mkdir(exist_ok=True)  # the Enron archive is added by ensure_enron_archive()
 
 
-def download_enron(partial: Path, manual_folder: Path, attempts: int = 4) -> None:
+def download_enron(url: str, partial: Path, manual_folder: Path, attempts: int = 4) -> None:
     """Download the Enron archive, resuming after a stall (the server can be slow)."""
     for attempt in range(1, attempts + 1):
         have = partial.stat().st_size if partial.exists() else 0
-        request = urllib.request.Request(ENRON_URL, headers={"Range": f"bytes={have}-"} if have else {})
+        request = urllib.request.Request(url, headers={"Range": f"bytes={have}-"} if have else {})
         try:
             with urllib.request.urlopen(request, timeout=120) as response:
                 if have and response.status != 206:  # server ignored the resume request: start over
@@ -127,7 +131,7 @@ def download_enron(partial: Path, manual_folder: Path, attempts: int = 4) -> Non
         else:
             partial.unlink(missing_ok=True)
             raise SystemExit(f"STOP: the Enron download failed ({last_error}).\n"
-                             f"Download {ENRON_URL} yourself, rename it enron.tar.gz,\n"
+                             f"Download {url} yourself, rename it enron.tar.gz,\n"
                              f"and put it in {manual_folder} (create the folder if needed), then run this again.")
 
 
@@ -139,9 +143,17 @@ def ensure_enron_archive(ws: Path) -> None:
         if local.exists():
             link_or_copy(local, target)
         else:
-            print(f"The raw Enron archive is not in this copy of the package. Downloading it (423 MB) from\n  {ENRON_URL}")
-            download_enron(target.with_name(target.name + ".part"), local.parent)
-            target.with_name(target.name + ".part").rename(target)
+            partial = target.with_name(target.name + ".part")
+            for number, url in enumerate(ENRON_URLS, 1):
+                print(f"The raw Enron archive is not in this copy of the package. Downloading it (423 MB) from\n  {url}")
+                try:
+                    download_enron(url, partial, local.parent)
+                    break
+                except SystemExit:
+                    if number == len(ENRON_URLS):
+                        raise
+                    print("  trying the next source", flush=True)
+            partial.rename(target)
     actual = sha256(target)
     if actual != ENRON_SHA256:
         raise SystemExit(f"STOP: {target} is not the archive used in the study.\n  expected {ENRON_SHA256}\n  got      {actual}")

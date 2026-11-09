@@ -1,0 +1,4 @@
+class,units,families,single_unit_families,largest_family,largest_family_share,units_in_families_larger_than_10
+legitimate,19393.0,18403,18084.0,295.0,0.015211674315474656,459.0
+phishing,3477.0,2560,2195.0,97.0,0.027897612884670693,330.0
+families_with_both_classes,,0,,,,

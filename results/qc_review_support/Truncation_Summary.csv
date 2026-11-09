@@ -1,0 +1,4 @@
+variant,emails,over_limit,median_tokens,over_limit_share
+enhanced_phishing,3477,263,123.0,0.07563991947080817
+legitimate,19393,833,70.0,0.04295364306708606
+original_phishing,3477,263,122.0,0.07563991947080817

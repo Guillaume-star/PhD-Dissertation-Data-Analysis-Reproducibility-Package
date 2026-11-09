@@ -2,7 +2,7 @@
 
 Each sensitivity analysis changes one decision that could reasonably be questioned
 and checks whether the result depends on it. Each repeats RQ1 to RQ3 with 100
-train-test splits. Results are in Table 2 and in `results/`.
+train-test splits. Results are in Table 3 and in `results/`.
 
 **Result:** in all four analyses, no change in d′ was statistically significant for
 either model family, and the two families did not differ (all p > .16).

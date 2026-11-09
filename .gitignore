@@ -1,4 +1,4 @@
-# Too large for GitHub (423 MB); run_all.py downloads the identical public file when needed
+# Too large for the repository (423 MB); attached to the v1.0 release, and run_all.py downloads it when needed
 data/raw/enron/enron.tar.gz
 
 # Rerun outputs and local clutter

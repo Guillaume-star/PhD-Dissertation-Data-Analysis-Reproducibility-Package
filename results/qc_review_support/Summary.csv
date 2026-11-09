@@ -1,0 +1,17 @@
+figure,value
+test_share_min,0.3
+test_share_mean,0.30006182772190637
+test_share_max,0.30568430257979884
+legitimate_families,18403.0
+phishing_families,2560.0
+largest_legitimate_family,295.0
+largest_phishing_family,97.0
+legitimate_over_300_tokens_share,0.04295364306708606
+phishing_over_300_tokens_share,0.07563991947080817
+pairs_either_version_over_limit,264.0
+pairs_crossing_limit,2.0
+pairs_with_changes_after_limit,193.0
+pairs_identical_after_tokenization,393.0
+median_token_edit_distance,0.027027027027026973
+p90_token_edit_distance,0.08517235691901702
+pairs_identical_after_normalization,58.0
